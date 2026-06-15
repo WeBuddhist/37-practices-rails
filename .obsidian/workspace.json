@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-TRANSFORMATIONS/Plans/About Plans.md",
+                "file": "1-SOURCES/Text/bo-རྒྱལ་སྲས་ཐོགས་མེད་བཟང་པོ།.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "About Plans"
+              "title": "bo-རྒྱལ་སྲས་ཐོགས་མེད་བཟང་པོ།"
             }
           }
         ]
@@ -205,16 +205,17 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "15014ceefa497d3c",
+  "active": "15f738fba38dda4c",
   "lastOpenFiles": [
-    "1-SOURCES/Text/རྒྱལ་སྲས་ལག་ལེན་སོ་བདུན་མ།.md",
-    "conflict-files-obsidian-git.md",
+    "1-SOURCES/Text/bo-རྒྱལ་སྲས་ཐོགས་མེད་བཟང་པོ.md",
+    "1-SOURCES/Commentaries/bo-ཐུབ་བསྟན་ཆོས་ཀྱི་གྲགས་པ།.md",
     "1-SOURCES/Text/bo-རྒྱལ་སྲས་ཐོགས་མེད་བཟང་པོ།.md",
+    "3-TRANSFORMATIONS/Plans/About Plans.md",
+    "conflict-files-obsidian-git.md",
     "1-SOURCES/Translations/zh-普舟-噶千佛學會 Garchen Institute.md",
     "1-SOURCES/Translations/En-Adam Pearcey, Lotsawa House.md",
     "4-SYSTEM/Skills/format-root-text/SKILL.md",
     "4-SYSTEM/Skills/root-text-frontmatter/SKILL.md",
-    "3-TRANSFORMATIONS/Plans/About Plans.md",
     "gemini-scribe/Scheduled-Tasks/Runs",
     "gemini-scribe/Skills",
     "gemini-scribe/Background-Tasks",
