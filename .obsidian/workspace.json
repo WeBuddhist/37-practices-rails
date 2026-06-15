@@ -189,13 +189,24 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "5bd97834bb240bb8",
+            "type": "leaf",
+            "state": {
+              "type": "gemini-agent-view",
+              "state": {},
+              "icon": "sparkles",
+              "title": "Agent Mode"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -210,10 +221,12 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "eb2538ea3fa47051",
+  "active": "03da732488b4f91c",
   "lastOpenFiles": [
-    "3-TRANSFORMATIONS/Plans/About Plans.md",
+    "4-SYSTEM/Skills/format-root-text/SKILL.md",
+    "4-SYSTEM/Skills/root-text-frontmatter/SKILL.md",
     "1-SOURCES/Text/རྒྱལ་སྲས་ལག་ལེན་སོ་བདུན་མ།.md",
+    "3-TRANSFORMATIONS/Plans/About Plans.md",
     "gemini-scribe/Scheduled-Tasks/Runs",
     "gemini-scribe/Skills",
     "gemini-scribe/Background-Tasks",
