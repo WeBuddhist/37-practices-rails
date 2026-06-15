@@ -201,12 +201,11 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -221,11 +220,11 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "03da732488b4f91c",
+  "active": "5bd97834bb240bb8",
   "lastOpenFiles": [
     "4-SYSTEM/Skills/format-root-text/SKILL.md",
-    "4-SYSTEM/Skills/root-text-frontmatter/SKILL.md",
     "1-SOURCES/Text/རྒྱལ་སྲས་ལག་ལེན་སོ་བདུན་མ།.md",
+    "4-SYSTEM/Skills/root-text-frontmatter/SKILL.md",
     "3-TRANSFORMATIONS/Plans/About Plans.md",
     "gemini-scribe/Scheduled-Tasks/Runs",
     "gemini-scribe/Skills",
