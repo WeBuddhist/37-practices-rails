@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "bo-ཐུབ་བསྟན་ཆོས་ཀྱི་གྲགས་པ།"
             }
+          },
+          {
+            "id": "8ea13acd5b43e5de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -205,13 +220,13 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "15f738fba38dda4c",
+  "active": "8ea13acd5b43e5de",
   "lastOpenFiles": [
+    "1-SOURCES/Commentaries/bo-ཐུབ་བསྟན་ཆོས་ཀྱི་གྲགས་པ།.md",
+    "conflict-files-obsidian-git.md",
     "1-SOURCES/Text/bo-རྒྱལ་སྲས་ཐོགས་མེད་བཟང་པོ།.md",
     "1-SOURCES/Text/bo-རྒྱལ་སྲས་ཐོགས་མེད་བཟང་པོ.md",
-    "1-SOURCES/Commentaries/bo-ཐུབ་བསྟན་ཆོས་ཀྱི་གྲགས་པ།.md",
     "3-TRANSFORMATIONS/Plans/About Plans.md",
-    "conflict-files-obsidian-git.md",
     "1-SOURCES/Translations/zh-普舟-噶千佛學會 Garchen Institute.md",
     "1-SOURCES/Translations/En-Adam Pearcey, Lotsawa House.md",
     "4-SYSTEM/Skills/format-root-text/SKILL.md",
