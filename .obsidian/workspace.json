@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-SOURCES/Commentaries/bo-སྐྱབས་རྗེ་མཁན་ཆེན་ཁྲ་འགུ་རིན་པོ་ཆེ།.md",
+                "file": "1-SOURCES/Translations/zh-普舟-噶千佛學會 Garchen Institute.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "bo-སྐྱབས་རྗེ་མཁན་ཆེན་ཁྲ་འགུ་རིན་པོ་ཆེ།"
+              "title": "zh-普舟-噶千佛學會 Garchen Institute"
             }
           }
         ]
@@ -201,33 +201,35 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "eb2538ea3fa47051",
+  "active": "8c4bbf9d454516b1",
   "lastOpenFiles": [
-    "1-SOURCES/Commentaries/bo-སྐྱབས་རྗེ་མཁན་ཆེན་ཁྲ་འགུ་རིན་པོ་ཆེ།.md.tmp.14928.caa715944364",
-    "1-SOURCES/Commentaries/bo-སྐྱབས་རྗེ་མཁན་ཆེན་ཁྲ་འགུ་རིན་པོ་ཆེ།.md",
-    "1-SOURCES/Commentaries/bo-ཐུབ་བསྟན་ཆོས་ཀྱི་གྲགས་པ།.md",
-    "1-SOURCES/Text/bo-རྒྱལ་སྲས་ཐོགས་མེད་བཟང་པོ.md",
-    "conflict-files-obsidian-git.md",
-    "1-SOURCES/Text/bo-རྒྱལ་སྲས་ཐོགས་མེད་བཟང་པོ།.md",
-    "3-TRANSFORMATIONS/Plans/About Plans.md",
-    "1-SOURCES/Translations/zh-普舟-噶千佛學會 Garchen Institute.md",
     "1-SOURCES/Translations/En-Adam Pearcey, Lotsawa House.md",
-    "4-SYSTEM/Skills/format-root-text/SKILL.md",
-    "4-SYSTEM/Skills/root-text-frontmatter/SKILL.md",
+    "1-SOURCES/Translations/zh-普舟-噶千佛學會 Garchen Institute.md",
+    "1-SOURCES/About Sources.md",
+    "1-SOURCES/Text/bo-རྒྱལ་སྲས་ཐོགས་མེད་བཟང་པོ.md",
+    "3-TRANSFORMATIONS/Translations/About Translations.md",
+    "1-SOURCES/Commentaries/bo-སྐྱབས་རྗེ་མཁན་ཆེན་ཁྲ་འགུ་རིན་པོ་ཆེ།.md",
     "gemini-scribe/Scheduled-Tasks/Runs",
     "gemini-scribe/Skills",
     "gemini-scribe/Background-Tasks",
     "gemini-scribe/Agent-Sessions",
+    "1-SOURCES/Commentaries/bo-སྐྱབས་རྗེ་མཁན་ཆེན་ཁྲ་འགུ་རིན་པོ་ཆེ།.md.tmp.14928.caa715944364",
+    "1-SOURCES/Commentaries/bo-ཐུབ་བསྟན་ཆོས་ཀྱི་གྲགས་པ།.md",
+    "conflict-files-obsidian-git.md",
+    "1-SOURCES/Text/bo-རྒྱལ་སྲས་ཐོགས་མེད་བཟང་པོ།.md",
+    "3-TRANSFORMATIONS/Plans/About Plans.md",
+    "4-SYSTEM/Skills/format-root-text/SKILL.md",
+    "4-SYSTEM/Skills/root-text-frontmatter/SKILL.md",
     "CLAUDE.md",
     "CLAUDE.md.tmp.30504.1a50d75861ed",
     "3-TRANSFORMATIONS/Plans/sedgLGgXf",
     "3-TRANSFORMATIONS/Plans/sedMpWUGZ",
     "3-TRANSFORMATIONS/sedVLEYhd",
     "3-TRANSFORMATIONS/Adaptations/About Adaptations.md.tmp.39444.01abd713de5a",
-    "3-TRANSFORMATIONS/Translations/About Translations.md.tmp.39444.35576b3e10fe",
     "4-SYSTEM/How-to guides/Sync with rails-template.md",
     "4-SYSTEM/Guidelines/skills-system.md",
     "4-SYSTEM/Skills/vault-audit/SKILL.md",
