@@ -1,6 +1,7 @@
 ---
 title: 佛子行三十七根本頌
 translator: 嚴定法師
+revised_by: 堪布竹清嘉措仁波切
 date: 2019
 language: Chinese (Traditional)
 file_type: translation
@@ -8,12 +9,13 @@ lang_tag: zh
 verse_id_format: chapter-verse
 root_text: 1-SOURCES/Text/bo-རྒྱལ་སྲས་ཐོགས་མེད་བཟང་པོ.md
 covers_verses: 0-1–2-4
-source_description: "台灣噶千佛學會《噶千佛子行》印刷版〈佛子行三十七根本頌〉，2019"
+published_in: "《〈佛子行三十七頌〉心要：慈愛‧實踐》，噶千仁波切講，張昆晟（敦珠貝瑪南嘉）譯，台灣噶千佛學會"
+source_description: "台灣噶千佛學會印刷版〈佛子行三十七根本頌〉，2019"
 ---
 
 # 佛子行三十七根本頌
 
-[Ed: Original Chinese translation by 嚴定法師; lightly revised in the light of Khenpo Tsultrim Gyamtso Rinpoche's (堪布竹清嘉措仁波切) commentary, per the publisher's note at ^2-5.]
+[Ed: Root-verse translation by 嚴定法師, lightly revised in the light of Khenpo Tsultrim Gyamtso Rinpoche's (堪布竹清嘉措仁波切) commentary, per the publisher's note at ^2-5. These verses are reproduced as the root text inside 《〈佛子行三十七頌〉心要：慈愛‧實踐》, a volume translated by 張昆晟 (敦珠貝瑪南嘉) — 張昆晟 is the translator of the teaching in 1-SOURCES/Commentaries/zh-噶千仁波切.md, not of these verses.]
 
 [Ed: Section headings 供養立誓 / 正文 / 結文 are the printed edition's own. In the printed edition 結文 opens at verse 35; here the heading structure follows the Tibetan root text so that block IDs align. Verses 35–37 therefore remain under `## 1. 正文`.]
 

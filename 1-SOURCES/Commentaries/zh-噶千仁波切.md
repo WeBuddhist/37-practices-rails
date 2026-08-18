@@ -1,6 +1,7 @@
 ---
 title: 〈佛子行三十七頌〉心要：慈愛‧實踐
 author: 噶千仁波切 Garchen Rinpoche
+translator: 張昆晟（敦珠貝瑪南嘉）
 language: Chinese (Traditional)
 script: Traditional Chinese
 file_type: commentary
@@ -9,12 +10,14 @@ verse_id_format: section-paragraph
 registered_id: garchen
 root_text: 1-SOURCES/Text/bo-རྒྱལ་སྲས་ཐོགས་མེད་བཟང་པོ.md
 covers_verses: 0-1–1-2
-source_description: "《〈佛子行三十七頌〉心要：慈愛‧實踐》pp. 16–56（頂禮句、禮讚文、立誓造論、第一頌、第二頌）"
+source_description: "《〈佛子行三十七頌〉心要：慈愛‧實踐》，台灣噶千佛學會，pp. 16–56（頂禮句、禮讚文、立誓造論、第一頌、第二頌）"
 ---
 
 # 〈佛子行三十七頌〉心要：慈愛‧實踐
 
-[Ed: Chinese-language record of Garchen Rinpoche's oral teaching. This file covers pp. 16–56 of the printed edition only — root verses ^0-1 through ^1-2. Section, sub-section and sub-sub-section divisions reproduce the printed edition's own three heading levels.]
+[Ed: Chinese-language record of Garchen Rinpoche's oral teaching, translated from the Tibetan by 張昆晟 (敦珠貝瑪南嘉). This file covers pp. 16–56 of the printed edition only — root verses ^0-1 through ^1-2. Section, sub-section and sub-sub-section divisions reproduce the printed edition's own three heading levels.]
+
+[Ed: The root verses quoted at the head of each section are 嚴定法師's translation as revised, not 張昆晟's — they are transcluded from 1-SOURCES/Translations/zh-嚴定法師-噶千佛學會 Garchen Institute.md.]
 
 ## 1. 頂禮句 ^1-0
 
