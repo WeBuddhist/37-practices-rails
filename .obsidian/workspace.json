@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-SOURCES/Commentaries/zh-噶千仁波切.md",
+                "file": "2-RAILS/About Rails.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "zh-噶千仁波切"
+              "title": "About Rails"
             }
           }
         ]
@@ -209,20 +209,20 @@
   },
   "active": "8c4bbf9d454516b1",
   "lastOpenFiles": [
-    "1-SOURCES/Translations/zh-嚴定法師-噶千佛學會 Garchen Institute.md",
+    "1-SOURCES/Commentaries/bo-ཐུབ་བསྟན་ཆོས་ཀྱི་གྲགས་པ།.md",
+    "1-SOURCES/Text/bo-རྒྱལ་སྲས་ཐོགས་མེད་བཟང་པོ.md",
+    "1-SOURCES/Commentaries/bo-སྐྱབས་རྗེ་མཁན་ཆེན་ཁྲ་འགུ་རིན་པོ་ཆེ།.md",
     "1-SOURCES/Commentaries/zh-噶千仁波切.md",
+    "1-SOURCES/Translations/zh-嚴定法師-噶千佛學會 Garchen Institute.md",
     "1-SOURCES/Translations/zh-普舟-噶千佛學會 Garchen Institute.md",
     "1-SOURCES/Translations/En-Adam Pearcey, Lotsawa House.md",
     "1-SOURCES/About Sources.md",
-    "1-SOURCES/Text/bo-རྒྱལ་སྲས་ཐོགས་མེད་བཟང་པོ.md",
     "3-TRANSFORMATIONS/Translations/About Translations.md",
-    "1-SOURCES/Commentaries/bo-སྐྱབས་རྗེ་མཁན་ཆེན་ཁྲ་འགུ་རིན་པོ་ཆེ།.md",
     "gemini-scribe/Scheduled-Tasks/Runs",
     "gemini-scribe/Skills",
     "gemini-scribe/Background-Tasks",
     "gemini-scribe/Agent-Sessions",
     "1-SOURCES/Commentaries/bo-སྐྱབས་རྗེ་མཁན་ཆེན་ཁྲ་འགུ་རིན་པོ་ཆེ།.md.tmp.14928.caa715944364",
-    "1-SOURCES/Commentaries/bo-ཐུབ་བསྟན་ཆོས་ཀྱི་གྲགས་པ།.md",
     "conflict-files-obsidian-git.md",
     "1-SOURCES/Text/bo-རྒྱལ་སྲས་ཐོགས་མེད་བཟང་པོ།.md",
     "3-TRANSFORMATIONS/Plans/About Plans.md",
