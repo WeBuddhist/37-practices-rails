@@ -12,13 +12,14 @@ This skill populates the standard YAML frontmatter for a translation file (`file
 When asked to add or generate frontmatter for a translation file:
 
 1. **Read the file.** Read the target file, focusing on the title page, translator credits, colophon, and opening lines. Do not read the entire body text.
-2. **Identify the translator(s).** Record names in `Surname, Firstname` format, separated by semicolons if multiple. Use the name as it appears in the source.
-3. **Identify the target language.** This is the language the text was translated *into*. Assign the correct `lang_tag` from §12 of `1-SOURCES/About Sources.md`.
-4. **Identify the root text.** Determine which root text this is a translation of and record its vault path under `root_text`. If the corresponding file does not yet exist, leave a descriptive placeholder string (e.g., `"1-SOURCES/Text/[lang]-root-text.md — to be created"`).
-5. **Determine `verse_id_format`.** Block IDs in a translation correspond to the *source* verse numbering, not the translator's own numbering. Inspect the root text or notes to confirm the format (`chapter-verse`, `verse`, or `book-chapter-verse`).
-6. **Record `translation_basis`.** Note the edition or manuscript the translator worked from, as stated in the preface or colophon.
-7. **Record `covers_verses`** if the translation covers a known range (e.g., `1-1–10-58`). Omit if unclear.
-8. **Write the frontmatter** by inserting or replacing the YAML block at the top of the file.
+2. **Identify the translator(s).** Record names in `Surname, Firstname` format, separated by semicolons if multiple. Use the name as it appears in the source. `translator` names whoever produced the wording actually stored in this file — not the translator of a later volume that reprints it.
+3. **Check for a reviser and a host volume.** Buddhist publishers frequently reprint an older translation, lightly revised in the light of a particular commentary, as the root text inside somebody else's book. When the file says so, record the reviser under `revised_by` and the host volume under `published_in`, naming that volume's own translator where the colophon gives one. Omit both fields when neither applies.
+4. **Identify the target language.** This is the language the text was translated *into*. Assign the correct `lang_tag` from §12 of `1-SOURCES/About Sources.md`.
+5. **Identify the root text.** Determine which root text this is a translation of and record its vault path under `root_text`. If the corresponding file does not yet exist, leave a descriptive placeholder string (e.g., `"1-SOURCES/Text/[lang]-root-text.md — to be created"`).
+6. **Determine `verse_id_format`.** Block IDs in a translation correspond to the *source* verse numbering, not the translator's own numbering. Inspect the root text or notes to confirm the format (`chapter-verse`, `verse`, or `book-chapter-verse`).
+7. **Record `translation_basis`.** Note the edition or manuscript the translator worked from, as stated in the preface or colophon.
+8. **Record `covers_verses`** if the translation covers a known range (e.g., `1-1–10-58`). Omit if unclear.
+9. **Write the frontmatter** by inserting or replacing the YAML block at the top of the file.
 
 ## Frontmatter Template
 
@@ -26,6 +27,7 @@ When asked to add or generate frontmatter for a translation file:
 ---
 title:                        # title of the translation as it appears in the file
 translator:                   # Surname, Firstname; Surname, Firstname (semicolon-separated)
+revised_by:                   # who altered this wording after the translator — omit if none
 date:                         # publication year or decade, e.g. 1995
 language:                     # target language, e.g. English / French / German
 file_type: translation
@@ -34,6 +36,7 @@ verse_id_format:              # chapter-verse | verse | book-chapter-verse
 root_text:                    # vault path to the root text, e.g. 1-SOURCES/Text/[lang]-root-text.md
 translation_basis:            # edition the translator worked from, e.g. "[editor year] edition"
 covers_verses:                # verse range in block-ID format, e.g. 1-1–10-58 — omit if unknown
+published_in:                 # host volume, if this translation is reprinted inside another work — omit if none
 source_description:           # REQUIRED — e.g. "[publisher year] first edition"
 source_url:                   # URL if sourced digitally — leave blank if none
 ---
@@ -45,6 +48,7 @@ source_url:                   # URL if sourced digitally — leave blank if none
 ---
 title: [Translation title]
 translator: [Surname, Firstname; Surname, Firstname]
+revised_by: [Reviser — omit if none]
 date: [year]
 language: [target language]
 file_type: translation
@@ -53,6 +57,7 @@ verse_id_format: chapter-verse
 root_text: 1-SOURCES/Text/[lang]-root-text.md
 translation_basis: [editor year] edition
 covers_verses: 1-1–10-58
+published_in: "[host volume and its translator — omit if none]"
 source_description: "[publisher year] first edition"
 source_url:
 ---
@@ -63,6 +68,8 @@ source_url:
 - **`source_description` is required.** Every translation file must have it. If publication data is not visible, use `"Source unknown — to be verified"`.
 - **Block IDs follow the source verse, not the translator's numbering.** If the translator uses a different verse numbering system, note this with `[Ed: ...]` in the file body — the `verse_id_format` field always refers to the root text's structure.
 - **`translator` not `author`.** Translations use the `translator` field. The original author is identified via the `root_text` link.
+- **Never credit a host volume's translator with the verses.** If this translation is reprinted as the root text inside another translator's book, that person goes in `published_in`, never in `translator`. Collapsing the two corrupts every bilingual glossary and termbase built from this file, because the glossary would attribute one person's renderings to another.
+- **`revised_by` does not replace `translator`.** A revised translation keeps its original translator; the reviser is recorded alongside. Note the revision's basis (e.g. the commentary it was checked against) in `source_description` or an `[Ed:...]` note.
 - **`lang_tag` is the *target* language.** For an English translation, `lang_tag: en`. The source language is implicit in the `root_text` link.
 - **Do not hallucinate fields.** If `translation_basis`, `covers_verses`, or `source_url` cannot be confirmed from the file, omit those fields rather than guessing.
 - **Omit empty optional fields.** Either populate a field or remove the key entirely.

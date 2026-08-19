@@ -163,6 +163,7 @@ source_description: "[citation]"
 ---
 title: [Title — translation]
 translator: [Translator(s)]
+revised_by: [Reviser — omit if none]
 date: [Date]
 language: [Target language]
 file_type: translation
@@ -171,10 +172,13 @@ verse_id_format: chapter-verse
 root_text: 1-SOURCES/Text/[lang]-root-text.md
 translation_basis: [edition used]
 covers_verses: 1-1–10-58
+published_in: "[host volume, if this translation was reprinted inside another work]"
 source_description: "[citation]"
 source_url:
 ---
 ```
+
+`revised_by` and `published_in` are optional and exist for a common case in the Buddhist publishing tradition: an older translation is lightly revised — often in the light of a particular commentary — and then reprinted as the root text inside somebody else's book. `translator` always names who produced the wording in *this* file. `revised_by` names who altered it. `published_in` names the host volume, including that volume's own translator where relevant. Keeping the three apart prevents a host volume's translator from being silently credited with verse renderings they did not make — which would corrupt any bilingual glossary built from this file.
 
 ### Commentary
 
@@ -182,6 +186,7 @@ source_url:
 ---
 title: [Commentary title]
 author: [Author]
+translator: [Translator — omit when the commentary is in the author's own language]
 date: [Date]
 language: [Commentary language]
 script: [Script]
@@ -196,6 +201,10 @@ bdrc_work_id:
 gretil_url:
 ---
 ```
+
+`translator` is optional and applies when the commentary reaches the vault in a language other than the one its author used — most often a transcribed oral teaching rendered into the reader's language. `author` stays with the teacher; `translator` records who chose the words actually stored in the file. Rails built from such a commentary are reading the translator's vocabulary, not the author's, and `2-RAILS/` attributions must be able to say so.
+
+When a translated commentary quotes the root verses, those verses are frequently taken from a pre-existing translation rather than made by the commentary's own translator. Transclude them from the relevant `1-SOURCES/Translations/` file rather than copying them in, and note the distinction with `[Ed:...]`.
 
 The `registered_id` is the short identifier used in `2-RAILS/` to attribute claims to this commentary. Once assigned, it never changes. New commentaries must be registered in the vault's annex ([`../4-SYSTEM/Guidelines/vault-annex.md`](../4-SYSTEM/Guidelines/vault-annex.md) §Commentaries) before their `registered_id` is used in any rail file.
 
