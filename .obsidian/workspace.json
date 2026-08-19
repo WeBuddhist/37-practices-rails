@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4-SYSTEM/Skills/format-commentary/SKILL.md",
+                "file": "4-SYSTEM/Skills/format-root-text/SKILL.md",
                 "mode": "source",
                 "source": false
               },
@@ -209,6 +209,7 @@
   },
   "active": "6e1e6d53236cf4cc",
   "lastOpenFiles": [
+    "4-SYSTEM/Skills/format-commentary/SKILL.md",
     "4-SYSTEM/Skills/create-skill/SKILL.md",
     "1-SOURCES/Commentaries/bo-ཐུབ་བསྟན་ཆོས་ཀྱི་གྲགས་པ།.md",
     "1-SOURCES/Translations/zh-普舟-噶千佛學會 Garchen Institute.md",
