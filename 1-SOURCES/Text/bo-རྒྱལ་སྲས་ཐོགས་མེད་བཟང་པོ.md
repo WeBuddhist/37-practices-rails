@@ -11,7 +11,7 @@ related_commentaries:
   - 1-SOURCES/Commentaries/bo-སྐྱབས་རྗེ་མཁན་ཆེན་ཁྲ་འགུ་རིན་པོ་ཆེ།.md
   - 1-SOURCES/Commentaries/zh-噶千仁波切.md
 related_translations:
-  - 1-SOURCES/Translations/En-Adam Pearcey, Lotsawa House.md
+  - 1-SOURCES/Translations/en-Adam Pearcey, Lotsawa House.md
   - 1-SOURCES/Translations/zh-普舟-噶千佛學會 Garchen Institute.md
   - 1-SOURCES/Translations/zh-嚴定法師-噶千佛學會 Garchen Institute.md
 ---
