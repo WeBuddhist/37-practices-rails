@@ -15,15 +15,15 @@ Never create a skill folder manually and register it piecemeal. Use this skill. 
 
 Gather the following before starting. If any item is unknown, ask the human contributor before proceeding — do not guess or leave fields blank.
 
-| Field | Description | Example |
-|---|---|---|
-| `skill-name` | Lowercase, hyphenated, unique | `translate-section` |
-| `purpose` | One sentence, terse — used in frontmatter, catalog, and command file | `Translate a small batch of TOC nodes into the target language.` |
-| `catalog-section` | Which section of SKILLS-CATALOG.md it belongs to | `Translation skills` |
-| `inputs-description` | What the skill needs to run | Files, IDs, prior outputs |
-| `outputs-description` | What it produces and where | File path(s) |
-| `commonly-used` | Whether it belongs in the CLAUDE.md §12 quick-reference table | yes / no |
-| `claude-md-task-description` | If commonly-used: the left-column task phrase for the §12 table | `Translate a TOC node batch` |
+| Field                        | Description                                                          | Example                                                          |
+| ---------------------------- | -------------------------------------------------------------------- | ---------------------------------------------------------------- |
+| `skill-name`                 | Lowercase, hyphenated, unique                                        | `translate-section`                                              |
+| `purpose`                    | One sentence, terse — used in frontmatter, catalog, and command file | `Translate a small batch of TOC nodes into the target language.` |
+| `catalog-section`            | Which section of SKILLS-CATALOG.md it belongs to                     | `Translation skills`                                             |
+| `inputs-description`         | What the skill needs to run                                          | Files, IDs, prior outputs                                        |
+| `outputs-description`        | What it produces and where                                           | File path(s)                                                     |
+| `commonly-used`              | Whether it belongs in the CLAUDE.md §12 quick-reference table        | yes / no                                                         |
+| `claude-md-task-description` | If commonly-used: the left-column task phrase for the §12 table      | `Translate a TOC node batch`                                     |
 
 ---
 
