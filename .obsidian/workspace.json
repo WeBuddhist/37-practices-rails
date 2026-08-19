@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4-SYSTEM/Skills/format-root-text/SKILL.md",
+                "file": "1-SOURCES/Commentaries/bo-ཐུབ་བསྟན་ཆོས་ཀྱི་གྲགས་པ།.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SKILL"
+              "title": "bo-ཐུབ་བསྟན་ཆོས་ཀྱི་གྲགས་པ།"
             }
           }
         ]
@@ -209,12 +209,15 @@
   },
   "active": "6e1e6d53236cf4cc",
   "lastOpenFiles": [
-    "4-SYSTEM/Skills/format-commentary/SKILL.md",
+    "1-SOURCES/Text/bo-རྒྱལ་སྲས་ཐོགས་མེད་བཟང་པོ.md",
+    "4-SYSTEM/Skills/add-toc/SKILL.md",
     "4-SYSTEM/Skills/create-skill/SKILL.md",
+    "4-SYSTEM/Skills/commentary-frontmatter/SKILL.md",
+    "4-SYSTEM/Skills/format-root-text/SKILL.md",
+    "4-SYSTEM/Skills/format-commentary/SKILL.md",
     "1-SOURCES/Commentaries/bo-ཐུབ་བསྟན་ཆོས་ཀྱི་གྲགས་པ།.md",
     "1-SOURCES/Translations/zh-普舟-噶千佛學會 Garchen Institute.md",
     "1-SOURCES/Translations/En-Adam Pearcey, Lotsawa House.md",
-    "1-SOURCES/Text/bo-རྒྱལ་སྲས་ཐོགས་མེད་བཟང་པོ.md",
     "conflict-files-obsidian-git.md",
     "1-SOURCES/Commentaries/zh-噶千仁波切.md",
     "1-SOURCES/Translations/zh-嚴定法師-噶千佛學會 Garchen Institute.md",
@@ -227,7 +230,6 @@
     "1-SOURCES/Commentaries/bo-སྐྱབས་རྗེ་མཁན་ཆེན་ཁྲ་འགུ་རིན་པོ་ཆེ།.md.tmp.14928.caa715944364",
     "1-SOURCES/Text/bo-རྒྱལ་སྲས་ཐོགས་མེད་བཟང་པོ།.md",
     "3-TRANSFORMATIONS/Plans/About Plans.md",
-    "4-SYSTEM/Skills/format-root-text/SKILL.md",
     "4-SYSTEM/Skills/root-text-frontmatter/SKILL.md",
     "CLAUDE.md.tmp.30504.1a50d75861ed",
     "3-TRANSFORMATIONS/Plans/sedgLGgXf",
