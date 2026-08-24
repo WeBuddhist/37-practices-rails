@@ -1,10 +1,10 @@
 ---
 title: རྒྱལ་སྲས་ལག་ལེན་སོ་བདུན་མ།
-author: རྒྱལ་སྲས་ཐོགས་མེད་བཟང་པོ་
+author: རྒྱལ་སྲས་ཐོགས་མེད་བཟང་པོ།
 language: Tibetan
 file_type: root-text
 lang_tag: bo
-source_description: "Root text of the Thirty-Seven Practices of a Bodhisattva, composed by Gyalse Thogme Zangpo"
+source_description: Root text of the Thirty-Seven Practices of a Bodhisattva, composed by Gyalse Thogme Zangpo
 verse_id_format: chapter-verse
 related_commentaries:
   - 1-SOURCES/Commentaries/bo-ཐུབ་བསྟན་ཆོས་ཀྱི་གྲགས་པ།.md
