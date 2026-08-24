@@ -11,14 +11,14 @@
             "id": "6e1e6d53236cf4cc",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "1-SOURCES/Text/bo-རྒྱལ་སྲས་ཐོགས་མེད་བཟང་པོ.md",
-                "bFile": "1-SOURCES/Text/bo-རྒྱལ་སྲས་ཐོགས་མེད་བཟང་པོ.md",
-                "aRef": ""
+                "file": "1-SOURCES/Text/bo-རྒྱལ་སྲས་ཐོགས་མེད་བཟང་པོ.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: bo-རྒྱལ་སྲས་ཐོགས་མེད་བཟང་པོ  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "bo-རྒྱལ་སྲས་ཐོགས་མེད་བཟང་པོ"
             }
           }
         ]
@@ -209,16 +209,16 @@
   },
   "active": "6e1e6d53236cf4cc",
   "lastOpenFiles": [
-    "1-SOURCES/Text/bo-རྒྱལ་སྲས་ཐོགས་མེད་བཟང་པོ.md",
     "1-SOURCES/Commentaries/bo-ཐུབ་བསྟན་ཆོས་ཀྱི་གྲགས་པ།.md",
-    "1-SOURCES/Commentaries/bo-སྐྱབས་རྗེ་མཁན་ཆེན་ཁྲ་འགུ་རིན་པོ་ཆེ།.md",
+    "1-SOURCES/Translations/En-Adam Pearcey, Lotsawa House.md",
+    "1-SOURCES/Text/bo-རྒྱལ་སྲས་ཐོགས་མེད་བཟང་པོ.md",
     "4-SYSTEM/Skills/add-toc/SKILL.md",
+    "1-SOURCES/Commentaries/bo-སྐྱབས་རྗེ་མཁན་ཆེན་ཁྲ་འགུ་རིན་པོ་ཆེ།.md",
     "4-SYSTEM/Skills/create-skill/SKILL.md",
     "4-SYSTEM/Skills/commentary-frontmatter/SKILL.md",
     "4-SYSTEM/Skills/format-root-text/SKILL.md",
     "4-SYSTEM/Skills/format-commentary/SKILL.md",
     "1-SOURCES/Translations/zh-普舟-噶千佛學會 Garchen Institute.md",
-    "1-SOURCES/Translations/En-Adam Pearcey, Lotsawa House.md",
     "conflict-files-obsidian-git.md",
     "1-SOURCES/Commentaries/zh-噶千仁波切.md",
     "1-SOURCES/Translations/zh-嚴定法師-噶千佛學會 Garchen Institute.md",
