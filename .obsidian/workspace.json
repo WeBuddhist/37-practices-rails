@@ -11,14 +11,14 @@
             "id": "6e1e6d53236cf4cc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "1-SOURCES/Text/bo-རྒྱལ་སྲས་ཐོགས་མེད་བཟང་པོ.md",
-                "mode": "source",
-                "source": false
+                "aFile": "1-SOURCES/Text/bo-རྒྱལ་སྲས་ཐོགས་མེད་བཟང་པོ.md",
+                "bFile": "1-SOURCES/Text/bo-རྒྱལ་སྲས་ཐོགས་མེད་བཟང་པོ.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "bo-རྒྱལ་སྲས་ཐོགས་མེད་བཟང་པོ"
+              "icon": "diff",
+              "title": "Diff: bo-རྒྱལ་སྲས་ཐོགས་མེད་བཟང་པོ  (Working Tree)"
             }
           }
         ]
@@ -209,8 +209,8 @@
   },
   "active": "6e1e6d53236cf4cc",
   "lastOpenFiles": [
-    "1-SOURCES/Commentaries/bo-ཐུབ་བསྟན་ཆོས་ཀྱི་གྲགས་པ།.md",
     "1-SOURCES/Text/bo-རྒྱལ་སྲས་ཐོགས་མེད་བཟང་པོ.md",
+    "1-SOURCES/Commentaries/bo-ཐུབ་བསྟན་ཆོས་ཀྱི་གྲགས་པ།.md",
     "1-SOURCES/Commentaries/bo-སྐྱབས་རྗེ་མཁན་ཆེན་ཁྲ་འགུ་རིན་པོ་ཆེ།.md",
     "4-SYSTEM/Skills/add-toc/SKILL.md",
     "4-SYSTEM/Skills/create-skill/SKILL.md",
