@@ -22,21 +22,35 @@
             }
           },
           {
-            "id": "2b31cba5fd46f432",
+            "id": "9d69fe95a7575d78",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "1-SOURCES/Commentaries/Raw commentaries/bo-གླག་བླ་བསོད་ནམས་ཆོས་འགྲུབ། (1862–1944).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "bo-གླག་བླ་བསོད་ནམས་ཆོས་འགྲུབ། (1862–1944)"
+            }
+          },
+          {
+            "id": "e558e7c960277210",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-SOURCES/Commentaries/Raw commentaries/bo-མཁན་ཆེན་ངག་དབང་བློ་གྲོས།.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "bo-མཁན་ཆེན་ངག་དབང་བློ་གྲོས།"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -222,9 +236,13 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "2b31cba5fd46f432",
+  "active": "e558e7c960277210",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Untitled.canvas",
+    "1-SOURCES/Commentaries/Raw commentaries/bo-མཁན་ཆེན་ངག་དབང་བློ་གྲོས།.md",
+    "1-SOURCES/Commentaries/Raw commentaries/bo-གླག་བླ་བསོད་ནམས་ཆོས་འགྲུབ། (1862–1944).md",
+    "1-SOURCES/Commentaries/Raw commentaries/bo-འབུམ་ཐང་དགེ་བཤེས་ཚུལ་ཁྲིམས་དཔལ་བཟང་།.md",
+    "1-SOURCES/Commentaries/Raw commentaries/bo-འཛི་སྒར་མཁན་ཆེན་འཕྲིན་ལས་རྡོ་རྗེ།.md",
     "1-SOURCES/Commentaries/Raw commentaries/bo-དངུལ་ཆུ་དྷརྨ་བྷ་དྲ།.md",
     "1-SOURCES/Commentaries/Raw commentaries/bo-རྫ་སྤྲུལ་ངག་དབང་བསྟན་འཛིན་ནོར་བུ (1867–1940).md",
     "1-SOURCES/Commentaries/Raw commentaries/bo-སངས་རྒྱས་མཉན་པ་རིན་པོ་ཆེ།.md",
@@ -235,7 +253,6 @@
     "4-SYSTEM/Skills/SKILLS-CATALOG.md",
     "1-SOURCES/Commentaries/Raw commentaries",
     "1-SOURCES/Commentaries/bo-ཐུབ་བསྟན་ཆོས་ཀྱི་གྲགས་པ།.md",
-    "Untitled.canvas",
     "1-SOURCES/Translations/En-Adam Pearcey, Lotsawa House.md",
     "4-SYSTEM/Skills/add-toc/SKILL.md",
     "1-SOURCES/Commentaries/bo-སྐྱབས་རྗེ་མཁན་ཆེན་ཁྲ་འགུ་རིན་པོ་ཆེ།.md",
@@ -253,13 +270,9 @@
     "gemini-scribe/Background-Tasks",
     "gemini-scribe/Agent-Sessions",
     "1-SOURCES/Commentaries/bo-སྐྱབས་རྗེ་མཁན་ཆེན་ཁྲ་འགུ་རིན་པོ་ཆེ།.md.tmp.14928.caa715944364",
-    "3-TRANSFORMATIONS/Plans/About Plans.md",
-    "4-SYSTEM/Skills/root-text-frontmatter/SKILL.md",
     "CLAUDE.md.tmp.30504.1a50d75861ed",
     "3-TRANSFORMATIONS/Plans/sedgLGgXf",
     "3-TRANSFORMATIONS/Plans/sedMpWUGZ",
-    "3-TRANSFORMATIONS/sedVLEYhd",
-    "4-SYSTEM/How-to guides/Sync with rails-template.md",
-    "4-SYSTEM/Guidelines/skills-system.md"
+    "3-TRANSFORMATIONS/sedVLEYhd"
   ]
 }
