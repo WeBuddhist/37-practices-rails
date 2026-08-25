@@ -20,37 +20,8 @@
               "icon": "lucide-file",
               "title": "bo-རྒྱལ་སྲས་ཐོགས་མེད་བཟང་པོ།"
             }
-          },
-          {
-            "id": "9d69fe95a7575d78",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-SOURCES/Commentaries/Raw commentaries/bo-གླག་བླ་བསོད་ནམས་ཆོས་འགྲུབ། (1862–1944).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "bo-གླག་བླ་བསོད་ནམས་ཆོས་འགྲུབ། (1862–1944)"
-            }
-          },
-          {
-            "id": "e558e7c960277210",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-SOURCES/Commentaries/Raw commentaries/bo-མཁན་ཆེན་ངག་དབང་བློ་གྲོས།.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "bo-མཁན་ཆེན་ངག་དབང་བློ་གྲོས།"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -236,7 +207,7 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "e558e7c960277210",
+  "active": "eb2538ea3fa47051",
   "lastOpenFiles": [
     "Untitled.canvas",
     "1-SOURCES/Commentaries/Raw commentaries/bo-མཁན་ཆེན་ངག་དབང་བློ་གྲོས།.md",
