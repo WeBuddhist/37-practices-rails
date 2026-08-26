@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4-SYSTEM/Skills/create-skill/SKILL.md",
+                "file": "1-SOURCES/Text/LSDC14_TMZP-bo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SKILL"
+              "title": "LSDC14_TMZP-bo"
             }
           }
         ]
@@ -209,6 +209,9 @@
   },
   "active": "6e1e6d53236cf4cc",
   "lastOpenFiles": [
+    "4-SYSTEM/Skills/format-root-text/SKILL.md",
+    "4-SYSTEM/Skills/format-commentary/SKILL.md",
+    "4-SYSTEM/Skills/create-skill/SKILL.md",
     "4-SYSTEM/Skills/commentary-frontmatter/SKILL.md",
     "1-SOURCES/Text/LSDC14_TMZP-bo.md",
     "1-SOURCES/Commentaries/LSDC20_TCD_bo.md",
@@ -230,9 +233,6 @@
     "4-SYSTEM/Skills/SKILLS-CATALOG.md",
     "1-SOURCES/Commentaries/Raw commentaries",
     "1-SOURCES/Translations/En-Adam Pearcey, Lotsawa House.md",
-    "4-SYSTEM/Skills/create-skill/SKILL.md",
-    "4-SYSTEM/Skills/format-root-text/SKILL.md",
-    "4-SYSTEM/Skills/format-commentary/SKILL.md",
     "1-SOURCES/Translations/zh-普舟-噶千佛學會 Garchen Institute.md",
     "conflict-files-obsidian-git.md",
     "1-SOURCES/Translations/zh-嚴定法師-噶千佛學會 Garchen Institute.md",
