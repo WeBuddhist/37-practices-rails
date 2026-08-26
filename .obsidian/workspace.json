@@ -20,6 +20,20 @@
               "icon": "lucide-file",
               "title": "LSDC14_TMZP-bo"
             }
+          },
+          {
+            "id": "b3460e52b24a1bb1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-SOURCES/Commentaries/LSDC20_TCD_bo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "LSDC20_TCD_bo"
+            }
           }
         ]
       }
@@ -209,12 +223,18 @@
   },
   "active": "6e1e6d53236cf4cc",
   "lastOpenFiles": [
-    "4-SYSTEM/Skills/format-root-text/SKILL.md",
+    "1-SOURCES/Commentaries/LSDC20_TCD_bo.md",
+    "1-SOURCES/Text/LSDC14_TMZP-bo.md",
+    "4-SYSTEM/Skills/reference-frontmatter/SKILL.md",
     "4-SYSTEM/Skills/format-commentary/SKILL.md",
+    "4-SYSTEM/Skills/property-creator/SKILL.md",
+    "4-SYSTEM/Skills/section-summary-raw/SKILL.md",
+    "4-SYSTEM/Skills/structural-outline-ingest/SKILL.md",
+    "4-SYSTEM/Skills/verse-context/SKILL.md",
+    "4-SYSTEM/Skills/root-text-frontmatter/SKILL.md",
+    "4-SYSTEM/Skills/format-root-text/SKILL.md",
     "4-SYSTEM/Skills/create-skill/SKILL.md",
     "4-SYSTEM/Skills/commentary-frontmatter/SKILL.md",
-    "1-SOURCES/Text/LSDC14_TMZP-bo.md",
-    "1-SOURCES/Commentaries/LSDC20_TCD_bo.md",
     "1-SOURCES/Commentaries/zh-噶千仁波切.md",
     "1-SOURCES/Commentaries/LSDC20_TG_bo.md",
     "4-SYSTEM/Guidelines/skills-system.md",
@@ -230,13 +250,7 @@
     "1-SOURCES/Commentaries/Raw commentaries/bo-དགེ་བཤེས་བེ་རི་འཇིགས་མེད་དབང་རྒྱལ།.md",
     "1-SOURCES/Commentaries/Raw commentaries/bo-ཏཱ་ལའི་བླ་མ ༡༤ བསྟན་འཛིན་རྒྱ་མཚོ།.md",
     "1-SOURCES/Commentaries/Raw commentaries/bo-རྫ་རོང་ཕུ་སྤྲུལ་སྐུ་ངག་དབང་བསྟན་འཛིན་ནོར་བུ།.md",
-    "4-SYSTEM/Skills/SKILLS-CATALOG.md",
     "1-SOURCES/Commentaries/Raw commentaries",
-    "1-SOURCES/Translations/En-Adam Pearcey, Lotsawa House.md",
-    "1-SOURCES/Translations/zh-普舟-噶千佛學會 Garchen Institute.md",
-    "conflict-files-obsidian-git.md",
-    "1-SOURCES/Translations/zh-嚴定法師-噶千佛學會 Garchen Institute.md",
-    "CLAUDE.md",
     "gemini-scribe/Scheduled-Tasks/Runs",
     "gemini-scribe/Skills",
     "gemini-scribe/Background-Tasks",
