@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-SOURCES/Commentaries/CMTRbo-.md",
+                "file": "1-SOURCES/Text/LSDC14_TMZP-bo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CMTRbo-"
+              "title": "LSDC14_TMZP-bo"
             }
           }
         ]
@@ -209,9 +209,10 @@
   },
   "active": "6e1e6d53236cf4cc",
   "lastOpenFiles": [
-    "1-SOURCES/Commentaries/CMTRC20_TCD_bo.md",
-    "1-SOURCES/Commentaries/zh-噶千仁波切.md",
+    "1-SOURCES/Commentaries/LSDC20_TCD_bo.md",
     "1-SOURCES/Text/LSDC14_TMZP-bo.md",
+    "1-SOURCES/Commentaries/zh-噶千仁波切.md",
+    "1-SOURCES/Commentaries/LSDC20_TG_bo.md",
     "4-SYSTEM/Guidelines/skills-system.md",
     "4-SYSTEM/Skills/commentary-frontmatter/SKILL.md",
     "4-SYSTEM/Skills/add-toc/SKILL.md",
@@ -229,7 +230,6 @@
     "4-SYSTEM/Skills/SKILLS-CATALOG.md",
     "1-SOURCES/Commentaries/Raw commentaries",
     "1-SOURCES/Translations/En-Adam Pearcey, Lotsawa House.md",
-    "1-SOURCES/Commentaries/CMTRbo-.md",
     "4-SYSTEM/Skills/create-skill/SKILL.md",
     "4-SYSTEM/Skills/format-root-text/SKILL.md",
     "4-SYSTEM/Skills/format-commentary/SKILL.md",
