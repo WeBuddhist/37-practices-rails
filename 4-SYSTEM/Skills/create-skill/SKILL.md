@@ -31,12 +31,12 @@ Gather the following before starting. If any item is unknown, ask the human cont
 
 Four files written or modified:
 
-| Location | Action |
-|---|---|
-| `4-SYSTEM/Skills/<skill-name>/SKILL.md` | Created |
-| `4-SYSTEM/Skills/SKILLS-CATALOG.md` | Entry appended to the correct section |
-| `.claude/commands/<skill-name>.md` | Created |
-| `4-SYSTEM/CLAUDE.md` | Row added to §12 table (only if `commonly-used: yes`) |
+| Location                                | Action                                                |
+| --------------------------------------- | ----------------------------------------------------- |
+| `4-SYSTEM/Skills/<skill-name>/SKILL.md` | Created                                               |
+| `4-SYSTEM/Skills/SKILLS-CATALOG.md`     | Entry appended to the correct section                 |
+| `.claude/commands/<skill-name>.md`      | Created                                               |
+| `4-SYSTEM/CLAUDE.md`                    | Row added to §12 table (only if `commonly-used: yes`) |
 
 ---
 
