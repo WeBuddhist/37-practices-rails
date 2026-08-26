@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-SOURCES/Text/LSDC14_TMZP-bo.md",
+                "file": "1-SOURCES/Commentaries/LSDC20_TCD_bo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LSDC14_TMZP-bo"
+              "title": "LSDC20_TCD_bo"
             }
           }
         ]
@@ -209,8 +209,8 @@
   },
   "active": "6e1e6d53236cf4cc",
   "lastOpenFiles": [
-    "1-SOURCES/Commentaries/LSDC20_TCD_bo.md",
     "1-SOURCES/Text/LSDC14_TMZP-bo.md",
+    "1-SOURCES/Commentaries/LSDC20_TCD_bo.md",
     "1-SOURCES/Commentaries/zh-噶千仁波切.md",
     "1-SOURCES/Commentaries/LSDC20_TG_bo.md",
     "4-SYSTEM/Guidelines/skills-system.md",
