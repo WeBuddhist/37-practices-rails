@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-SOURCES/Text/LSDC14_TMZP-bo.md",
+                "file": "1-SOURCES/Commentaries/TCDCbo-ཐུབ་བསྟན་ཆོས་ཀྱི་གྲགས་པ།.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LSDC14_TMZP-bo"
+              "title": "TCDCbo-ཐུབ་བསྟན་ཆོས་ཀྱི་གྲགས་པ།"
             }
           }
         ]
@@ -209,10 +209,11 @@
   },
   "active": "6e1e6d53236cf4cc",
   "lastOpenFiles": [
+    "1-SOURCES/Commentaries/zh-噶千仁波切.md",
+    "1-SOURCES/Text/LSDC14_TMZP-bo.md",
     "4-SYSTEM/Guidelines/skills-system.md",
     "4-SYSTEM/Skills/commentary-frontmatter/SKILL.md",
     "4-SYSTEM/Skills/add-toc/SKILL.md",
-    "1-SOURCES/Text/LSDC14_TMZP-bo.md",
     "Untitled.canvas",
     "1-SOURCES/Commentaries/Raw commentaries/bo-མཁན་ཆེན་ངག་དབང་བློ་གྲོས།.md",
     "1-SOURCES/Commentaries/Raw commentaries/bo-གླག་བླ་བསོད་ནམས་ཆོས་འགྲུབ། (1862–1944).md",
@@ -226,7 +227,7 @@
     "1-SOURCES/Commentaries/Raw commentaries/bo-རྫ་རོང་ཕུ་སྤྲུལ་སྐུ་ངག་དབང་བསྟན་འཛིན་ནོར་བུ།.md",
     "4-SYSTEM/Skills/SKILLS-CATALOG.md",
     "1-SOURCES/Commentaries/Raw commentaries",
-    "1-SOURCES/Commentaries/bo-ཐུབ་བསྟན་ཆོས་ཀྱི་གྲགས་པ།.md",
+    "1-SOURCES/Commentaries/TCDCbo-ཐུབ་བསྟན་ཆོས་ཀྱི་གྲགས་པ།.md",
     "1-SOURCES/Translations/En-Adam Pearcey, Lotsawa House.md",
     "1-SOURCES/Commentaries/bo-སྐྱབས་རྗེ་མཁན་ཆེན་ཁྲ་འགུ་རིན་པོ་ཆེ།.md",
     "4-SYSTEM/Skills/create-skill/SKILL.md",
@@ -234,7 +235,6 @@
     "4-SYSTEM/Skills/format-commentary/SKILL.md",
     "1-SOURCES/Translations/zh-普舟-噶千佛學會 Garchen Institute.md",
     "conflict-files-obsidian-git.md",
-    "1-SOURCES/Commentaries/zh-噶千仁波切.md",
     "1-SOURCES/Translations/zh-嚴定法師-噶千佛學會 Garchen Institute.md",
     "CLAUDE.md",
     "gemini-scribe/Scheduled-Tasks/Runs",
