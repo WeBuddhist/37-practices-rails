@@ -48,6 +48,20 @@
               "icon": "lucide-file",
               "title": "SKILL"
             }
+          },
+          {
+            "id": "11de15b1b0182668",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2-RAILS/About Rails.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "About Rails"
+            }
           }
         ],
         "currentTab": 1
@@ -238,11 +252,12 @@
   },
   "active": "341bf8046fb41ab8",
   "lastOpenFiles": [
-    "1-SOURCES/Translations/zh-嚴定法師-噶千佛學會 Garchen Institute.md",
-    "1-SOURCES/Text/LSDC14_TMZP-bo.md",
-    "1-SOURCES/Commentaries/zh-噶千仁波切.md",
-    "1-SOURCES/Commentaries/LSDC20_TCD_bo.md",
     "4-SYSTEM/Skills/commentary-frontmatter/SKILL.md",
+    "2-RAILS/About Rails.md",
+    "1-SOURCES/Text/LSDC14_TMZP-bo.md",
+    "1-SOURCES/Commentaries/LSDC20_TCD_bo.md",
+    "1-SOURCES/Translations/zh-嚴定法師-噶千佛學會 Garchen Institute.md",
+    "1-SOURCES/Commentaries/zh-噶千仁波切.md",
     "4-SYSTEM/Skills/reference-frontmatter/SKILL.md",
     "4-SYSTEM/Skills/format-commentary/SKILL.md",
     "4-SYSTEM/Skills/property-creator/SKILL.md",
@@ -264,7 +279,6 @@
     "1-SOURCES/Commentaries/Raw commentaries/bo-རྫ་སྤྲུལ་ངག་དབང་བསྟན་འཛིན་ནོར་བུ (1867–1940).md",
     "1-SOURCES/Commentaries/Raw commentaries/bo-སངས་རྒྱས་མཉན་པ་རིན་པོ་ཆེ།.md",
     "1-SOURCES/Commentaries/Raw commentaries/bo-དགེ་བཤེས་བེ་རི་འཇིགས་མེད་དབང་རྒྱལ།.md",
-    "1-SOURCES/Commentaries/Raw commentaries/bo-ཏཱ་ལའི་བླ་མ ༡༤ བསྟན་འཛིན་རྒྱ་མཚོ།.md",
     "1-SOURCES/Commentaries/Raw commentaries",
     "gemini-scribe/Scheduled-Tasks/Runs",
     "gemini-scribe/Skills",
