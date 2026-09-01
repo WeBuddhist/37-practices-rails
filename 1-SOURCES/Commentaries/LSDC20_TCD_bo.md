@@ -1,3 +1,17 @@
+---
+title: རྒྱལ་སྲས་ལག་ལེན་གྱི་འགྲེལ་པ་གཞུང་དང་གདམས་ངག་ཟུང་འཇུག་བདུད་རྩིའི་བུམ་བཟང་
+author: ཐུབ་བསྟན་ཆོས་ཀྱི་གྲགས་པ།
+language: Tibetan
+script: Unicode Tibetan
+file_type: commentary
+lang_tag: bo
+verse_id_format: book-chapter-verse
+registered_id: chokyidrakpa
+root_text: 1-SOURCES/Text/LSDC14_TMZP-bo.md
+covers_verses: 0-1–2-4
+source_description: "Composed by Thubten Chökyi Drakpa, at Serlhartse Monastery, at the repeated request of the yogin Orgyen Lhündrub (per colophon, ^3-5-15) — no published edition data given in the file"
+---
+
 # རྒྱལ་སྲས་ལག་ལེན་གྱི་འགྲེལ་པ་གཞུང་དང་གདམས་ངག་ཟུང་འཇུག་བདུད་རྩིའི་བུམ་བཟང་ཞེས་བྱ་བ་བཞུགས་སོ། །
 
 ཐུབ་བསྟན་ཆོས་ཀྱི་གྲགས་པ།
