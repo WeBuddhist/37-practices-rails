@@ -53,14 +53,14 @@
             "id": "11de15b1b0182668",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "4-SYSTEM/Skills/commentary-frontmatter/SKILL.md",
-                "mode": "source",
-                "source": false
+                "aFile": "1-SOURCES/Commentaries/LSDC20_TG_bo.md",
+                "bFile": "1-SOURCES/Commentaries/LSDC20_TG_bo.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "SKILL"
+              "icon": "diff",
+              "title": "Diff: LSDC20_TG_bo  (Working Tree)"
             }
           }
         ],
@@ -253,8 +253,8 @@
   "active": "b3460e52b24a1bb1",
   "lastOpenFiles": [
     "4-SYSTEM/Skills/commentary-frontmatter/SKILL.md",
-    "1-SOURCES/Text/LSDC14_TMZP-bo.md",
     "1-SOURCES/Commentaries/LSDC20_TG_bo.md",
+    "1-SOURCES/Text/LSDC14_TMZP-bo.md",
     "2-RAILS/About Rails.md",
     "1-SOURCES/Commentaries/LSDC20_TCD_bo.md",
     "1-SOURCES/Commentaries/zh-噶千仁波切.md",
