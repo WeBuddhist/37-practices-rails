@@ -54,9 +54,10 @@ Once assigned, a `registered_id` never changes. New commentaries must be added t
 
 | `registered_id` | Title | Tier | Language | File |
 | --------------- | ----- | ---- | -------- | ---- |
-| `[short-id]` | [Commentary title] | [commentary \| sub-commentary \| …] | [Language] | `1-SOURCES/Commentaries/[lang]-[slug].md` |
+| `chokyidrakpa` | རྒྱལ་སྲས་ལག་ལེན་གྱི་འགྲེལ་པ་གཞུང་དང་གདམས་ངག་ཟུང་འཇུག་བདུད་རྩིའི་བུམ་བཟང་ | commentary | Tibetan | `1-SOURCES/Commentaries/LSDC20_TCD_bo.md` |
+| `thrangu` | རྒྱལ་སྲས་ལག་ལེན་སོ་བདུན་མའི་འགྲེལ་པ་གོ་བདེར་བཀྲལ་བ | commentary | Tibetan | `1-SOURCES/Commentaries/LSDC20_TG_bo.md` |
 
-**Tier ordering** within a verse package's Traditional Interpretation section: [describe the preferred order, e.g. primary commentary first, then sub-commentaries].
+**Tier ordering** within a verse package's Traditional Interpretation section: both registered commentaries are primary-tier (no sub-commentaries yet registered), so ordering between them is not yet load-bearing. Until a sub-commentary is added, list `chokyidrakpa` (Thubten Chökyi Drakpa's textual commentary, following the gzhung/gdams-ngag structure) before `thrangu` (Khenchen Thrangu Rinpoche's verse-by-verse oral teaching), reflecting registration order. Revisit this ordering if a stated preference or a new tier emerges.
 
 ---
 

@@ -1,3 +1,17 @@
+---
+title: རྒྱལ་སྲས་ལག་ལེན་སོ་བདུན་མའི་འགྲེལ་པ་གོ་བདེར་བཀྲལ་བ
+author: སྐྱབས་རྗེ་མཁན་ཆེན་ཁྲ་འགུ་རིན་པོ་ཆེ།
+language: Tibetan
+script: Unicode Tibetan
+file_type: commentary
+lang_tag: bo
+verse_id_format: chapter-verse
+registered_id: thrangu
+root_text: 1-SOURCES/Text/LSDC14_TMZP-bo.md
+covers_verses: 0-1–2-4
+source_description: "Source unknown — to be verified"
+---
+
 # རྒྱལ་སྲས་ལག་ལེན་སོ་བདུན་མའི་འགྲེལ་པ་གོ་བདེར་བཀྲལ་བ་བཞུགས་སོ། །
 
 སྐྱབས་རྗེ་མཁན་ཆེན་ཁྲ་འགུ་རིན་པོ་ཆེ།
