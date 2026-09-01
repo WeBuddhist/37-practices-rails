@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -250,12 +250,12 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "341bf8046fb41ab8",
+  "active": "b3460e52b24a1bb1",
   "lastOpenFiles": [
+    "1-SOURCES/Commentaries/LSDC20_TCD_bo.md",
     "4-SYSTEM/Skills/commentary-frontmatter/SKILL.md",
     "2-RAILS/About Rails.md",
     "1-SOURCES/Text/LSDC14_TMZP-bo.md",
-    "1-SOURCES/Commentaries/LSDC20_TCD_bo.md",
     "1-SOURCES/Translations/zh-嚴定法師-噶千佛學會 Garchen Institute.md",
     "1-SOURCES/Commentaries/zh-噶千仁波切.md",
     "4-SYSTEM/Skills/reference-frontmatter/SKILL.md",
