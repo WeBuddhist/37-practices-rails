@@ -53,14 +53,14 @@
             "id": "11de15b1b0182668",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "1-SOURCES/Commentaries/LSDC20_TG_bo.md",
-                "bFile": "1-SOURCES/Commentaries/LSDC20_TG_bo.md",
-                "aRef": ""
+                "file": "1-SOURCES/Commentaries/zh-噶千仁波切.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: LSDC20_TG_bo  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "zh-噶千仁波切"
             }
           },
           {
@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -264,8 +264,9 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "8554933c0e44e52e",
+  "active": "11de15b1b0182668",
   "lastOpenFiles": [
+    "4-SYSTEM/Skills/format-commentary/SKILL.md",
     "4-SYSTEM/Skills/add-toc/SKILL.md",
     "1-SOURCES/Text/LSDC14_TMZP-bo.md",
     "1-SOURCES/Commentaries/LSDC20_TG_bo.md",
@@ -275,7 +276,6 @@
     "1-SOURCES/Commentaries/zh-噶千仁波切.md",
     "1-SOURCES/Translations/zh-嚴定法師-噶千佛學會 Garchen Institute.md",
     "4-SYSTEM/Skills/reference-frontmatter/SKILL.md",
-    "4-SYSTEM/Skills/format-commentary/SKILL.md",
     "4-SYSTEM/Skills/property-creator/SKILL.md",
     "4-SYSTEM/Skills/section-summary-raw/SKILL.md",
     "4-SYSTEM/Skills/structural-outline-ingest/SKILL.md",
