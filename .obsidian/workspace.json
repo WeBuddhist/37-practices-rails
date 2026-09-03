@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -264,13 +264,13 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "b3460e52b24a1bb1",
+  "active": "341bf8046fb41ab8",
   "lastOpenFiles": [
+    "1-SOURCES/Commentaries/LSDC20_TG_bo.md",
     "1-SOURCES/Commentaries/zh-噶千仁波切.md",
     "4-SYSTEM/Skills/format-commentary/SKILL.md",
     "4-SYSTEM/Skills/add-toc/SKILL.md",
     "1-SOURCES/Text/LSDC14_TMZP-bo.md",
-    "1-SOURCES/Commentaries/LSDC20_TG_bo.md",
     "4-SYSTEM/Skills/commentary-frontmatter/SKILL.md",
     "2-RAILS/About Rails.md",
     "1-SOURCES/Commentaries/LSDC20_TCD_bo.md",
