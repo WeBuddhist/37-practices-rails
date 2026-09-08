@@ -63,8 +63,7 @@
               "title": "SKILL"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +122,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 248.98062133789062
+    "width": 293.0116271972656
   },
   "right": {
     "id": "08fb4a0a47ab3b49",
@@ -250,12 +249,12 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "8554933c0e44e52e",
+  "active": "341bf8046fb41ab8",
   "lastOpenFiles": [
+    "4-SYSTEM/Skills/format-commentary/SKILL.md",
     "1-SOURCES/Commentaries/LSDC20_TG_bo.md",
     "1-SOURCES/Text/LSDC14_TMZP-bo.md",
     "1-SOURCES/Commentaries/zh-噶千仁波切.md",
-    "4-SYSTEM/Skills/format-commentary/SKILL.md",
     "4-SYSTEM/Skills/add-toc/SKILL.md",
     "4-SYSTEM/Skills/commentary-frontmatter/SKILL.md",
     "2-RAILS/About Rails.md",
