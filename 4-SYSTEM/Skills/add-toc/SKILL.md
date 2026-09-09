@@ -14,9 +14,7 @@ the hierarchy from the Tibetan text itself, and write a clean nested TOC.
 
 ## Step 1 -- Read the draft TOC
 
-Use the Read tool to fetch only the opening portion of the file -- enough to
-capture the full TOC section. Stop at the first `---` or `##` heading that
-follows the TOC list.
+Use the Read tool to fetch only the opening portion of the file -- enough to capture the full TOC section. Stop at the first `---` or `##` heading that follows the TOC list.
 
 The draft looks like this (all bullets at the same level):
 
