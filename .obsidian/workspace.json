@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4-SYSTEM/Guidelines/skills-system.md",
+                "file": "4-SYSTEM/Skills/verse-context/SKILL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "skills-system"
+              "title": "SKILL"
             }
           },
           {
@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4-SYSTEM/Skills/property-creator/SKILL.md",
+                "file": "4-SYSTEM/Skills/root-text-frontmatter/SKILL.md",
                 "mode": "source",
                 "source": false
               },
@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -264,26 +264,26 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "c28b03b43e19a4fd",
+  "active": "8554933c0e44e52e",
   "lastOpenFiles": [
+    "4-SYSTEM/Guidelines/skills-system.md",
+    "1-SOURCES/Text/LSDC14_TMZP-bo.md",
+    "4-SYSTEM/Skills/root-text-frontmatter/SKILL.md",
+    "4-SYSTEM/Skills/property-creator/SKILL.md",
     "4-SYSTEM/Skills/reference-frontmatter/SKILL.md",
     "4-SYSTEM/Skills/local-wiki-article/SKILL.md",
     "4-SYSTEM/Skills/interlinear-gloss/SKILL.md",
-    "4-SYSTEM/Guidelines/skills-system.md",
     "4-SYSTEM/Skills/add-toc/SKILL.md",
     "4-SYSTEM/Skills/format-commentary/SKILL.md",
-    "1-SOURCES/Text/LSDC14_TMZP-bo.md",
     "1-SOURCES/Commentaries/LSDC20_TG_bo.md",
     "1-SOURCES/Commentaries/zh-噶千仁波切.md",
     "4-SYSTEM/Skills/commentary-frontmatter/SKILL.md",
     "2-RAILS/About Rails.md",
     "1-SOURCES/Commentaries/LSDC20_TCD_bo.md",
     "1-SOURCES/Translations/zh-嚴定法師-噶千佛學會 Garchen Institute.md",
-    "4-SYSTEM/Skills/property-creator/SKILL.md",
     "4-SYSTEM/Skills/section-summary-raw/SKILL.md",
     "4-SYSTEM/Skills/structural-outline-ingest/SKILL.md",
     "4-SYSTEM/Skills/verse-context/SKILL.md",
-    "4-SYSTEM/Skills/root-text-frontmatter/SKILL.md",
     "4-SYSTEM/Skills/format-root-text/SKILL.md",
     "4-SYSTEM/Skills/create-skill/SKILL.md",
     "Untitled.canvas",
