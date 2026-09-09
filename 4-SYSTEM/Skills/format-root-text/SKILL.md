@@ -4,18 +4,18 @@ description: Format and normalise source files (root texts, translations, commen
 ---
 # Root-text verse format (real example)
 
-Source pattern seen in this project's vault for root-text translations (e.g. `bo-བློ་ལྡན་ཤེས་རབ།.md`, the Tibetan canonical translation of the Bodhicaryavatara).
+Source pattern seen in this project's vault for root-text  (e.g. `LSDC14_TMZP-bo.md`, the Tibetan language རྒྱལ་སྲས་ལག་ལེན་སོ་བདུན་མ།).
 
 ```markdown
 ---
-title: བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ།
+title: རྒྱལ་སྲས་ལག་ལེན་སོ་བདུན་མ།
 ...
 verse_id_format: chapter-verse
-root_text: 1-SOURCES/Text/BCAV08_SH_sk.md
-covers_verses: 1-1–10-61
+root_text: 1-SOURCES/Text/LSDC14_TMZP-bo.md
+covers_verses: 1-1–10-61?
 ...
 ---
-# ༄༅། །བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ་བཞུགས་སོ། ། ^0
+# རྒྱལ་སྲས་ལག་ལེན་སོ་བདུན་མ། ^0
 
 ## 0. ཀླད་ཀྱི་དོན། ^I-0
 
