@@ -2,7 +2,50 @@
 name: format-root-text
 description: Format and normalise source files (root texts, translations, commentaries) in the 1-Human-Sources/ folder. Handles frontmatter, block IDs (including Chapter 0), heading structures (TOC), and cleaning OCR artifacts. Reference [[1-Human-Sources-Guideline]] for standards.
 ---
+# Root-text verse format (real example)
 
+Source pattern seen in this project's vault for root-text translations (e.g. `bo-བློ་ལྡན་ཤེས་རབ།.md`, the Tibetan canonical translation of the Bodhicaryavatara).
+
+```markdown
+---
+title: བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ།
+...
+verse_id_format: chapter-verse
+root_text: 1-SOURCES/Text/BCAV08_SH_sk.md
+covers_verses: 1-1–10-61
+...
+---
+# ༄༅། །བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ་བཞུགས་སོ། ། ^0
+
+## 0. ཀླད་ཀྱི་དོན། ^I-0
+
+༄༅༅། །རྒྱ་གར་སྐད་དུ། བོ་དྷི་སཏྭ་ཙརྱ་ཨ་བ་ཏཱ་ར། ^I-1
+
+བོད་སྐད་དུ། བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ། ^I-2
+
+## 1. ལེའུ་དང་པོ། བྱང་ཆུབ་སེམས་ཀྱི་ཕན་ཡོན་བཤད་པ། ^1-0
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^1-1]]
+
+བདེ་གཤེགས་ཆོས་ཀྱི་སྐུ་མངའ་སྲས་བཅས་དང་། །
+ཕྱག་འོས་ཀུན་ལའང་གུས་པར་ཕྱག་འཚལ་ཏེ། །
+བདེ་གཤེགས་སྲས་ཀྱི་སྡོམ་ལ་འཇུག་པ་ནི། །
+ལུང་བཞིན་མདོར་བསྡུས་ནས་ནི་བརྗོད་པར་བྱ། ། ^1-1
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^1-2]]
+
+སྔོན་ཆད་མ་བྱུང་བ་ཡང་འདིར་བརྗོད་མེད། །
+...
+```
+
+And at the very end, after the last chapter, a colophon:
+
+```markdown
+## འགྱུར་བྱང། ^b-0
+
+རྒྱ་གར་གྱི་མཁན་པོ་སརྦ་ཛྙཱ་དེ་བ་དང་། ... ^b-1
+...
+```
 # Format Root Text
 
 This skill normalises source files (root texts, translations, and commentaries) in the `1-Human-Sources/` folder to meet the project's structural and linking standards. 
@@ -14,7 +57,7 @@ Before processing any file, review **[[1-Human-Sources-Guideline]]**. The block 
 - **Level 2 (`##`)**: Author-defined books or chapters.
 - **Level 3 (`###`)**: Author-defined sub-sections (e.g., from the author's own Table of Contents).
 - **Level 4 (`####`)**: DO NOT USE. Block IDs replace verse-level headings.
-- **Chapter 0**: Any content preceding Chapter 1 (titles, colophons, homages, scribal intros) MUST be placed under a `## 0. Introduction` heading.
+- **Chapter 0**: Any content preceding Chapter 1 (titles, colophons, homages, scribal intros) MUST be placed under a `## 0. ཀླད་ཀྱི་དོན། heading.
 
 ### 2. Block ID Format
 - **Standard**: `^chapter-verse` (e.g., `^1-1`, `^6-33`).
