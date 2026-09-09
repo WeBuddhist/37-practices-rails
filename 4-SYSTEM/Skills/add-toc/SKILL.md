@@ -14,9 +14,7 @@ description: >
 
 # Add-TOC Skill
 
-The input is a **flat, unindented list** of Tibetan outline items already
-present in the document's TOC section. All items sit at the same bullet level
-regardless of their structural depth. Your job is to read this list, reconstruct
+The input is a **flat, unindented list** of Tibetan outline items already present in the document's TOC section. All items sit at the same bullet level regardless of their structural depth. Your job is to read this list, reconstruct
 the hierarchy from the Tibetan text itself, and write a clean nested TOC.
 
 ---
