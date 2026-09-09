@@ -26,11 +26,11 @@ No tracks exist yet — add them as they are commissioned. Each track folder is 
 
 Producing a reliable AI-assisted translation requires three sequential phases. Each phase exists to defuse one of the three core failure modes of AI translation.
 
-| Failure mode | Where it is addressed |
-| ----------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Hallucinations — fabricated meaning at section or verse level | Phase 1 (context preparation) → `2-RAILS/Sections/`, `2-RAILS/Verses/`, `2-RAILS/Local-Wiki/` |
+| Failure mode                                                        | Where it is addressed                                                                           |
+| ------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
+| Hallucinations — fabricated meaning at section or verse level       | Phase 1 (context preparation) → `2-RAILS/Sections/`, `2-RAILS/Verses/`, `2-RAILS/Local-Wiki/`   |
 | Inconsistent vocabulary — the same source term rendered differently | Phase 1 (context preparation) → `2-RAILS/Bilingual-Glossaries/` and the per-track `termbase.md` |
-| Inconsistent style over long texts | `requirements.md` for the track (binding style contract) + Phase 3 QA using the MQM taxonomy |
+| Inconsistent style over long texts                                  | `requirements.md` for the track (binding style contract) + Phase 3 QA using the MQM taxonomy    |
 
 ### Phase 1 — Context preparation
 
