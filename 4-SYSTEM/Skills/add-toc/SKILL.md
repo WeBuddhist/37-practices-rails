@@ -1,15 +1,8 @@
 ---
 name: add-toc
-description: >
-  Generate a nested, decimal-numbered Table of Contents (TOC / dkar-chag) from
-  a flat draft list at the top of a Tibetan markdown document. Each entry in the
-  output is tagged with a `^toc-X-Y-Z` Obsidian block ID. The output file is
-  saved to `0-INBOX/temp/` with the prefix `toc-` added to the original filename.
-
-  Trigger this skill whenever the user says things like:
-  "add a TOC", "generate a table of contents", "create a dkar chag",
-  "prepend a TOC to this file", "add block-ID toc entries", or any request
-  to produce a nested outline at the top of a document.
+description: |-
+  Generate a nested, decimal-numbered Table of Contents (TOC / dkar-chag) from a flat draft list at the top of a Tibetan markdown document. Each entry in the output is tagged with a `^toc-X-Y-Z` Obsidian block ID. The output file is saved to `0-INBOX/temp/` with the prefix `toc-` added to the original filename.
+  Trigger this skill whenever the user says things like: "add a TOC", "generate a table of contents", "create a dkar chag", "prepend a TOC to this file", "add block-ID toc entries", or any request to produce a nested outline at the top of a document.
 ---
 
 # Add-TOC Skill
@@ -40,13 +33,11 @@ The draft looks like this (all bullets at the same level):
 
 ## Step 2 -- Infer the hierarchy
 
-Hierarchy is encoded entirely in the Tibetan text. Read each item and assign a
-depth using these signals, in order of priority:
+Hierarchy is encoded entirely in the Tibetan text. Read each item and assign a depth using these signals, in order of priority:
 
 ### 2a. Ordinal prefixes signal sibling rank
 
-An item beginning with an ordinal is a sibling of other items at the same
-ordinal series. The series restarts when a new parent is introduced:
+An item beginning with an ordinal is a sibling of other items at the same ordinal series. The series restarts when a new parent is introduced:
 
 | Prefix | Meaning |
 |---|---|
@@ -63,29 +54,23 @@ Bracket markers (༡༽, ༢༽, ཀ༽, ཁ༽) and parenthetical numbers follo
 
 ### 2b. "Introduction + enumeration" items shift depth
 
-An item that **introduces sub-items** (ending with a count like `གཉིས།`,
-`གསུམ་སྟེ།`, `བཞི་ལས།`, or with `ལ།`) is a parent. The next item(s) are its
-children -- one level deeper.
+An item that **introduces sub-items** (ending with a count like `གཉིས།`, `གསུམ་སྟེ།`, `བཞི་ལས།`, or with `ལ།`) is a parent. The next item(s) are its children -- one level deeper.
 
-An item that simply names one element of an enumeration (short, no trailing
-count phrase) is a leaf at that depth.
+An item that simply names one element of an enumeration (short, no trailing count phrase) is a leaf at that depth.
 
 ### 2c. Depth resets when a peer ordinal appears
 
-When you see `གཉིས་པ་...` after a series of children, you return to the depth
-of the matching `དང་པོ་` that opened that sibling series.
+When you see `གཉིས་པ་...` after a series of children, you return to the depth of the matching `དང་པོ་` that opened that sibling series.
 
 ### 2d. Items with no ordinal prefix
 
-Items with no ordinal prefix and no introduction phrase are at the same depth
-as the previous item unless context indicates otherwise.
+Items with no ordinal prefix and no introduction phrase are at the same depth as the previous item unless context indicates otherwise.
 
 ---
 
 ## Step 3 -- Assign toc_ids
 
-Walk the hierarchy in document order. Maintain a counter per depth level;
-reset deeper counters whenever you move up to a shallower level.
+Walk the hierarchy in document order. Maintain a counter per depth level; reset deeper counters whenever you move up to a shallower level.
 
 ```
 depth 1  ->  1, 2, 3, ...
@@ -149,8 +134,7 @@ Write the complete file (new TOC section + original body) to:
 0-INBOX/temp/toc-{original-filename}
 ```
 
-within the vault root. If an existing `## དཀར་ཆག` section is present, replace it
-with the new one. Splice the TOC immediately after the YAML frontmatter.
+within the vault root. If an existing `## དཀར་ཆག` section is present, replace it with the new one. Splice the TOC immediately after the YAML frontmatter.
 
 ---
 
