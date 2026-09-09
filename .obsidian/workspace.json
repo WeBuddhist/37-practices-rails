@@ -91,8 +91,7 @@
               "title": "skills-system"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -167,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "1-SOURCES/Text/LSDC14_TMZP-bo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +176,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks"
             }
           },
           {
@@ -186,12 +185,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "1-SOURCES/Text/LSDC14_TMZP-bo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links"
             }
           },
           {
@@ -229,13 +228,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "1-SOURCES/Text/LSDC14_TMZP-bo.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline"
             }
           },
           {
@@ -259,11 +258,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 423.05810546875
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -278,8 +277,9 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "b3460e52b24a1bb1",
+  "active": "1010fdbaeceef62a",
   "lastOpenFiles": [
+    "1-SOURCES/Commentaries/LSDC20_TG_bo.md",
     "1-SOURCES/Text/LSDC14_TMZP-bo.md",
     "4-SYSTEM/Skills/format-root-text/SKILL.md",
     "4-SYSTEM/Skills/root-text-frontmatter/SKILL.md",
@@ -298,7 +298,6 @@
     "4-SYSTEM/Skills/interlinear-gloss/SKILL.md",
     "4-SYSTEM/Skills/add-toc/SKILL.md",
     "4-SYSTEM/Skills/format-commentary/SKILL.md",
-    "1-SOURCES/Commentaries/LSDC20_TG_bo.md",
     "1-SOURCES/Commentaries/zh-噶千仁波切.md",
     "4-SYSTEM/Skills/commentary-frontmatter/SKILL.md",
     "1-SOURCES/Commentaries/LSDC20_TCD_bo.md",
