@@ -27,29 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-SOURCES/Commentaries/LSDC20_TCD_bo.md",
+                "file": "1-SOURCES/Translations/LSDC14_TMZP-en.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LSDC20_TCD_bo"
-            }
-          },
-          {
-            "id": "4ff75537a00f89c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-SOURCES/Commentaries/LSDC20_TG_bo.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "LSDC20_TG_bo"
+              "title": "LSDC14_TMZP-en"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -186,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-SOURCES/Text/LSDC14_TMZP-bo.md",
+                "file": "1-SOURCES/Translations/LSDC14_TMZP-en.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -245,12 +232,12 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "1010fdbaeceef62a",
+  "active": "a8000a321d9addac",
   "lastOpenFiles": [
     "1-SOURCES/Commentaries/LSDC20_TCD_bo.md",
+    "1-SOURCES/Text/LSDC14_TMZP-bo.md",
     "1-SOURCES/Commentaries/LSDC20_TG_bo.md",
     "conflict-files-obsidian-git.md",
-    "1-SOURCES/Text/LSDC14_TMZP-bo.md",
     "1-SOURCES/Text/LSDC14_TMZP-bo^1-1.md",
     "1-SOURCES/Commentaries/zh-噶千仁波切.md",
     "4-SYSTEM/Skills/format-root-text/SKILL.md",
