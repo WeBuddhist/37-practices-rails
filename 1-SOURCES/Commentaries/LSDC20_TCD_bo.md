@@ -12,9 +12,9 @@ covers_verses: 0-1–2-4
 source_description: "Composed by Thubten Chökyi Drakpa, at Serlhartse Monastery, at the repeated request of the yogin Orgyen Lhündrub (per colophon, ^3-5-15) — no published edition data given in the file"
 ---
 
-# རྒྱལ་སྲས་ལག་ལེན་གྱི་འགྲེལ་པ་གཞུང་དང་གདམས་ངག་ཟུང་འཇུག་བདུད་རྩིའི་བུམ་བཟང་ཞེས་བྱ་བ་བཞུགས་སོ། །
+# རྒྱལ་སྲས་ལག་ལེན་གྱི་འགྲེལ་པ་གཞུང་དང་གདམས་ངག་ཟུང་འཇུག་བདུད་རྩིའི་བུམ་བཟང་ཞེས་བྱ་བ་བཞུགས་སོ། །^0
 
-ཐུབ་བསྟན་ཆོས་ཀྱི་གྲགས་པ།
+## ཀླད་ཀྱི་དོན།^I-0
 ## མཆོད་བརྗོད།
 
 ༄༅། །སྙིང་སྟོབས་ཆེན་པོས་མཁའ་ཁྱབ་འགྲོ་བ་ཀུན །
@@ -44,6 +44,8 @@ source_description: "Composed by Thubten Chökyi Drakpa, at Serlhartse Monastery
 ![[LSDC14_TMZP-bo#^0133d6]]
 
 དང་པོ་ནི། ན་མོ་ལོ་ཀེ་ཤྭ་ར་ཡ། ཞེས་གསུངས། དོན་ནི། འཇིག་རྟེན་དབང་ཕྱུག་ལ་ཕྱག་འཚལ་ལོ། །ཞེས་པའོ། ། ^1-1-1
+
+![[LSDC14_TMZP-bo#^cde71a]]
 
 གཉིས་པ་ནི།
 གང་གིས་ཆོས་ཀུན་འགྲོ་འོང་མེད་གཟིགས་ཀྱང༌ །
