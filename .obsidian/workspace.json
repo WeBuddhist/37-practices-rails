@@ -22,6 +22,34 @@
             }
           },
           {
+            "id": "fac8640eb2820e67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-SOURCES/Text/LSDC14_TMZP-bo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "LSDC14_TMZP-bo"
+            }
+          },
+          {
+            "id": "ede092638108bb56",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-SOURCES/Text/LSDC14_TMZP-bo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "LSDC14_TMZP-bo"
+            }
+          },
+          {
             "id": "7af508f376122c0d",
             "type": "leaf",
             "state": {
@@ -35,7 +63,8 @@
               "title": "LSDC20_TCD_bo"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -221,14 +250,15 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "eb2538ea3fa47051",
+  "active": "ede092638108bb56",
   "lastOpenFiles": [
-    "1-SOURCES/Translations/zh-普舟-噶千佛學會 Garchen Institute.md",
     "1-SOURCES/Commentaries/zh-噶千仁波切.md",
-    "1-SOURCES/Translations/zh-嚴定法師-噶千佛學會 Garchen Institute.md",
+    "conflict-files-obsidian-git.md",
     "1-SOURCES/Text/LSDC14_TMZP-bo.md",
-    "1-SOURCES/Commentaries/LSDC20_TCD_bo.md",
+    "1-SOURCES/Translations/zh-嚴定法師-噶千佛學會 Garchen Institute.md",
+    "1-SOURCES/Translations/zh-普舟-噶千佛學會 Garchen Institute.md",
     "1-SOURCES/Translations/LSDC14_TMZP-en.md",
+    "1-SOURCES/Commentaries/LSDC20_TCD_bo.md",
     "1-SOURCES/Commentaries/LSDC20_TG_bo.md",
     "LSDC14_TMZP-bo^1-1.md",
     "1-SOURCES/Commentaries/Raw commentaries/bo-སངས་རྒྱས་མཉན་པ་རིན་པོ་ཆེ།.md",
@@ -254,7 +284,6 @@
     "gemini-scribe/Background-Tasks",
     "gemini-scribe/Agent-Sessions",
     "1-SOURCES/Commentaries/bo-སྐྱབས་རྗེ་མཁན་ཆེན་ཁྲ་འགུ་རིན་པོ་ཆེ།.md.tmp.14928.caa715944364",
-    "conflict-files-obsidian-git.md",
     "CLAUDE.md.tmp.30504.1a50d75861ed",
     "3-TRANSFORMATIONS/Plans/sedgLGgXf",
     "3-TRANSFORMATIONS/Plans/sedMpWUGZ",
