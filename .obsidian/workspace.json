@@ -39,14 +39,14 @@
             "id": "e3b68f989fc9d2b8",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "1-SOURCES/Commentaries/LSDC20_TCD_bo.md",
-                "bFile": "1-SOURCES/Commentaries/LSDC20_TCD_bo.md",
-                "aRef": ""
+                "file": "1-SOURCES/Commentaries/LSDC20_TCD_bo.md.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: LSDC20_TCD_bo  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "LSDC20_TCD_bo.md"
             }
           },
           {
@@ -262,8 +262,8 @@
   },
   "active": "a8000a321d9addac",
   "lastOpenFiles": [
+    "1-SOURCES/Commentaries/LSDC20_TCD_bo.md.md",
     "1-SOURCES/Text/LSDC14_TMZP-bo.md.md",
-    "1-SOURCES/Commentaries/LSDC20_TCD_bo.md",
     "1-SOURCES/Translations/LSDC14_TMZP-en.md",
     "conflict-files-obsidian-git.md",
     "1-SOURCES/Commentaries/zh-噶千仁波切.md",
