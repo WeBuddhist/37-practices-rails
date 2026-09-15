@@ -53,7 +53,7 @@ source_description: "Composed by Thubten Chökyi Drakpa, at Serlhartse Monastery
 
 ### རྩོམ་པར་དམ་བཅའ་བ།^1-1
 
-![[LSDC14_TMZP-bo.md^1-]]
+![[LSDC14_TMZP-bo.md#^368ef7]]
 
 གཉིས་པ་ནི།
 ཕན་བདེའི་འབྱུང་གནས་རྫོགས་པའི་སངས་རྒྱས་རྣམས །
