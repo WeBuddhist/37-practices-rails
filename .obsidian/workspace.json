@@ -241,7 +241,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -260,8 +260,11 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "e3b68f989fc9d2b8",
+  "active": "15014ceefa497d3c",
   "lastOpenFiles": [
+    "4-SYSTEM/Skills/Obsidian-Block-ID-to-Commentary/SKILL.md",
+    "4-SYSTEM/Skills/Obsidian-Block-ID-to-Commentary/apply.py",
+    "4-SYSTEM/Skills/Obsidian-Block-ID-to-Commentary",
     "1-SOURCES/Text/LSDC14_TMZP-bo.md.md",
     "1-SOURCES/Commentaries/LSDC20_TCD_bo.md.md",
     "1-SOURCES/Translations/LSDC14_TMZP-en.md",
@@ -287,7 +290,6 @@
     "4-SYSTEM/Skills/add-toc/SKILL.md",
     "4-SYSTEM/Skills/format-commentary/SKILL.md",
     "4-SYSTEM/Skills/commentary-frontmatter/SKILL.md",
-    "4-SYSTEM/Skills/section-summary-raw/SKILL.md",
     "Untitled.canvas",
     "1-SOURCES/Commentaries/Raw commentaries",
     "gemini-scribe/Scheduled-Tasks/Runs",
@@ -296,8 +298,6 @@
     "gemini-scribe/Agent-Sessions",
     "1-SOURCES/Commentaries/bo-སྐྱབས་རྗེ་མཁན་ཆེན་ཁྲ་འགུ་རིན་པོ་ཆེ།.md.tmp.14928.caa715944364",
     "CLAUDE.md.tmp.30504.1a50d75861ed",
-    "3-TRANSFORMATIONS/Plans/sedgLGgXf",
-    "3-TRANSFORMATIONS/Plans/sedMpWUGZ",
-    "3-TRANSFORMATIONS/sedVLEYhd"
+    "3-TRANSFORMATIONS/Plans/sedgLGgXf"
   ]
 }
