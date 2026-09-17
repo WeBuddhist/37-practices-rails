@@ -201,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-SOURCES/Text/LSDC14_TMZP-bo.md.md",
+                "file": "1-SOURCES/Commentaries/LSDC20_TCD_bo.md.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -241,7 +241,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -260,11 +260,11 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "cbb0c06f77c3d4be",
+  "active": "1010fdbaeceef62a",
   "lastOpenFiles": [
     "1-SOURCES/Text/LSDC14_TMZP-bo.md.md",
-    "1-SOURCES/Translations/zh-嚴定法師-噶千佛學會 Garchen Institute.md",
     "1-SOURCES/Commentaries/LSDC20_TCD_bo.md.md",
+    "1-SOURCES/Translations/zh-嚴定法師-噶千佛學會 Garchen Institute.md",
     "1-SOURCES/Translations/LSDC14_TMZP-en.md",
     "4-SYSTEM/Skills/Obsidian-Block-ID-to-Commentary/SKILL.md",
     "4-SYSTEM/Skills/Obsidian-Block-ID-to-Commentary/apply.py",
