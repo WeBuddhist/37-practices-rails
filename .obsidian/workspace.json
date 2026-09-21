@@ -106,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -243,7 +243,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-SOURCES/Commentaries/LSDC20_TG_bo_1.md",
+                "file": "3-TRANSFORMATIONS/Plans/37 Practice.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -283,7 +283,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -302,9 +302,10 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "1de663679d2807d6",
+  "active": "d2528b072a71996e",
   "lastOpenFiles": [
     "1-SOURCES/Text/LSDC14_TMZP-bo.md.md",
+    "1-SOURCES/Commentaries/LSDC20_TG_bo_1.md",
     "3-TRANSFORMATIONS/Plans/37 Practice.md",
     "4-SYSTEM/Guidelines/vault-annex.md",
     "4-SYSTEM/Guidelines/skills-system.md",
@@ -321,7 +322,6 @@
     "4-SYSTEM/Skills/format-commentary/SKILL.md",
     "transclusion.md",
     "4-SYSTEM/Skills/Obsidian-Block-ID-to-Commentary/SKILL.md",
-    "1-SOURCES/Commentaries/LSDC20_TG_bo_1.md",
     "4-SYSTEM/Skills/Root-Text-Transclusion",
     "1-SOURCES/Commentaries/_to_delete/WITH_TRANSCLUSIONS_reapplied.md",
     "1-SOURCES/Commentaries/_to_delete/WITH_TRANSCLUSIONS.md",
