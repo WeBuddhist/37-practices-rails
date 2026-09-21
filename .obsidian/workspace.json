@@ -83,7 +83,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4-SYSTEM/Skills/section-summary-raw/SKILL.md",
+                "file": "4-SYSTEM/Skills/Root-Text-Transclusion/SKILL.md",
                 "mode": "source",
                 "source": false
               },
@@ -229,7 +229,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4-SYSTEM/Skills/section-summary-raw/SKILL.md",
+                "file": "4-SYSTEM/Skills/Root-Text-Transclusion/SKILL.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -269,7 +269,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -288,8 +288,12 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "a7f0716754395d29",
+  "active": "15014ceefa497d3c",
   "lastOpenFiles": [
+    "4-SYSTEM/Skills/Catalog/SKILLS-CATALOG.md",
+    "4-SYSTEM/Skills/Catalog",
+    "4-SYSTEM/Skills/New folder",
+    "4-SYSTEM/Skills/section-summary-raw/SKILL.md",
     "4-SYSTEM/Skills/section-summary-combined/SKILL.md",
     "4-SYSTEM/Skills/reference-frontmatter/SKILL.md",
     "4-SYSTEM/Skills/property-creator/SKILL.md",
@@ -315,8 +319,6 @@
     "1-SOURCES/Commentaries/STRUCTURED2.md",
     "1-SOURCES/Commentaries/REVERTED2_reapplied.md",
     "1-SOURCES/Commentaries/REVERTED2.md",
-    "1-SOURCES/Commentaries/_to_delete/STRUCTURED_v2.md",
-    "1-SOURCES/Commentaries/_to_delete/STRUCTURED_v1.md",
     "1-SOURCES/Commentaries/_to_delete",
     "1-SOURCES/Commentaries/LSDC20_TG_bo.md.bak",
     "4-SYSTEM/Skills/Obsidian-Block-ID-to-Commentary/sedgsremf",
@@ -324,8 +326,6 @@
     "4-SYSTEM/Skills/Obsidian-Block-ID-to-Commentary/_scratch",
     "1-SOURCES/Commentaries/LSDC20_TCD_bo.md.md.bak",
     "4-SYSTEM/Skills/Obsidian-Block-ID-to-Commentary/apply.py",
-    "4-SYSTEM/Skills/Obsidian-Block-ID-to-Commentary",
-    "Untitled.canvas",
-    "1-SOURCES/Commentaries/Raw commentaries"
+    "Untitled.canvas"
   ]
 }
