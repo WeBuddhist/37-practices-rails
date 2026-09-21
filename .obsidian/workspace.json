@@ -290,6 +290,17 @@
   },
   "active": "1de663679d2807d6",
   "lastOpenFiles": [
+    "1-SOURCES/Commentaries/_to_delete/STRUCTURED_v2.md",
+    "1-SOURCES/Commentaries/_to_delete/STRUCTURED_v1.md",
+    "1-SOURCES/Commentaries/_to_delete/STRUCTURED.md",
+    "1-SOURCES/Commentaries/_to_delete/REVERTED_reapplied.md",
+    "1-SOURCES/Commentaries/_to_delete/REVERTED.md",
+    "1-SOURCES/Commentaries/_to_delete",
+    "1-SOURCES/Commentaries/STRUCTURED_v2.md",
+    "1-SOURCES/Commentaries/STRUCTURED_v1.md",
+    "1-SOURCES/Commentaries/STRUCTURED.md",
+    "1-SOURCES/Commentaries/REVERTED_reapplied.md",
+    "1-SOURCES/Commentaries/REVERTED.md",
     "1-SOURCES/Commentaries/LSDC20_TCD_bo.md",
     "1-SOURCES/Commentaries/LSDC20_TG_bo_1.md",
     "4-SYSTEM/Skills/Obsidian-Block-ID-to-Commentary/SKILL.md",
@@ -313,18 +324,8 @@
     "1-SOURCES/Translations/LSDC14_TMZP-en.md",
     "4-SYSTEM/Skills/Obsidian-Block-ID-to-Commentary/apply.py",
     "4-SYSTEM/Skills/Obsidian-Block-ID-to-Commentary",
-    "conflict-files-obsidian-git.md",
-    "1-SOURCES/Text/LSDC14_TMZP-bo^1-1.md",
-    "4-SYSTEM/Skills/format-root-text/SKILL.md",
-    "LSDC14_TMZP-bo^1-1.md",
-    "4-SYSTEM/Skills/root-text-frontmatter/SKILL.md",
-    "4-SYSTEM/Guidelines/skills-system.md",
-    "3-TRANSFORMATIONS/Translations/About Translations.md",
-    "2-RAILS/About Rails.md",
-    "1-SOURCES/Translations/zh-普舟-噶千佛學會 Garchen Institute.md",
     "Untitled.canvas",
     "1-SOURCES/Commentaries/Raw commentaries",
-    "gemini-scribe/Scheduled-Tasks/Runs",
-    "gemini-scribe/Skills"
+    "gemini-scribe/Scheduled-Tasks/Runs"
   ]
 }
