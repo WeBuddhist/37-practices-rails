@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -229,7 +229,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-SOURCES/Commentaries/LSDC20_TG_bo_1.md",
+                "file": "1-SOURCES/Commentaries/LSDC20_TCD_bo.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -288,11 +288,11 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "1de663679d2807d6",
+  "active": "0237faf0eda7da5f",
   "lastOpenFiles": [
-    "4-SYSTEM/Skills/Obsidian-Block-ID-to-Commentary/SKILL.md",
-    "1-SOURCES/Commentaries/LSDC20_TCD_bo.md",
     "1-SOURCES/Commentaries/LSDC20_TG_bo_1.md",
+    "1-SOURCES/Commentaries/LSDC20_TCD_bo.md",
+    "4-SYSTEM/Skills/Obsidian-Block-ID-to-Commentary/SKILL.md",
     "1-SOURCES/Commentaries/_to_delete/STRUCTURED2_v2.md",
     "1-SOURCES/Commentaries/_to_delete/STRUCTURED2_v1.md",
     "1-SOURCES/Commentaries/_to_delete/STRUCTURED2.md",
