@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-TRANSFORMATIONS/Plans/37 Practice.md",
+                "file": "3-TRANSFORMATIONS/Plans/37 Practice_bo/ཉིན་དང་པོ། ཤློཀ་༡-༢ 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "37 Practice"
+              "title": "ཉིན་དང་པོ། ཤློཀ་༡-༢ 1"
             }
           }
         ],
@@ -243,7 +243,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-TRANSFORMATIONS/Plans/37 Practice.md",
+                "file": "3-TRANSFORMATIONS/Plans/37 Practice_bo/ཉིན་དང་པོ། ཤློཀ་༡-༢ 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -304,8 +304,15 @@
   },
   "active": "d2528b072a71996e",
   "lastOpenFiles": [
+    "3-TRANSFORMATIONS/Plans/37 Practice_bo/ཉིན་དང་པོ། ཤློཀ་༡-༢.md",
+    "3-TRANSFORMATIONS/Plans/37 Practice_bo/ཉིན་དང་པོ། ཤློཀ་༡-༢ 1.md",
+    "3-TRANSFORMATIONS/Plans/About Plans.md",
+    "3-TRANSFORMATIONS/Plans/37 Practice_zh",
+    "4-SYSTEM/Skills/translation-frontmatter/SKILL 1.md",
+    "3-TRANSFORMATIONS/Plans/37 Practice_bo",
+    "bo-root-text.md",
+    "3-TRANSFORMATIONS/Plans/37 Practice_en",
     "1-SOURCES/Text/LSDC14_TMZP-bo.md.md",
-    "3-TRANSFORMATIONS/Plans/37 Practice.md",
     "1-SOURCES/Commentaries/LSDC20_TCD_bo.md",
     "1-SOURCES/Commentaries/LSDC20_TG_bo_1.md",
     "4-SYSTEM/Guidelines/vault-annex.md",
@@ -329,17 +336,10 @@
     "1-SOURCES/Commentaries/WITH_TRANSCLUSIONS_reapplied.md",
     "1-SOURCES/Commentaries/WITH_TRANSCLUSIONS.md",
     "1-SOURCES/Commentaries/_to_delete/STRUCTURED2_v2.md",
-    "1-SOURCES/Commentaries/_to_delete/STRUCTURED2_v1.md",
-    "1-SOURCES/Commentaries/_to_delete/STRUCTURED2.md",
-    "1-SOURCES/Commentaries/_to_delete/REVERTED2_reapplied.md",
-    "1-SOURCES/Commentaries/_to_delete/REVERTED2.md",
     "1-SOURCES/Commentaries/_to_delete",
     "1-SOURCES/Commentaries/LSDC20_TG_bo.md.bak",
     "4-SYSTEM/Skills/Obsidian-Block-ID-to-Commentary/sedgsremf",
     "4-SYSTEM/Skills/Obsidian-Block-ID-to-Commentary/_scratch/LSDC20_TCD_bo.scratch.md.run2",
-    "4-SYSTEM/Skills/Obsidian-Block-ID-to-Commentary/_scratch",
-    "1-SOURCES/Commentaries/LSDC20_TCD_bo.md.md.bak",
-    "4-SYSTEM/Skills/Obsidian-Block-ID-to-Commentary/apply.py",
     "Untitled.canvas"
   ]
 }

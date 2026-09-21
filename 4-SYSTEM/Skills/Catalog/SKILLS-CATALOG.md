@@ -46,7 +46,7 @@ Generates complete YAML frontmatter for a commentary file in `1-SOURCES/Commenta
 
 ### `translation-frontmatter` **[exists]**
 Generates complete YAML frontmatter for a translation file in `1-SOURCES/Translations/`, including translator, target language, and `translation_basis`.
-→ [`translation-frontmatter/SKILL.md`](translation-frontmatter/SKILL.md)
+→ [`translation-frontmatter/SKILL.md`](SKILL%201.md)
 
 ### `reference-frontmatter` **[exists]**
 Generates complete YAML frontmatter for a secondary-literature or reference file in `1-SOURCES/References/`.
@@ -75,7 +75,7 @@ These skills populate `2-RAILS/` with the structured context that translation an
 **Purpose:** Build the verse-level context file for one verse.
 **Inputs:** Root-text verse (from `1-SOURCES/`), all commentary passages that discuss it (via block transclusions from `1-SOURCES/`).
 **Outputs:** One file at `2-RAILS/Verses/<verse-id>.md` containing: (1) transclusions of commentary passages, (2) a synthesis of the commentators' interpretations in the original language, (3) a disambiguated restatement of the verse in the original language precise enough to exclude any mistranslation.
-→ [`verse-context/SKILL.md`](verse-context/SKILL.md)
+→ [`verse-context/SKILL.md`](4-SYSTEM/Skills/vault-audit/verse-context/SKILL.md)
 
 ### `local-wiki-article` **[exists]**
 **Purpose:** Create or update a Local-Wiki article for one key term.
