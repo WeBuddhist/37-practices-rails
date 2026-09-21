@@ -106,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -243,7 +243,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-SOURCES/Text/LSDC14_TMZP-bo.md.md",
+                "file": "1-SOURCES/Commentaries/LSDC20_TG_bo_1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -302,10 +302,10 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "a8000a321d9addac",
+  "active": "1de663679d2807d6",
   "lastOpenFiles": [
-    "3-TRANSFORMATIONS/Plans/37 Practice.md",
     "1-SOURCES/Text/LSDC14_TMZP-bo.md.md",
+    "3-TRANSFORMATIONS/Plans/37 Practice.md",
     "4-SYSTEM/Guidelines/vault-annex.md",
     "4-SYSTEM/Guidelines/skills-system.md",
     "4-SYSTEM/Skills/section-summary-combined/SKILL.md",
