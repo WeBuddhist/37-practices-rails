@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4-SYSTEM/Skills/Catalog/SKILLS-CATALOG.md",
+                "file": "2-RAILS/About Rails.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SKILLS-CATALOG"
+              "title": "About Rails"
             }
           }
         ],
@@ -151,7 +151,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 265.25970458984375
   },
   "right": {
     "id": "08fb4a0a47ab3b49",
@@ -229,7 +229,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4-SYSTEM/Skills/Catalog/SKILLS-CATALOG.md",
+                "file": "2-RAILS/About Rails.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -290,8 +290,8 @@
   },
   "active": "a7f0716754395d29",
   "lastOpenFiles": [
-    "4-SYSTEM/Skills/Root-Text-Transclusion/SKILL.md",
     "4-SYSTEM/Skills/Catalog/SKILLS-CATALOG.md",
+    "4-SYSTEM/Skills/Root-Text-Transclusion/SKILL.md",
     "4-SYSTEM/Skills/Catalog",
     "4-SYSTEM/Skills/New folder",
     "4-SYSTEM/Skills/section-summary-raw/SKILL.md",
