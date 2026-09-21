@@ -1,7 +1,6 @@
 ---
 name: Obsidian-Block-ID-to-Commentary
-description: Stamp Obsidian block IDs onto a Tibetan commentary's ###/#### sub-headings and body-text blocks, keyed off a label the human contributor has already written by hand on each ## heading. The skill never generates, edits, or guesses a ## heading's own id — it must already be there (e.g. "^I-0", "^1-0", "^a-0") before anything else in that section gets tagged; body-text blocks then number sequentially off that same label (^I-1, ^I-2, ... or ^1-1, ^1-2, ... or ^a-1, ^a-2, ...). Use when the user wants to "add block IDs", "add Obsidian block IDs", or "tag a commentary with block IDs" — see commentary-verse-id for the narrower verse/prose-only case.
-creator: Tigerboy
+description: Stamp Obsidian block IDs onto a Tibetan commentary's
 ---
 
 # Obsidian-Block-ID-to-Commentary

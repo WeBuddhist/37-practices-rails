@@ -173,7 +173,7 @@ def tag_blocks(lines, blocks):
                 bid = "^0"
                 if EXISTING_ID_RE.search(lines[e]):
                     continue
-                lines[e] = lines[e] + " " + bid
+                lines[e] = lines[e].rstrip() + " " + bid
                 continue
 
             if level == 2:
@@ -213,7 +213,7 @@ def tag_blocks(lines, blocks):
                 bid = f"^{label}-{h3}-0"
                 if EXISTING_ID_RE.search(lines[e]):
                     continue
-                lines[e] = lines[e] + " " + bid
+                lines[e] = lines[e].rstrip() + " " + bid
                 continue
 
             if level == 4:
@@ -232,7 +232,7 @@ def tag_blocks(lines, blocks):
                 bid = f"^{label}-{h3}-{h4}-0"
                 if EXISTING_ID_RE.search(lines[e]):
                     continue
-                lines[e] = lines[e] + " " + bid
+                lines[e] = lines[e].rstrip() + " " + bid
                 continue
 
             raise AbortError(f"Unreachable heading level {level} at line {s+1}")
@@ -254,7 +254,7 @@ def tag_blocks(lines, blocks):
         if current_section[1] is None:
             current_section[1] = body_counter
         current_section[2] = body_counter
-        lines[e] = lines[e] + " " + bid
+        lines[e] = lines[e].rstrip() + " " + bid
         body_counter += 1
 
     if current_section is not None:
