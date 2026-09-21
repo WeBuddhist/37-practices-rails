@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4-SYSTEM/Skills/section-summary-combined/SKILL.md",
+                "file": "4-SYSTEM/Guidelines/vault-annex.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SKILL"
+              "title": "vault-annex"
             }
           }
         ],
@@ -229,7 +229,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4-SYSTEM/Skills/section-summary-combined/SKILL.md",
+                "file": "4-SYSTEM/Guidelines/vault-annex.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -290,6 +290,8 @@
   },
   "active": "a7f0716754395d29",
   "lastOpenFiles": [
+    "4-SYSTEM/Guidelines/skills-system.md",
+    "4-SYSTEM/Skills/section-summary-combined/SKILL.md",
     "4-SYSTEM/Skills/add-toc/SKILL.md",
     "2-RAILS/About Rails.md",
     "4-SYSTEM/Skills/Catalog/SKILLS-CATALOG.md",
@@ -297,7 +299,6 @@
     "4-SYSTEM/Skills/Catalog",
     "4-SYSTEM/Skills/New folder",
     "4-SYSTEM/Skills/section-summary-raw/SKILL.md",
-    "4-SYSTEM/Skills/section-summary-combined/SKILL.md",
     "4-SYSTEM/Skills/reference-frontmatter/SKILL.md",
     "4-SYSTEM/Skills/property-creator/SKILL.md",
     "4-SYSTEM/Skills/format-commentary/SKILL.md",
@@ -318,7 +319,6 @@
     "1-SOURCES/Commentaries/_to_delete/REVERTED2.md",
     "1-SOURCES/Commentaries/STRUCTURED2_v2.md",
     "1-SOURCES/Commentaries/STRUCTURED2_v1.md",
-    "1-SOURCES/Commentaries/STRUCTURED2.md",
     "1-SOURCES/Commentaries/_to_delete",
     "1-SOURCES/Commentaries/LSDC20_TG_bo.md.bak",
     "4-SYSTEM/Skills/Obsidian-Block-ID-to-Commentary/sedgsremf",
