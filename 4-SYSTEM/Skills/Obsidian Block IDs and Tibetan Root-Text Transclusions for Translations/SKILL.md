@@ -1,6 +1,6 @@
 ---
-name: Obsidian-Block-ID-to-Translation and add transclusion of the original Tibetan root text to Translations
-description: Stamp Obsidian block IDs onto Translations
+name: Obsidian Block IDs and Tibetan Root-Text Transclusions for Translations
+description: Stamp Obsidian Block IDs and Tibetan Root-Text Transclusions for Translations
 ---
 
 # Obsidian Block IDs and Tibetan Root-Text Transclusions for Translations
