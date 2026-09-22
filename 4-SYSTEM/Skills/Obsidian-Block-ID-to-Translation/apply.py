@@ -79,6 +79,12 @@ def process(body, dry_run):
         nonlocal n, pending
         if not pending:
             return
+        first_line_stripped = body[pending[0]].lstrip()
+        if first_line_stripped.startswith('[Ed:'):
+            # Editorial/meta note, not translation content: treat like a transclusion —
+            # structural, never tagged, never counted against the body sequence.
+            pending = []
+            return
         last_idx = pending[-1]
         last_line = body[last_idx]
         if has_trailing_id(last_line):
