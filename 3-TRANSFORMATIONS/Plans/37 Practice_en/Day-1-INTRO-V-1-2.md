@@ -1,40 +1,39 @@
-# ཉིན་༢༠ ཡི་རིང་། ལག་ལེན་སོ་བདུན་མའི་སློབ་སྦྱོང།
+# Day-20, 37 Practices of  Bodhisattvas
 
-## ཀླད་ཀྱི་དོན། ཤློཀ་དང་པོ།
+## Introduction V-1-2།
 
 ---
 
-### ༡། སྐྱབས་འགྲོ་སེམས་བསྐྱེད།
+## Renewing the Bodhisattva Vow
 
-#### **༡. ཚད་མེད་བཞི།**
+> **Mind Training** *(recite 3 times)*
+>
+> May all beings enjoy happiness and the causes of happiness.
+> May all beings be free from suffering and the causes of suffering.
+> May all beings never be separated from supreme happiness, free from suffering.
+> May all beings rest in great equanimity, free from attachment and aversion to those near and far.
+>
+> **Refuge** *(recite 3 times)*
+>
+>You see that all things are beyond coming and going,  
+>Yet still you strive solely for the sake of living beings—  
+>To you, my precious guru inseparable from Lord Avalokita,  
+>I offer perpetual homage, respectfully, with body, speech and mind. 
+>
+> **Taking the Bodhisattva Vow** *(recite 3 times)*
+>
+> Just as the buddhas of the past gave rise to bodhicitta
+> And engaged step by step in the training of the bodhisattvas,
+> So I too, for the benefit of all beings, will give rise to bodhicitta
+> And engage step by step in that same training.
 
-> སེམས་ཅན་ཐམས་ཅད་བདེ་བ་དང་བདེ་བའི་རྒྱུ་དང་ལྡན་པར་གྱུར་ཅིག
-> སེམས་ཅན་ཐམས་ཅད་སྡུག་བསྔལ་དང་སྡུག་བསྔལ་གྱི་རྒྱུ་དང་བྲལ་བར་གྱུར་ཅིག
-> སེམས་ཅན་ཐམས་ཅད་སྡུག་བསྔལ་མེད་པའི་བདེ་བ་དང་མི་འབྲལ་བར་གྱུར་ཅིག
-> སེམས་ཅན་ཐམས་ཅད་ཉེ་རིང་ཆགས་སྡང་གཉིས་དང་བྲལ་བའི་བཏང་སྙོམ་ལ་གནས་པར་གྱུར་ཅིག
-
-#### **༢. སྐྱབས་འགྲོ།**
-
->གང་གིས་ཆོས་ཀུན་འགྲོ་འོང་མེད་གཟིགས་ཀྱང་། །
->འགྲོ་བའི་དོན་ལ་གཅིག་ཏུ་བརྩོན་མཛད་པའི། །
->བླ་མ་མཆོག་དང་སྤྱན་རས་གཟིགས་མགོན་ལ། །
->རྟག་ཏུ་སྒོ་གསུམ་གུས་པས་ཕྱག་འཚལ་ལོ། ། 
-#### **༣. སེམས་བསྐྱེད།**
-
-> ཇི་ལྟར་སྔོན་གྱི་བདེ་གཤེགས་ཀྱིས། །
-> བྱང་ཆུབ་ཐུགས་ནི་བསྐྱེད་པ་དང་། །
-> བྱང་ཆུབ་སེམས་དཔའི་བསླབ་པ་ལ། །
-> དེ་དག་རིམ་བཞིན་གནས་པ་ལྟར། །
-
-> དེ་བཞིན་འགྲོ་ལ་ཕན་དོན་དུ། །
-> བྱང་ཆུབ་སེམས་ནི་བསྐྱེད་བགྱི་ཞིང་། །
-> དེ་བཞིན་དུ་ནི་བསླབ་པ་ལའང་། །
-> རིམ་པ་བཞིན་དུ་བསླབ་པར་བགྱི། །
-### ༢། དེ་རིང་གི་རྩ་ཚིག
+## Today's Verses
 
 #### **༡. གཞུང་གི་དོན། ཤློཀ་དང་པོ།** 
 
 >༄༅། །ན་མོ་གུ་རུ་ལོ་ཀེ་ཤྭ་ར་ཡ། ། 
+
+
 
 >གང་གིས་ཆོས་ཀུན་འགྲོ་འོང་མེད་གཟིགས་ཀྱང་། །
 >འགྲོ་བའི་དོན་ལ་གཅིག་ཏུ་བརྩོན་མཛད་པའི། །
