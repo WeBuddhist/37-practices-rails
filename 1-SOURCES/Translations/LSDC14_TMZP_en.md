@@ -242,6 +242,8 @@ Generate sublime bodhicitta, both relative and absolute,
 And through this, come to equal Lord Avalokiteśvara,  
 Transcending the extremes of existence and quiescence. ^2-4
 
-_This was composed in Jewel Cave (Rinchen Puk) in Ngulchu by the monk Tokme, a teacher of scripture and reasoning, for his own and others’ benefit._ ^2-5
+## Colophon ^A-0
+
+This was composed in Jewel Cave (Rinchen Puk) in Ngulchu by the monk Tokme, a teacher of scripture and reasoning, for his own and others’ benefit._ ^2-5
 
 [Ed: The author's prose colophon at ^2-5 is not present in the Tibetan root-text file, which ends at ^2-4; the block ID is assigned for reference only, matching the treatment of ^2-5 in 1-SOURCES/Translations/zh-嚴定法師-噶千佛學會 Garchen Institute.md.]

@@ -36,13 +36,13 @@ source_description: "Composed by Thubten Chökyi Drakpa, at Serlhartse Monastery
 
 #### མདོར་བསྟན་པ། ^I-2-1-0
 
-![[LSDC14_TMZP-bo.md#^I-1]]
+![[LSDC14_TMZP_bo.md#^I-1]]
 
 དེ་ལ་རྒྱལ་བའི་སྲས་པོ་ཐོགས་མེད་བཟང་པོ་དཔལ་གྱིས་མཛད་པའི་རྒྱལ་སྲས་ལག་ལེན་འདི་འཆད་པ་ལ་གསུམ། མཆོད་པར་བརྗོད་ཅིང་རྩོམ་པར་དམ་བཅའ་བ། བརྩམ་བྱ་བསྟན་བཅོས་ཀྱི་རང་བཞིན། མཇུག་གི་དོན་བསྡུ་བའོ། །དང་པོ་ལ་གཉིས། མཆོད་པར་བརྗོད་པ། རྩོམ་པར་དམ་བཅའ་བའོ། །དང་པོ་ལ་བསྟན་བཤད་གཉིས་ལས། དང་པོ་ནི། ན་མོ་ལོ་ཀེ་ཤྭ་ར་ཡ། ཞེས་གསུངས། དོན་ནི། འཇིག་རྟེན་དབང་ཕྱུག་ལ་ཕྱག་འཚལ་ལོ། །ཞེས་པའོ། ། ^I-4
 
 #### རྒྱས་པར་བཤད་པ། ^I-2-2-0
 
-![[LSDC14_TMZP-bo.md#^I-2]]
+![[LSDC14_TMZP_bo.md#^I-2]]
 
 གཉིས་པ་ནི། ^I-5
 
@@ -57,7 +57,7 @@ source_description: "Composed by Thubten Chökyi Drakpa, at Serlhartse Monastery
 
 ### རྩོམ་པར་དམ་བཅའ་བ། ^I-3-0
 
-![[LSDC14_TMZP-bo.md#^I-3]]
+![[LSDC14_TMZP_bo.md#^I-3]]
 
 གཉིས་པ་ནི། ^I-9
 
@@ -82,7 +82,7 @@ source_description: "Composed by Thubten Chökyi Drakpa, at Serlhartse Monastery
 
 #### དལ་འབྱོར་དོན་ཡོད། ^1-1-1-0
 
-![[LSDC14_TMZP-bo.md#^1-1]]
+![[LSDC14_TMZP_bo.md#^1-1]]
 
 དང་པོ་རྙེད་དཀའི་དལ་འབྱོར་དོན་ཡོད་པར་བྱ་བ་ནི། ^1-1
 
@@ -115,7 +115,7 @@ source_description: "Composed by Thubten Chökyi Drakpa, at Serlhartse Monastery
 
 #### ཕ་ཡུལ་སྤོང་བ། ^1-1-2-0
 
-![[LSDC14_TMZP-bo.md#^1-2]]
+![[LSDC14_TMZP_bo.md#^1-2]]
 
 གཉིས་པ་དུག་གསུམ་གྱི་འབྱུང་གནས་ཕ་ཡུལ་སྤོང་བ་ནི། ^1-14
 
@@ -146,7 +146,7 @@ source_description: "Composed by Thubten Chökyi Drakpa, at Serlhartse Monastery
 
 #### དབེན་པ་བསྟེན་པ། ^1-1-3-0
 
-![[LSDC14_TMZP-bo.md#^1-3]]
+![[LSDC14_TMZP_bo.md#^1-3]]
 
 གསུམ་པ་ཡོན་ཏན་གྱི་འབྱུང་གནས་དབེན་པ་བསྟེན་པ་ནི། ^1-26
 
@@ -177,7 +177,7 @@ source_description: "Composed by Thubten Chökyi Drakpa, at Serlhartse Monastery
 
 #### ཚེ་འདི་བློས་གཏོང་བ། ^1-1-4-0
 
-![[LSDC14_TMZP-bo.md#^1-4]]
+![[LSDC14_TMZP_bo.md#^1-4]]
 
 བཞི་པ་མི་རྟག་པ་དྲན་པས་ཚེ་འདི་བློས་གཏོང་བ་ནི། ^1-38
 
@@ -212,7 +212,7 @@ source_description: "Composed by Thubten Chökyi Drakpa, at Serlhartse Monastery
 
 #### གྲོགས་ངན་སྤོང་བ། ^1-1-5-0
 
-![[LSDC14_TMZP-bo.md#^1-5]]
+![[LSDC14_TMZP_bo.md#^1-5]]
 
 ལྔ་པ་འགལ་རྐྱེན་གྲོགས་ངན་སྤོང་བ་ནི། ^1-52
 
@@ -239,7 +239,7 @@ source_description: "Composed by Thubten Chökyi Drakpa, at Serlhartse Monastery
 
 #### བཤེས་གཉེན་བསྟེན་པ། ^1-1-6-0
 
-![[LSDC14_TMZP-bo.md#^1-6]]
+![[LSDC14_TMZP_bo.md#^1-6]]
 
 དྲུག་པ་མཐུན་རྐྱེན་བཤེས་གཉེན་བསྟེན་པ་ནི། ^1-62
 
@@ -264,7 +264,7 @@ source_description: "Composed by Thubten Chökyi Drakpa, at Serlhartse Monastery
 
 #### སྐྱབས་འགྲོ། ^1-1-7-0
 
-![[LSDC14_TMZP-bo.md#^1-7]]
+![[LSDC14_TMZP_bo.md#^1-7]]
 
 བདུན་པ་བསྟན་པའི་འཇུག་སྒོ་སྐྱབས་འགྲོ་ནི། ^1-71
 
@@ -299,7 +299,7 @@ source_description: "Composed by Thubten Chökyi Drakpa, at Serlhartse Monastery
 ### སྐྱེས་པུ་གསུམ་གྱི་ལམ་ཉམས་ལེན། ^1-2-0
 #### སྐྱེས་བུ་ཆུང་ངུའི་ལམ། ^1-2-1-0
 
-![[LSDC14_TMZP-bo.md#^1-8]]
+![[LSDC14_TMZP_bo.md#^1-8]]
 
 དང་པོ་སྐྱེས་བུ་ཆུང་ངུའི་ལམ་ངན་འགྲོའི་སྡུག་བསྔལ་ལ་འཇིགས་ནས་སྡིག་པ་སྤོང་བ་ནི། ^1-84
 
@@ -330,7 +330,7 @@ source_description: "Composed by Thubten Chökyi Drakpa, at Serlhartse Monastery
 
 #### སྐྱེས་བུ་འབྲིང་གི་ལམ། ^1-2-2-0
 
-![[LSDC14_TMZP-bo.md#^1-9]]
+![[LSDC14_TMZP_bo.md#^1-9]]
 
 གཉིས་པ་སྐྱེས་བུ་འབྲིང་གི་ལམ་སྲིད་བདེ་ལ་མ་ཆགས་པར་ཐར་པ་དོན་དུ་གཉེར་བ་ནི། ^1-96
 
@@ -379,7 +379,7 @@ source_description: "Composed by Thubten Chökyi Drakpa, at Serlhartse Monastery
 
 #### སྐྱེས་བུ་ཆེན་པོའི་ལམ། ^1-2-3-0
 
-![[LSDC14_TMZP-bo.md#^1-10]]
+![[LSDC14_TMZP_bo.md#^1-10]]
 
 དང་པོ་ནི། ^1-117
 
@@ -432,7 +432,7 @@ source_description: "Composed by Thubten Chökyi Drakpa, at Serlhartse Monastery
 
 #### བདག་གཞན་མཉམ་བརྗེ་བསྒོམ་པ། ^1-3-1-0
 
-![[LSDC14_TMZP-bo.md#^1-11]]
+![[LSDC14_TMZP_bo.md#^1-11]]
 
 དང་པོ་ནི། ^1-139
 
@@ -479,7 +479,7 @@ source_description: "Composed by Thubten Chökyi Drakpa, at Serlhartse Monastery
 
 #### མ་རྙེད་པ་ལམ་དུ་འཁྱེར་བ། ^1-4-2-0
 
-![[LSDC14_TMZP-bo.md#^1-12]]
+![[LSDC14_TMZP_bo.md#^1-12]]
 
 དང་པོ་ནི། ^1-157
 
@@ -509,7 +509,7 @@ source_description: "Composed by Thubten Chökyi Drakpa, at Serlhartse Monastery
 
 #### སྡུག་བསྔལ་བ་ལམ་དུ་འཁྱེར་བ། ^1-4-3-0
 
-![[LSDC14_TMZP-bo.md#^1-13]]
+![[LSDC14_TMZP_bo.md#^1-13]]
 
 གཉིས་པ་ནི། ^1-168
 
@@ -543,7 +543,7 @@ source_description: "Composed by Thubten Chökyi Drakpa, at Serlhartse Monastery
 
 #### མི་སྙན་པ་ལམ་དུ་འཁྱེར་བ། ^1-4-4-0
 
-![[LSDC14_TMZP-bo.md#^1-14]]
+![[LSDC14_TMZP_bo.md#^1-14]]
 
 གསུམ་པ་ནི། ^1-181
 
@@ -573,7 +573,7 @@ source_description: "Composed by Thubten Chökyi Drakpa, at Serlhartse Monastery
 
 #### སྨད་པ་ལམ་ཏུ་འཁྱེར་བ། ^1-4-5-0
 
-![[LSDC14_TMZP-bo.md#^1-15]]
+![[LSDC14_TMZP_bo.md#^1-15]]
 
 བཞི་པ་ནི། ^1-192
 
@@ -612,7 +612,7 @@ source_description: "Composed by Thubten Chökyi Drakpa, at Serlhartse Monastery
 
 #### དྲིན་ལན་ལོག་འཇལ་ལམ་དུ་འཁྱེར་བ། ^1-4-7-0
 
-![[LSDC14_TMZP-bo.md#^1-16]]
+![[LSDC14_TMZP_bo.md#^1-16]]
 
 དང་པོ་ནི། ^1-206
 
@@ -647,7 +647,7 @@ source_description: "Composed by Thubten Chökyi Drakpa, at Serlhartse Monastery
 
 #### བརྙས་ཐབས་བྱེད་པ་ལམ་དུ་འཁྱེར་བ། ^1-4-8-0
 
-![[LSDC14_TMZP-bo.md#^1-17]]
+![[LSDC14_TMZP_bo.md#^1-17]]
 
 གཉིས་པ་ནི། ^1-219
 
@@ -681,7 +681,7 @@ source_description: "Composed by Thubten Chökyi Drakpa, at Serlhartse Monastery
 
 #### རྒུད་པ་ལམ་དུ་འཁྱེར་བ། ^1-5-1-0
 
-![[LSDC14_TMZP-bo.md#^1-18]]
+![[LSDC14_TMZP_bo.md#^1-18]]
 
 དང་པོ་ནི། ^1-231
 
@@ -712,7 +712,7 @@ source_description: "Composed by Thubten Chökyi Drakpa, at Serlhartse Monastery
 
 #### འབྱོར་པ་ལམ་དུ་འཁྱེར་བ། ^1-5-2-0
 
-![[LSDC14_TMZP-bo.md#^1-19]]
+![[LSDC14_TMZP_bo.md#^1-19]]
 
 གཉིས་པ་ནི། ^1-242
 
@@ -751,7 +751,7 @@ source_description: "Composed by Thubten Chökyi Drakpa, at Serlhartse Monastery
 
 #### སྡང་ཡུལ་ལམ་དུ་འཁྱེར་བ། ^1-6-1-0
 
-![[LSDC14_TMZP-bo.md#^1-20]]
+![[LSDC14_TMZP_bo.md#^1-20]]
 
 དང་པོ་ནི། ^1-257
 
@@ -788,7 +788,7 @@ source_description: "Composed by Thubten Chökyi Drakpa, at Serlhartse Monastery
 
 #### ཆགས་ཡུལ་ལམ་དུ་འཁྱེར་བ། ^1-6-2-0
 
-![[LSDC14_TMZP-bo.md#^1-21]]
+![[LSDC14_TMZP_bo.md#^1-21]]
 
 གཉིས་པ་ནི། ^1-272
 
@@ -824,7 +824,7 @@ source_description: "Composed by Thubten Chökyi Drakpa, at Serlhartse Monastery
 
 #### མཉམ་གཞག་ཏུ་སྤྲོས་བྲལ་འཛིན་མེད་བསྒོམ་པ། ^1-7-1-0
 
-![[LSDC14_TMZP-bo.md#^1-22]]
+![[LSDC14_TMZP_bo.md#^1-22]]
 
 དང་པོ་ནི། ^1-285
 
@@ -857,7 +857,7 @@ source_description: "Composed by Thubten Chökyi Drakpa, at Serlhartse Monastery
 
 #### ཆགས་ཡུལ་ལ་བདེན་ཞེན་སྤང་བ། ^1-8-1-0
 
-![[LSDC14_TMZP-bo.md#^1-23]]
+![[LSDC14_TMZP_bo.md#^1-23]]
 
 དང་པོ་ནི། ^1-297
 
@@ -873,7 +873,7 @@ source_description: "Composed by Thubten Chökyi Drakpa, at Serlhartse Monastery
 
 #### སྡང་ཡུལ་ལ་བདེན་ཞེན་སྤང་བ། ^1-8-2-0
 
-![[LSDC14_TMZP-bo.md#^1-24]]
+![[LSDC14_TMZP_bo.md#^1-24]]
 
 གཉིས་པ་ནི། ^1-301
 
@@ -909,7 +909,7 @@ source_description: "Composed by Thubten Chökyi Drakpa, at Serlhartse Monastery
 
 #### སྦྱིན་པ་ལ་བསླབ་པ། ^1-9-1-0
 
-![[LSDC14_TMZP-bo.md#^1-25]]
+![[LSDC14_TMZP_bo.md#^1-25]]
 
 དང་པོ་སྦྱིན་པ་ལ་བསླབ་པ་ནི། ^1-314
 
@@ -938,7 +938,7 @@ source_description: "Composed by Thubten Chökyi Drakpa, at Serlhartse Monastery
 
 #### ཚུལ་ཁྲིམས་ལ་བསླབ་པ། ^1-9-2-0
 
-![[LSDC14_TMZP-bo.md#^1-26]]
+![[LSDC14_TMZP_bo.md#^1-26]]
 
 གཉིས་པ་ཚུལ་ཁྲིམས་ལ་བསླབ་པ་ནི། ^1-325
 
@@ -972,7 +972,7 @@ source_description: "Composed by Thubten Chökyi Drakpa, at Serlhartse Monastery
 
 #### བཟོད་པ་ལ་བསླབ་པ། ^1-9-3-0
 
-![[LSDC14_TMZP-bo.md#^1-27]]
+![[LSDC14_TMZP_bo.md#^1-27]]
 
 གསུམ་པ་བཟོད་པ་ལ་བསླབ་པ་ནི། ^1-338
 
@@ -1009,7 +1009,7 @@ source_description: "Composed by Thubten Chökyi Drakpa, at Serlhartse Monastery
 
 #### བརྩོན་འགྲུས་ལ་བསླབ་པ། ^1-9-4-0
 
-![[LSDC14_TMZP-bo.md#^1-28]]
+![[LSDC14_TMZP_bo.md#^1-28]]
 
 བཞི་པ་བརྩོན་འགྲུས་ལ་བསླབ་པ་ནི། ^1-353
 
@@ -1041,7 +1041,7 @@ source_description: "Composed by Thubten Chökyi Drakpa, at Serlhartse Monastery
 
 #### བསམ་གཏན་ལ་བསླབ་པ། ^1-9-5-0
 
-![[LSDC14_TMZP-bo.md#^1-29]]
+![[LSDC14_TMZP_bo.md#^1-29]]
 
 ལྔ་པ་བསམ་གཏན་ལ་བསླབ་པ་ནི། ^1-365
 
@@ -1079,7 +1079,7 @@ source_description: "Composed by Thubten Chökyi Drakpa, at Serlhartse Monastery
 
 #### ཤེས་རབ་ལ་བསླབ་པ། ^1-9-6-0
 
-![[LSDC14_TMZP-bo.md#^1-30]]
+![[LSDC14_TMZP_bo.md#^1-30]]
 
 དྲུག་པ་ཤེས་རབ་ལ་བསླབ་པ་ནི། ^1-380
 
@@ -1119,7 +1119,7 @@ source_description: "Composed by Thubten Chökyi Drakpa, at Serlhartse Monastery
 
 #### རང་གི་འཁྲུལ་བ་རང་གིས་བརྟགས་ནས་སྤང་བ། ^1-10-1-0
 
-![[LSDC14_TMZP-bo.md#^1-31]]
+![[LSDC14_TMZP_bo.md#^1-31]]
 
 དང་པོ་ནི། ^1-395
 
@@ -1151,7 +1151,7 @@ source_description: "Composed by Thubten Chökyi Drakpa, at Serlhartse Monastery
 
 #### བྱང་སེམས་ཀྱི་ཉེས་པ་སྨྲ་བ་སྤང་པ། ^1-10-2-0
 
-![[LSDC14_TMZP-bo.md#^1-32]]
+![[LSDC14_TMZP_bo.md#^1-32]]
 
 གཉིས་པ་ནི། ^1-407
 
@@ -1187,7 +1187,7 @@ source_description: "Composed by Thubten Chökyi Drakpa, at Serlhartse Monastery
 
 #### སྦྱིན་བདག་གི་ཁྱིམ་ལ་ཆགས་པ་སྤང་བ། ^1-10-3-0
 
-![[LSDC14_TMZP-bo.md#^1-33]]
+![[LSDC14_TMZP_bo.md#^1-33]]
 
 གསུམ་པ་ནི། ^1-421
 
@@ -1218,7 +1218,7 @@ source_description: "Composed by Thubten Chökyi Drakpa, at Serlhartse Monastery
 
 #### རྩུབ་མོའི་ཚིག་སྨྲ་བ་སྤང་བ། ^1-10-4-0
 
-![[LSDC14_TMZP-bo.md#^1-34]]
+![[LSDC14_TMZP_bo.md#^1-34]]
 
 བཞི་པ་ནི། ^1-433
 
@@ -1253,7 +1253,7 @@ source_description: "Composed by Thubten Chökyi Drakpa, at Serlhartse Monastery
 
 #### ཉོན་མོངས་སྤོང་ཚུལ་ལ་བསླབ་པ། ^1-10-5-0
 
-![[LSDC14_TMZP-bo.md#^1-35]]
+![[LSDC14_TMZP_bo.md#^1-35]]
 
 གསུམ་པ་ཉོན་མོངས་སྤོང་ཚུལ་ལ་བསླབ་པ་ནི། ^1-447
 
@@ -1287,7 +1287,7 @@ source_description: "Composed by Thubten Chökyi Drakpa, at Serlhartse Monastery
 
 #### དྲན་ཤེས་ལྡན་པས་གཞན་དོན་སྒྲུབ་པ་ལ་བསླབ་པ། ^1-10-6-0
 
-![[LSDC14_TMZP-bo.md#^1-36]]
+![[LSDC14_TMZP_bo.md#^1-36]]
 
 བཞི་པ་དྲན་ཤེས་ལྡན་པས་གཞན་དོན་སྒྲུབ་པ་ལ་བསླབ་པ་ནི། ^1-460
 
@@ -1326,7 +1326,7 @@ source_description: "Composed by Thubten Chökyi Drakpa, at Serlhartse Monastery
 
 #### དགེ་བ་རྫོགས་བྱང་དུ་བསྔོ་བ། ^1-10-7-0
 
-![[LSDC14_TMZP-bo.md#^1-37]]
+![[LSDC14_TMZP_bo.md#^1-37]]
 
 ལྔ་པ་དགེ་བ་རྫོགས་བྱང་དུ་བསྔོ་བ་ནི། ^1-475
 
@@ -1360,7 +1360,7 @@ source_description: "Composed by Thubten Chökyi Drakpa, at Serlhartse Monastery
 
 ### གང་གི་དོན་དུ་ཇི་ལྟར་བརྩམས་པ། ^3-1-0
 
-![[LSDC14_TMZP-bo.md#^2-1]]
+![[LSDC14_TMZP_bo.md#^2-1]]
 
 དང་པོ་ནི། ^3-1
 
@@ -1375,7 +1375,7 @@ source_description: "Composed by Thubten Chökyi Drakpa, at Serlhartse Monastery
 
 ### ལག་ལེན་འཁྲུལ་མེད་དུ་བསྟན་པ། ^3-2-0
 
-![[LSDC14_TMZP-bo.md#^2-2]]
+![[LSDC14_TMZP_bo.md#^2-2]]
 
 གཉིས་པ་ནི། ^3-5
 
@@ -1390,7 +1390,7 @@ source_description: "Composed by Thubten Chökyi Drakpa, at Serlhartse Monastery
 
 ### ཁེངས་བསྐྱུངས་ཤིང་བཟོད་པར་གསོལ་བ། ^3-3-0
 
-![[LSDC14_TMZP-bo.md#^2-3]]
+![[LSDC14_TMZP_bo.md#^2-3]]
 
 གསུམ་པ་ནི། ^3-9
 
@@ -1405,7 +1405,7 @@ source_description: "Composed by Thubten Chökyi Drakpa, at Serlhartse Monastery
 
 ### བརྩམས་པའི་དགེ་བ་བྱང་ཆུབ་ཏུ་བསྔོ་བ། ^3-4-0
 
-![[LSDC14_TMZP-bo.md#^2-4]]
+![[LSDC14_TMZP_bo.md#^2-4]]
 
 བཞི་པ་ནི། ^3-13
 

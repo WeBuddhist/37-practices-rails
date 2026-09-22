@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-SOURCES/Text/LSDC14_TMZP-bo.md.md",
+                "file": "1-SOURCES/Text/LSDC14_TMZP_bo.md.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LSDC14_TMZP-bo.md"
+              "title": "LSDC14_TMZP_bo.md"
             }
           },
           {
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-SOURCES/Translations/LSDC14_TMZP-en.md",
+                "file": "1-SOURCES/Translations/LSDC14_TMZP_en.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LSDC14_TMZP-en"
+              "title": "LSDC14_TMZP_en"
             }
           },
           {
@@ -106,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -243,7 +243,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-SOURCES/Translations/LSDC14_TMZP-en.md",
+                "file": "4-SYSTEM/Skills/Obsidian-Block-ID-to-Translation/SKILL 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -302,8 +302,10 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "0237faf0eda7da5f",
+  "active": "a7f0716754395d29",
   "lastOpenFiles": [
+    "1-SOURCES/Translations/LSDC14_TMZP_en.md",
+    "1-SOURCES/Text/LSDC14_TMZP_bo.md.md",
     "4-SYSTEM/Skills/Obsidian-Block-ID-to-Translation/SKILL 1.md",
     "4-SYSTEM/Skills/Obsidian-Block-ID-to-Commentary/SKILL.md",
     "4-SYSTEM/Skills/Obsidian-Block-ID-to-Translation",
@@ -311,8 +313,6 @@
     "4-SYSTEM/Skills/translation-frontmatter/SKILL 1.md",
     "4-SYSTEM/Skills/format-root-text/SKILL.md",
     "3-TRANSFORMATIONS/Translations/About Translations.md",
-    "1-SOURCES/Translations/LSDC14_TMZP-en.md",
-    "1-SOURCES/Text/LSDC14_TMZP-bo.md.md",
     "1-SOURCES/Commentaries/LSDC20_TCD_bo.md",
     "4-SYSTEM/Guidelines/vault-annex.md",
     "3-TRANSFORMATIONS/Plans/37 Practice_bo/Day-2-MT-V-1-2.md",
