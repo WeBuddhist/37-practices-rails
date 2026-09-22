@@ -1,66 +1,56 @@
-# ཉིན་༢༠ ཡི་རིང་། ལག་ལེན་སོ་བདུན་མའི་སློབ་སྦྱོང།
+# Day-20, 37 Practices of  Bodhisattvas
 
-## གཞུང་དོན་དངོས། ཤློཀ་ ༧ - ༨
+## The main text, V7-8
 
 ---
 
-### ༡། སྐྱབས་འགྲོ་སེམས་བསྐྱེད།
+## Renewing the Bodhisattva Vow
 
-#### **༡. ཚད་མེད་བཞི།**
+> **Mind Training** *(recite 3 times)*
+>
+> May all beings enjoy happiness and the causes of happiness.
+> May all beings be free from suffering and the causes of suffering.
+> May all beings never be separated from supreme happiness, free from suffering.
+> May all beings rest in great equanimity, free from attachment and aversion to those near and far.
+>
+> **Refuge** *(recite 3 times)*
+>
+>You see that all things are beyond coming and going,  
+>Yet still you strive solely for the sake of living beings—  
+>To you, my precious guru inseparable from Lord Avalokita,  
+>I offer perpetual homage, respectfully, with body, speech and mind. 
+>
+> **Taking the Bodhisattva Vow** *(recite 3 times)*
+>
+> Just as the buddhas of the past gave rise to bodhicitta
+> And engaged step by step in the training of the bodhisattvas,
+> So I too, for the benefit of all beings, will give rise to bodhicitta
+> And engage step by step in that same training.
 
-> སེམས་ཅན་ཐམས་ཅད་བདེ་བ་དང་བདེ་བའི་རྒྱུ་དང་ལྡན་པར་གྱུར་ཅིག
-> སེམས་ཅན་ཐམས་ཅད་སྡུག་བསྔལ་དང་སྡུག་བསྔལ་གྱི་རྒྱུ་དང་བྲལ་བར་གྱུར་ཅིག
-> སེམས་ཅན་ཐམས་ཅད་སྡུག་བསྔལ་མེད་པའི་བདེ་བ་དང་མི་འབྲལ་བར་གྱུར་ཅིག
-> སེམས་ཅན་ཐམས་ཅད་ཉེ་རིང་ཆགས་སྡང་གཉིས་དང་བྲལ་བའི་བཏང་སྙོམ་ལ་གནས་པར་གྱུར་ཅིག
+## Today's Verses
 
-#### **༢. སྐྱབས་འགྲོ།**
+![[LSDC14_TMZP_bo.md#^1-5]]
 
->གང་གིས་ཆོས་ཀུན་འགྲོ་འོང་མེད་གཟིགས་ཀྱང་། །
->འགྲོ་བའི་དོན་ལ་གཅིག་ཏུ་བརྩོན་མཛད་པའི། །
->བླ་མ་མཆོག་དང་སྤྱན་རས་གཟིགས་མགོན་ལ། །
->རྟག་ཏུ་སྒོ་གསུམ་གུས་པས་ཕྱག་འཚལ་ལོ། ། 
-#### **༣. སེམས་བསྐྱེད།**
+The practice of all the bodhisattvas is to avoid destructive friends,  
+In whose company the three poisons of the mind grow stronger,  
+And we engage less and less in study, reflection and meditation,  
+So that love and compassion fade away until they are no more. ^1-5
 
-> ཇི་ལྟར་སྔོན་གྱི་བདེ་གཤེགས་ཀྱིས། །
-> བྱང་ཆུབ་ཐུགས་ནི་བསྐྱེད་པ་དང་། །
-> བྱང་ཆུབ་སེམས་དཔའི་བསླབ་པ་ལ། །
-> དེ་དག་རིམ་བཞིན་གནས་པ་ལྟར། །
+![[LSDC14_TMZP_bo.md#^1-6]]
 
-> དེ་བཞིན་འགྲོ་ལ་ཕན་དོན་དུ། །
-> བྱང་ཆུབ་སེམས་ནི་བསྐྱེད་བགྱི་ཞིང་། །
-> དེ་བཞིན་དུ་ནི་བསླབ་པ་ལའང་། །
-> རིམ་པ་བཞིན་དུ་བསླབ་པར་བགྱི། །
-### ༢། དེ་རིང་གི་རྩ་ཚིག
+The practice of all the bodhisattvas is to cherish spiritual friends,  
+By regarding them as even more precious than one’s own body,  
+Since they are the ones who will help to rid us of all our faults,  
+And make our virtues grow ever greater just like the waxing moon. ^1-6
 
-#### **༡. ཤློཀ་བདུན་པ།** 
+## Aspiration and Dedication
 
->རང་ཡང་འཁོར་བའི་བཙོན་རར་བཅིངས་པ་ཡི། །
->འཇིག་རྟེན་ལྷ་ཡིས་སུ་ཞིག་སྐྱོབ་པར་ནུས། །
->དེ་ཕྱིར་གང་ལ་སྐྱབས་ན་མི་བསླུ་བའི། །
->དཀོན་མཆོག་སྐྱབས་འགྲོ་རྒྱལ་སྲས་ལག་ལེན་ཡིན། ། ^1-7
-
->ཤིན་ཏུ་བཟོད་དཀའི་ངན་སོང་སྡུག་བསྔལ་རྣམས། །
->སྡིག་པའི་ལས་ཀྱི་འབྲས་བུར་ཐུབ་པས་གསུངས། །
->དེ་ཕྱིར་སྲོག་ལ་བབ་ཀྱང་སྡིག་པའི་ལས། །
->ནམ་ཡང་མི་བྱེད་རྒྱལ་སྲས་ལག་ལེན་ཡིན། ། 
-#### **༡. ཤློཀ་བརྒྱད་པ།**
-
->གང་ཞིག་བསྟེན་ན་ཉེས་པ་ཟད་འགྱུར་ཞིང། །
->ཡོན་ཏན་ཡར་ངོའི་ཟླ་ལྟར་འཕེལ་འགྱུར་བའི། །
->བཤེས་གཉེན་དམ་པ་རང་གི་ལུས་བས་ཀྱང་། །
->གཅེས་པར་འཛིན་པ་རྒྱལ་སྲས་ལག་ལེན་ཡིན། །
-
-### ༣། བསྔོ་བ་དང་སྨོན་ལམ།
-
-####  **༡. བསྔོ་བ།**
-
->དེ་ལྟར་བརྩོན་པས་སྒྲུབ་པའི་དགེ་བ་རྣམས། །
->མཐའ་ཡས་འགྲོ་བའི་སྡུག་བསྔལ་བསལ་བྱའི་ཕྱིར། །
->འཁོར་གསུམ་རྣམ་པར་དག་པའི་ཤེས་རབ་ཀྱིས། །
->བྱང་ཆུབ་བསྔོ་བ་རྒྱལ་སྲས་ལག་ལེན་ཡིན། ། 
-####  **༢. སྨོན་ལམ།**
-
-> བྱང་ཆུབ་སེམས་མཆོག་རིན་པོ་ཆེ། །
-> མ་སྐྱེས་པ་རྣམས་སྐྱེ་གྱུར་ཅིག །
-> སྐྱེས་པ་ཉམས་པ་མེད་པ་དང་། །
-> གོང་ནས་གོང་དུ་འཕེལ་བར་ཤོག །
+> May the precious bodhicitta
+> Arise in those who don't have it yet;
+> And in those who already have it,
+> May it not decline, but grow ever further.
+>
+> By the merit of practicing
+> The Bodhicharyavatara today
+> May all living beings come to engage
+> In the conduct of the bodhisattvas.

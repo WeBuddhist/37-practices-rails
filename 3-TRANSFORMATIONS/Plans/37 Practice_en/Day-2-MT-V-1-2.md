@@ -1,62 +1,57 @@
-# ཉིན་༢༠ ཡི་རིང་། ལག་ལེན་སོ་བདུན་མའི་སློབ་སྦྱོང།
+# Day-20, 37 Practices of  Bodhisattvas
 
-## གཞུང་དོན་དངོས། ཤློཀ་ ༡ - ༢
+## The main text, V-1-2
 
 ---
 
-### ༡། སྐྱབས་འགྲོ་སེམས་བསྐྱེད།
+## Renewing the Bodhisattva Vow
 
-#### **༡. ཚད་མེད་བཞི།**
+> **Mind Training** *(recite 3 times)*
+>
+> May all beings enjoy happiness and the causes of happiness.
+> May all beings be free from suffering and the causes of suffering.
+> May all beings never be separated from supreme happiness, free from suffering.
+> May all beings rest in great equanimity, free from attachment and aversion to those near and far.
+>
+> **Refuge** *(recite 3 times)*
+>
+>You see that all things are beyond coming and going,  
+>Yet still you strive solely for the sake of living beings—  
+>To you, my precious guru inseparable from Lord Avalokita,  
+>I offer perpetual homage, respectfully, with body, speech and mind. 
+>
+> **Taking the Bodhisattva Vow** *(recite 3 times)*
+>
+> Just as the buddhas of the past gave rise to bodhicitta
+> And engaged step by step in the training of the bodhisattvas,
+> So I too, for the benefit of all beings, will give rise to bodhicitta
+> And engage step by step in that same training.
 
-> སེམས་ཅན་ཐམས་ཅད་བདེ་བ་དང་བདེ་བའི་རྒྱུ་དང་ལྡན་པར་གྱུར་ཅིག
-> སེམས་ཅན་ཐམས་ཅད་སྡུག་བསྔལ་དང་སྡུག་བསྔལ་གྱི་རྒྱུ་དང་བྲལ་བར་གྱུར་ཅིག
-> སེམས་ཅན་ཐམས་ཅད་སྡུག་བསྔལ་མེད་པའི་བདེ་བ་དང་མི་འབྲལ་བར་གྱུར་ཅིག
-> སེམས་ཅན་ཐམས་ཅད་ཉེ་རིང་ཆགས་སྡང་གཉིས་དང་བྲལ་བའི་བཏང་སྙོམ་ལ་གནས་པར་གྱུར་ཅིག
+## Today's Verses
 
-#### **༢. སྐྱབས་འགྲོ།**
 
->གང་གིས་ཆོས་ཀུན་འགྲོ་འོང་མེད་གཟིགས་ཀྱང་། །
->འགྲོ་བའི་དོན་ལ་གཅིག་ཏུ་བརྩོན་མཛད་པའི། །
->བླ་མ་མཆོག་དང་སྤྱན་རས་གཟིགས་མགོན་ལ། །
->རྟག་ཏུ་སྒོ་གསུམ་གུས་པས་ཕྱག་འཚལ་ལོ། ། 
-#### **༣. སེམས་བསྐྱེད།**
+![[LSDC14_TMZP_bo.md#^1-1]]
 
-> ཇི་ལྟར་སྔོན་གྱི་བདེ་གཤེགས་ཀྱིས། །
-> བྱང་ཆུབ་ཐུགས་ནི་བསྐྱེད་པ་དང་། །
-> བྱང་ཆུབ་སེམས་དཔའི་བསླབ་པ་ལ། །
-> དེ་དག་རིམ་བཞིན་གནས་པ་ལྟར། །
+The practice of all the bodhisattvas is to study, reflect and meditate,  
+Tirelessly, both day and night, without ever straying into idleness,  
+In order to free oneself and others from this ocean of saṃsāra,  
+Having gained this supreme vessel—a free, well-favoured human life, so difficult to find. 
 
-> དེ་བཞིན་འགྲོ་ལ་ཕན་དོན་དུ། །
-> བྱང་ཆུབ་སེམས་ནི་བསྐྱེད་བགྱི་ཞིང་། །
-> དེ་བཞིན་དུ་ནི་བསླབ་པ་ལའང་། །
-> རིམ་པ་བཞིན་དུ་བསླབ་པར་བགྱི། །
-### ༢། དེ་རིང་གི་རྩ་ཚིག
+![[LSDC14_TMZP_bo.md#^1-2]]
 
-#### **༡. ཤློཀ་དང་པོ།** 
+The practice of all the bodhisattvas is to leave behind one’s homeland,  
+Where our attachment to family and friends overwhelms us like a torrent,  
+While our aversion towards enemies rages inside us like a blazing fire,  
+And delusion’s darkness obscures what must be adopted and abandoned.
 
->དལ་འབྱོར་གྲུ་ཆེན་རྙེད་དཀའ་ཐོབ་དུས་འདིར། །
->བདག་གཞན་འཁོར་བའི་མཚོ་ལས་བསྒྲལ་བྱའི་ཕྱིར། །
->ཉིན་དང་མཚན་དུ་གཡེལ་བ་མེད་པར་ནི། །
->ཉན་སེམས་བསྒོམ་པ་རྒྱལ་སྲས་ལག་ལེན་ཡིན། ། 
+## Aspiration and Dedication
 
-#### **༡. ཤློཀ་གཉིས་པ།**
-
->གཉེན་གྱི་ཕྱོགས་ལ་འདོད་ཆགས་ཆུ་ལྟར་གཡོ། །
->དགྲ་ཡི་ཕྱོགས་ལ་ཞེ་སྡང་མེ་ལྟར་འབར། །
->བླང་དོར་བརྗེད་པའི་གཏི་མུག་མུན་ནག་ཅན། །
->ཕ་ཡུལ་སྤོང་བ་རྒྱལ་སྲས་ལག་ལེན་ཡིན། །
-
-### ༣། བསྔོ་བ་དང་སྨོན་ལམ།
-
-####  **༡. བསྔོ་བ།**
-
->དེ་ལྟར་བརྩོན་པས་སྒྲུབ་པའི་དགེ་བ་རྣམས། །
->མཐའ་ཡས་འགྲོ་བའི་སྡུག་བསྔལ་བསལ་བྱའི་ཕྱིར། །
->འཁོར་གསུམ་རྣམ་པར་དག་པའི་ཤེས་རབ་ཀྱིས། །
->བྱང་ཆུབ་བསྔོ་བ་རྒྱལ་སྲས་ལག་ལེན་ཡིན། ། 
-####  **༢. སྨོན་ལམ།**
-
-> བྱང་ཆུབ་སེམས་མཆོག་རིན་པོ་ཆེ། །
-> མ་སྐྱེས་པ་རྣམས་སྐྱེ་གྱུར་ཅིག །
-> སྐྱེས་པ་ཉམས་པ་མེད་པ་དང་། །
-> གོང་ནས་གོང་དུ་འཕེལ་བར་ཤོག །
+> May the precious bodhicitta
+> Arise in those who don't have it yet;
+> And in those who already have it,
+> May it not decline, but grow ever further.
+>
+> By the merit of practicing
+> The Bodhicharyavatara today
+> May all living beings come to engage
+> In the conduct of the bodhisattvas.
