@@ -83,7 +83,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-TRANSFORMATIONS/Plans/37 Practice_bo/Day-1-INTRO-V-1-2.md",
+                "file": "3-TRANSFORMATIONS/Plans/37 Practice_en/Day-1-INTRO-V-1-2.md",
                 "mode": "source",
                 "source": false
               },
@@ -106,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -243,7 +243,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-SOURCES/Commentaries/LSDC20_TG_bo_1.md",
+                "file": "3-TRANSFORMATIONS/Plans/37 Practice_en/Day-1-INTRO-V-1-2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -302,8 +302,10 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "d2528b072a71996e",
+  "active": "a7f0716754395d29",
   "lastOpenFiles": [
+    "3-TRANSFORMATIONS/Plans/37 Practice_bo/Day-1-INTRO-V-1-2.md",
+    "1-SOURCES/Commentaries/LSDC20_TG_bo_1.md",
     "1-SOURCES/Commentaries/LSDC20_TCD_bo.md",
     "3-TRANSFORMATIONS/Plans/37 Practice_en/Day-6-MT-V-9-10.md",
     "1-SOURCES/Translations/LSDC14_TMZP_en.md",
@@ -312,7 +314,6 @@
     "3-TRANSFORMATIONS/Plans/37 Practice_en/Day-3-MT-V-3-4.md",
     "3-TRANSFORMATIONS/Plans/37 Practice_en/Day-1-INTRO-V-1-2.md",
     "3-TRANSFORMATIONS/Plans/37 Practice_en/Day-2-MT-V-1-2.md",
-    "3-TRANSFORMATIONS/Plans/37 Practice_bo/Day-1-INTRO-V-1-2.md",
     "4-SYSTEM/Skills/commentary-frontmatter/SKILL.md",
     "3-TRANSFORMATIONS/Plans/37 Practice_bo/Day-6-MT-V-9-10.md",
     "3-TRANSFORMATIONS/Plans/37 Practice_en/37 Practice_bo 1",
@@ -334,7 +335,6 @@
     "4-SYSTEM/Skills/BCA-Verse-Context-Summary/SKILL.md",
     "4-SYSTEM/Skills/Obsidian Block IDs and Tibetan Root-Text Transclusions for Translations/SKILL.md",
     "3-TRANSFORMATIONS/Plans/37 Practice_bo/Day-2-MT-V-1-2.md",
-    "1-SOURCES/Commentaries/LSDC20_TG_bo_1.md",
     "1-SOURCES/Commentaries/thrangu_TG_bo_0.md",
     "1-SOURCES/Text/LSDC14_TMZP_bo.md.md",
     "4-SYSTEM/Skills/Obsidian-Block-ID-to-Commentary/SKILL.md",
