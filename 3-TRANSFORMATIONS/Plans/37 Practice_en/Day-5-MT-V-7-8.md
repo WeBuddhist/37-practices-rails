@@ -1,6 +1,6 @@
 # Day-20, 37 Practices of  Bodhisattvas
 
-## The main text, V7-8
+## The main text, V-7-8
 
 ---
 
@@ -29,19 +29,19 @@
 
 ## Today's Verses
 
-![[LSDC14_TMZP_bo.md#^1-5]]
+![[LSDC14_TMZP_bo.md#^1-7]]
 
-The practice of all the bodhisattvas is to avoid destructive friends,  
-In whose company the three poisons of the mind grow stronger,  
-And we engage less and less in study, reflection and meditation,  
-So that love and compassion fade away until they are no more. ^1-5
+The practice of all the bodhisattvas is to take refuge in the Three Jewels,  
+Since they will never fail to provide protection for all who call upon them,  
+For whom are the ordinary gods of this world ever capable of helping,  
+As long as they themselves are trapped within saṃsāra’s vicious cycle? ^1-7
 
-![[LSDC14_TMZP_bo.md#^1-6]]
+![[LSDC14_TMZP_bo.md#^1-8]]
 
-The practice of all the bodhisattvas is to cherish spiritual friends,  
-By regarding them as even more precious than one’s own body,  
-Since they are the ones who will help to rid us of all our faults,  
-And make our virtues grow ever greater just like the waxing moon. ^1-6
+The practice of all the bodhisattvas is never to commit a harmful act,  
+Even though not to do so might put one’s very life at risk,  
+For the Sage himself has taught how negative actions will ripen  
+Into the manifold miseries of the lower realms, so difficult to endure. ^1-8
 
 ## Aspiration and Dedication
 
