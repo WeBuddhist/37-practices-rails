@@ -5,13 +5,13 @@ description: Stamp Obsidian block IDs onto Translations
 
 # Obsidian-Block-ID-to-Translations
 
-This skill stamps every `###`/`####` sub-heading and body-text block of a Translation root text file with a trailing Obsidian block-reference id, keyed off a label the human contributor has already written by hand on the enclosing `##` heading — so each becomes individually linkable and transcludable. The `##` heading's own id is never generated, edited, or guessed by this skill: it must already be there, written by hand, before the skill will touch anything else in that section. Sub-headings get their own hierarchical id built from that label; body-text blocks (a verse stanza, a prose paragraph — whatever a blank line sets off) are numbered sequentially off the same label within the section, restarting at each new `##`. The original Tibetan root text transclusion lines (`![[...]]`) are structural navigation, not commentary content, so they are always skipped: never tagged, and never counted against the body-block sequence.
+This skill stamps every `###`/`####` sub-heading and body-text block of a Translation root text file with a trailing Obsidian block-reference id, keyed off a label the human contributor has already written by hand on the enclosing `##` heading — so each becomes individually linkable and transcludable. The `##` heading's own id is never generated, edited, or guessed by this skill: it must already be there, written by hand, before the skill will touch anything else in that section. Sub-headings get their own hierarchical id built from that label; body-text blocks (a verse stanza, a prose paragraph — whatever a blank line sets off) are numbered sequentially off the same label within the section, restarting at each new `##`. The original Tibetan root text transclusion lines (`![[...]]`) are structural navigation, not the content, so they are always skipped: never tagged, and never counted against the body-block sequence.
 
 ---
 
 ## Inputs
 
-- `file` — path to a commentary markdown file, typically under `1-SOURCES/Commentaries/`. It must contain at least one `##` heading, and **every `##` heading must already end in a manually-added `^{label}-0` id** (see Rule 1) before the skill will tag anything else. It may optionally contain `###` and `####` sub-headings and root-text transclusions (`![[...]]`); it does not need any of these to run.
+- `file` — path to a commentary markdown file, typically under `1-SOURCES/Translations`. It must contain at least one `##` heading, and **every `##` heading must already end in a manually-added `^{label}-0` id** (see Rule 1) before the skill will tag anything else. It may optionally contain `###` and `####` sub-headings and The original Tibetan root text transclusions (`![[...]]`); it does not need any of these to run.
 
 ## Output
 
