@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-SOURCES/Commentaries/LSDC20_TCD_bo.md",
+                "file": "1-SOURCES/Translations/LSDC14_TMZP-en.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LSDC20_TCD_bo"
+              "title": "LSDC14_TMZP-en"
             }
           },
           {
@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4-SYSTEM/Guidelines/vault-annex.md",
+                "file": "3-TRANSFORMATIONS/Translations/About Translations.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "vault-annex"
+              "title": "About Translations"
             }
           },
           {
@@ -106,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -165,7 +165,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 265.25970458984375
+    "width": 200
   },
   "right": {
     "id": "08fb4a0a47ab3b49",
@@ -243,7 +243,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-TRANSFORMATIONS/Plans/37 Practice_bo/Day-2-MT-V-1-2.md",
+                "file": "1-SOURCES/Translations/LSDC14_TMZP-en.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -287,7 +287,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.2286376953125
+    "width": 230.01947021484375
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -302,14 +302,18 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "d2528b072a71996e",
+  "active": "0237faf0eda7da5f",
   "lastOpenFiles": [
+    "1-SOURCES/Text/LSDC14_TMZP-bo.md.md",
+    "1-SOURCES/Translations/LSDC14_TMZP-en.md",
+    "1-SOURCES/Commentaries/LSDC20_TCD_bo.md",
+    "3-TRANSFORMATIONS/Translations/About Translations.md",
+    "4-SYSTEM/Guidelines/vault-annex.md",
+    "3-TRANSFORMATIONS/Plans/37 Practice_bo/Day-2-MT-V-1-2.md",
     "3-TRANSFORMATIONS/Plans/37 Practice_bo/Day-3-MT-V-3-4.md",
     "3-TRANSFORMATIONS/Plans/37 Practice_bo/Day-4-MT-V-5-6.md",
     "3-TRANSFORMATIONS/Plans/37 Practice_bo/Day-5-MT-V-7-8.md",
     "3-TRANSFORMATIONS/Plans/37 Practice_bo/Day-6-MT-V-9-10.md",
-    "1-SOURCES/Text/LSDC14_TMZP-bo.md.md",
-    "3-TRANSFORMATIONS/Plans/37 Practice_bo/Day-2-MT-V-1-2.md",
     "3-TRANSFORMATIONS/Plans/37 Practice_bo/Day-1-INTRO-V-1-2.md",
     "3-TRANSFORMATIONS/Plans/About Plans.md",
     "3-TRANSFORMATIONS/Plans/37 Practice_zh",
@@ -317,9 +321,7 @@
     "3-TRANSFORMATIONS/Plans/37 Practice_bo",
     "bo-root-text.md",
     "3-TRANSFORMATIONS/Plans/37 Practice_en",
-    "1-SOURCES/Commentaries/LSDC20_TCD_bo.md",
     "1-SOURCES/Commentaries/LSDC20_TG_bo_1.md",
-    "4-SYSTEM/Guidelines/vault-annex.md",
     "4-SYSTEM/Guidelines/skills-system.md",
     "4-SYSTEM/Skills/section-summary-combined/SKILL.md",
     "4-SYSTEM/Skills/add-toc/SKILL.md",
@@ -333,9 +335,7 @@
     "4-SYSTEM/Skills/property-creator/SKILL.md",
     "4-SYSTEM/Skills/format-commentary/SKILL.md",
     "transclusion.md",
-    "4-SYSTEM/Skills/Obsidian-Block-ID-to-Commentary/SKILL.md",
     "4-SYSTEM/Skills/Root-Text-Transclusion",
-    "1-SOURCES/Commentaries/_to_delete/WITH_TRANSCLUSIONS_reapplied.md",
     "1-SOURCES/Commentaries/_to_delete",
     "1-SOURCES/Commentaries/LSDC20_TG_bo.md.bak",
     "4-SYSTEM/Skills/Obsidian-Block-ID-to-Commentary/sedgsremf",

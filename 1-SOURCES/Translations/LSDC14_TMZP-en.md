@@ -12,11 +12,12 @@ source_description: "Lotsawa House PDF export, version 1.6–20250303; first pub
 source_url: https://www.lotsawahouse.org/tibetan-masters/gyalse-thogme-zangpo/37-practices-all-bodhisattvas
 ---
 
+
 # The Thirty-Seven Practices of All the Bodhisattvas^0
 
-[Ed: Non-breaking spaces from the Lotsawa House web export have been normalised to ordinary spaces. No other change to the wording.]
+## Introduction
 
-## 0. Introduction ^0
+### Homage
 
 _Namo Lokeśvarāya!_
 
@@ -25,12 +26,14 @@ Yet still you strive solely for the sake of living beings—
 To you, my precious guru inseparable from Lord Avalokita,  
 I offer perpetual homage, respectfully, with body, speech and mind. ^0-1
 
+### Pledge to Compose
+
 The perfect buddhas, who are the source of all benefit and joy,  
 Come into being through accomplishing the sacred Dharma.  
 And since this in turn depends on knowing how to practise,  
 I shall now describe the practices of all the buddhas’ heirs. ^0-2
 
-## Homage and Pledge to Compose^1-0
+
 
 1. The practice of all the bodhisattvas is to study, reflect and meditate,  
 Tirelessly, both day and night, without ever straying into idleness,  
