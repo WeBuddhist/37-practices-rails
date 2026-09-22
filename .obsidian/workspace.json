@@ -83,7 +83,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4-SYSTEM/Skills/Obsidian Block IDs and Tibetan Root-Text Transclusions for Translations/SKILL.md",
+                "file": "4-SYSTEM/Skills/commentary-frontmatter/SKILL.md",
                 "mode": "source",
                 "source": false
               },
@@ -106,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -243,7 +243,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-TRANSFORMATIONS/Plans/37 Practice_bo/Day-6-MT-V-9-10.md",
+                "file": "4-SYSTEM/Skills/commentary-frontmatter/SKILL.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -302,10 +302,23 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "d2528b072a71996e",
+  "active": "a7f0716754395d29",
   "lastOpenFiles": [
-    "3-TRANSFORMATIONS/Plans/37 Practice_bo/Day-2-MT-V-1-2.md",
+    "4-SYSTEM/Skills/BCA-Term-Definition/SKILL.md",
+    "4-SYSTEM/Skills/BCA-Term-Definition",
+    "4-SYSTEM/Skills/BCA-Daily-Practice-Plan-HHDL/scripts/count_syllables.py",
+    "4-SYSTEM/Skills/BCA-Daily-Practice-Plan-HHDL/references/tibetan-numerals-and-ordinals.md",
+    "4-SYSTEM/Skills/BCA-Daily-Practice-Plan-HHDL/SKILL.md",
+    "4-SYSTEM/Skills/BCA-Daily-Practice-Plan-HHDL/scripts",
+    "4-SYSTEM/Skills/BCA-Daily-Practice-Plan-HHDL/references",
+    "4-SYSTEM/Skills/BCA-Daily-Practice-Plan-HHDL",
+    "4-SYSTEM/Skills/BAC-Term-Localization/SKILL.md",
+    "4-SYSTEM/Skills/BAC-Term-Localization",
+    "4-SYSTEM/Skills/BCA-Verse-Context-Summary/SKILL.md",
+    "4-SYSTEM/Skills/BCA-Verse-Context-Summary",
     "4-SYSTEM/Skills/Obsidian Block IDs and Tibetan Root-Text Transclusions for Translations/SKILL.md",
+    "3-TRANSFORMATIONS/Plans/37 Practice_bo/Day-6-MT-V-9-10.md",
+    "3-TRANSFORMATIONS/Plans/37 Practice_bo/Day-2-MT-V-1-2.md",
     "1-SOURCES/Commentaries/LSDC20_TG_bo_1.md",
     "1-SOURCES/Commentaries/thrangu_TG_bo_0.md",
     "1-SOURCES/Translations/LSDC14_TMZP_en.md",
@@ -322,23 +335,11 @@
     "3-TRANSFORMATIONS/Plans/37 Practice_bo/Day-3-MT-V-3-4.md",
     "3-TRANSFORMATIONS/Plans/37 Practice_bo/Day-4-MT-V-5-6.md",
     "3-TRANSFORMATIONS/Plans/37 Practice_bo/Day-5-MT-V-7-8.md",
-    "3-TRANSFORMATIONS/Plans/37 Practice_bo/Day-6-MT-V-9-10.md",
     "3-TRANSFORMATIONS/Plans/37 Practice_bo/Day-1-INTRO-V-1-2.md",
     "3-TRANSFORMATIONS/Plans/About Plans.md",
     "3-TRANSFORMATIONS/Plans/37 Practice_zh",
-    "3-TRANSFORMATIONS/Plans/37 Practice_bo",
     "bo-root-text.md",
-    "3-TRANSFORMATIONS/Plans/37 Practice_en",
     "4-SYSTEM/Guidelines/skills-system.md",
-    "4-SYSTEM/Skills/section-summary-combined/SKILL.md",
-    "4-SYSTEM/Skills/add-toc/SKILL.md",
-    "2-RAILS/About Rails.md",
-    "4-SYSTEM/Skills/Catalog/SKILLS-CATALOG.md",
-    "4-SYSTEM/Skills/Catalog",
-    "4-SYSTEM/Skills/New folder",
-    "4-SYSTEM/Skills/Root-Text-Transclusion",
-    "1-SOURCES/Commentaries/_to_delete",
-    "1-SOURCES/Commentaries/LSDC20_TG_bo.md.bak",
     "Untitled.canvas"
   ]
 }
