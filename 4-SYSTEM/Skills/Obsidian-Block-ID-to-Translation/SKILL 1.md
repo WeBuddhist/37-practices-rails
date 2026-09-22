@@ -42,7 +42,7 @@ To you, my precious guru inseparable from Lord Avalokita,
 I offer perpetual homage, respectfully, with body, speech and mind.
 
 
-#### Pledge to Compose
+### Pledge to Compose
 
 ![[transclusion]]
 
@@ -88,81 +88,52 @@ Output:
 
 ### Homage ^I-1-0
 
-![[transclusion]]
+![[LSDC14_TMZP_bo.md#^I-1]]
 
 Namo Lokeśvarāya! ^I-1
 
-![[transclusion]]
+![[LSDC14_TMZP_bo.md#^I-2]]
 
 You see that all things are beyond coming and going,  
 Yet still you strive solely for the sake of living beings—  
 To you, my precious guru inseparable from Lord Avalokita,  
-I offer perpetual homage, respectfully, with body, speech and mind.
-... ^I-2
+I offer perpetual homage, respectfully, with body, speech and mind. ^I-2
 ... ^I-3
-### མཆོད་པར་བརྗོད་པ། ^I-2-0
 
-#### མདོར་བསྟན་པ།  ^I-2-1-0
+### Pledge to Compose
 
-![[LSDC14_TMZP_bo.md#^I-1]]
+![[LSDC14_TMZP_bo.md#^I-3]]
 
-དེ་ལ་རྒྱལ་བའི་སྲས་པོ་ཐོགས་མེད་བཟང་པོ་དཔལ་གྱིས་མཛད་པའི་རྒྱལ་སྲས་ལག་ལེན་འདི་འཆད་པ་ལ་གསུམ། མཆོད་པར་བརྗོད་ཅིང་རྩོམ་པར་དམ་བཅའ་བ། བརྩམ་བྱ་བསྟན་བཅོས་ཀྱི་རང་བཞིན། མཇུག་གི་དོན་བསྡུ་བའོ། །དང་པོ་ལ་གཉིས། མཆོད་པར་བརྗོད་པ། རྩོམ་པར་དམ་བཅའ་བའོ། །དང་པོ་ལ་བསྟན་བཤད་གཉིས་ལས། དང་པོ་ནི། ན་མོ་ལོ་ཀེ་ཤྭ་ར་ཡ། ཞེས་གསུངས། དོན་ནི། འཇིག་རྟེན་དབང་ཕྱུག་ལ་ཕྱག་འཚལ་ལོ། །ཞེས་པའོ། ། ^I-4
+The perfect buddhas, who are the source of all benefit and joy,  
+Come into being through accomplishing the sacred Dharma.  
+And since this in turn depends on knowing how to practise,  
+I shall now describe the practices of all the buddhas’ heirs.  ^I-4
 
-![[LSDC14_TMZP_bo.md#^I-2]]
 
-#### རྒྱས་པར་བཤད་པ། ^I-2-2-0
-
-གཉིས་པ་ནི། ^I-5
-
-གང་གིས་ཆོས་ཀུན་འགྲོ་འོང་མེད་གཟིགས་ཀྱང༌ །
-འགྲོ་བའི་དོན་ལ་གཅིག་ཏུ་བརྩོན་མཛད་པའི །
-བླ་མ་མཆོག་དང་སྤྱན་རས་གཟིགས་མགོན་ལ །
-རྟག་ཏུ་སྒོ་གསུམ་གུས་པས་ཕྱག་འཚལ་ལོ། ། ^I-6
-ཞེས་གསུངས། ^I-7
-...
-
-## བརྩམ་བྱ་བསྟན་བཅོས་ཀྱི་རང་བཞིན། ^1-0
-
-### སྔོན་འགྲོའི་ཆོས་ལ་འཇུག་ཚུལ། ^1-1-0
-
-#### དལ་འབྱོར་དོན་ཡོད། ^1-2-1-0
+## The Main Text ^1-0
 
 ![[LSDC14_TMZP_bo.md#^1-1]]
 
-དང་པོ་རྙེད་དཀའི་དལ་འབྱོར་དོན་ཡོད་པར་བྱ་བ་ནི། །^1-1
+The practice of all the bodhisattvas is to study, reflect and meditate,  
+Tirelessly, both day and night, without ever straying into idleness,  
+In order to free oneself and others from this ocean of saṃsāra,  
+Having gained this supreme vessel—a free, well-favoured human life, so difficult to find. ^1-1
+... ^1-2
 
-དལ་འབྱོར་གྲུ་ཆེན་རྙེད་དཀའ་ཐོབ་དུས་འདིར། །
-བདག་གཞན་འཁོར་བའི་མཚོ་ལས་བསྒྲལ་བྱའི་ཕྱིར། །
-ཉིན་དང་མཚན་དུ་གཡེལ་བ་མེད་པར་ནི། །
-ཉན་སེམས་སྒོམ་པ་རྒྱལ་སྲས་ལག་ལེན་ཡིན། །^1-2
-ཞེས་གསུངས། ^1-3
-...
-
-##  མཇུག་གི་དོན་བསྡུ་བ། ^2-0
-
-### གང་གི་དོན་དུ་ཇི་ལྟར་བརྩམས་པ། ^2-1-0
+## Concluding Matter ^2-0
 
 ![[LSDC14_TMZP_bo.md#^2-1]]
 
-དང་པོ་ནི། ^2-1
-མདོ་རྒྱུད་བསྟན་བཅོས་རྣམས་ལས་གསུངས་པའི་དོན། །
-དམ་པ་རྣམས་ཀྱི་གསུང་གི་རྗེས་འབྲངས་ནས། །
-རྒྱལ་སྲས་རྣམས་ཀྱི་ལག་ལེན་སུམ་ཅུ་བདུན། །
-རྒྱལ་སྲས་ལམ་ལ་སློབ་འདོད་དོན་དུ་བཀོད། ། ^2-2
-ཅེས་གསུངས། ^2-3
-...
+Here I have set down for those who wish to follow the bodhisattva path,  
+Thirty-seven practices to be adopted by all the buddhas’ heirs,  
+Based on what is taught in the sūtras, tantras and treatises,  
+And following the instructions of the great masters of the past. ^2-1
+... ^2-2
 
-## ཕུན་སུམ་ཚོགས་པ་བཞི་ལྡན་གྱི་སྦྱར་བྱང་། ^a-0
+## Colophon ^a-0
 
-ལྔ་པ་ནི། ཅེས་པ་འདི་ནི་རང་གཞན་ལ་ཕན་པའི་དོན་དུ་ལུང་དང་རིགས་པ་སྨྲ་བའི་བཙུན་པ་ཐོགས་མེད་ཀྱིས་དངུལ་ཆུའི་རིན་ཆེན་ཕུག་ཏུ་སྦྱར་བའོ། །ཞེས་གསུངས་ཏེ། གང་བརྩམ་བྱ། གང་ཕྱིར་བརྩམ་པ། གང་གིས་རྩོམ་པ་པོ། གང་དུ་བརྩམས་ཏེ། ཕུན་སུམ་ཚོགས་པ་བཞི་དང་ལྡན་པའི་སྦྱར་བྱང་སྨོས་པའོ། །  ^a-1
-...
-
-### སྨྲས་པ། ^a-1-0
-
-གཞུང་བཤད་རིན་ཆེན་མཛེས་པའི་བུམ་པ་བཟང༌། །
-གདམས་ངག་བདུད་རྩིའི་བཅུད་ཀྱིས་གཏམས་པ་འདིས། །
-སྐལ་བཟང་ཐར་འདོད་སྐྱེ་བོའི་ཚོགས་རྣམས་ལ། །
-འཆི་མེད་ཞི་བ་མཆོག་གི་དཔལ་སྟེར་བྱེད། ། ^a-1-1
+This was composed in Jewel Cave (Rinchen Puk) in Ngulchu by the monk Tokme, a teacher of scripture and reasoning, for his own and others’ benefit. ^a-1
+...  ^a-2
 ...
 
 ```
