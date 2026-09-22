@@ -3,229 +3,257 @@ name: Obsidian-Block-ID-to-Translation and add transclusion of the original Tibe
 description: Stamp Obsidian block IDs onto Translations
 ---
 
-# Obsidian-Block-ID-to-Translation and add transclusion of the original Tibetan root text to Translations
+# Obsidian Block IDs and Tibetan Root-Text Transclusions for Translations
 
-This skill stamps every `###`/`####` sub-heading and body-text block of a Translation root text file with a trailing Obsidian block-reference id, keyed off a label the human contributor has already written by hand on the enclosing `##` heading — so each becomes individually linkable and transcludable. The `##` heading's own id is never generated, edited, or guessed by this skill: it must already be there, written by hand, before the skill will touch anything else in that section. Sub-headings get their own hierarchical id built from that label; body-text blocks (a verse stanza, a prose paragraph — whatever a blank line sets off) are numbered sequentially off the same label within the section, restarting at each new `##`. The original Tibetan root text transclusion lines (`![[...]]`) are structural navigation, not the content, so they are always skipped: never tagged, and never counted against the body-block sequence.
+## Description
+
+Add Obsidian block IDs to the English translation file and insert accurate transclusions of the corresponding original Tibetan root text from:
+
+`1-SOURCES/Text/LSDC14_TMZP_bo.md`
+
+The skill works section by section and stanza by stanza. It must preserve the existing English translation and section structure and must match each English stanza with the correct Tibetan root-text stanza.
 
 ---
 
 ## Inputs
 
-- `file` — path to a translation markdown file, typically under `1-SOURCES/Translations`. It must contain at least one `##` heading, and **every `##` heading must already end in a manually-added `^{label}-0` id** (see Rule 1) before the skill will tag anything else. It may optionally contain `###` and `####` sub-headings and The original Tibetan root text transclusions (`![[...]]`); it does not need any of these to run.
+- **Translation file:** the target English translation file, typically under `1-SOURCES/Translations/`
+    
+- **Tibetan root text:** `1-SOURCES/Text/LSDC14_TMZP_bo.md`
+    
 
-## Output
-
-- The same `file` modified in place (or a caller-specified output path), with a block id appended to the end of every qualifying `#`/`###`/`####` heading and body-text-block line. `##` heading lines are never modified. No lines are added or removed; total line count is unchanged.
-
----
-
-## Output file format
-
-Given input where the `##` headings already carry hand-written labels:
-
-```
-# The Thirty-Seven Practices of All the Bodhisattvas^0
-
-## Introduction ^I-0
-
-### Homage ^I-1-0
-
-![[transclusion]]
-
-Namo Lokeśvarāya!
-
-![[transclusion]]
-
-You see that all things are beyond coming and going,  
-Yet still you strive solely for the sake of living beings—  
-To you, my precious guru inseparable from Lord Avalokita,  
-I offer perpetual homage, respectfully, with body, speech and mind.
-
-
-### Pledge to Compose
-
-![[transclusion]]
-
-The perfect buddhas, who are the source of all benefit and joy,  
-Come into being through accomplishing the sacred Dharma.  
-And since this in turn depends on knowing how to practise,  
-I shall now describe the practices of all the buddhas’ heirs.
-...
-
-## The Main Text ^1-0
-
-![[transclusion]]
-
-The practice of all the bodhisattvas is to study, reflect and meditate,  
-Tirelessly, both day and night, without ever straying into idleness,  
-In order to free oneself and others from this ocean of saṃsāra,  
-Having gained this supreme vessel—a free, well-favoured human life, so difficult to find.
-...
-
-## Concluding Matter ^2-0
-
-![[transclusion]]
-
-Here I have set down for those who wish to follow the bodhisattva path,  
-Thirty-seven practices to be adopted by all the buddhas’ heirs,  
-Based on what is taught in the sūtras, tantras and treatises,  
-And following the instructions of the great masters of the past.
-...
-
-## Colophon ^a-0
-
-This was composed in Jewel Cave (Rinchen Puk) in Ngulchu by the monk Tokme, a teacher of scripture and reasoning, for his own and others’ benefit.
-...
-
-
-
-Output:
-
-```
-# The Thirty-Seven Practices of All the Bodhisattvas ^0
-
-## Introduction ^I-0
-
-### Homage ^I-1-0
-
-![[LSDC14_TMZP_bo.md#^I-1]]
-
-Namo Lokeśvarāya! ^I-1
-
-![[LSDC14_TMZP_bo.md#^I-2]]
-
-You see that all things are beyond coming and going,  
-Yet still you strive solely for the sake of living beings—  
-To you, my precious guru inseparable from Lord Avalokita,  
-I offer perpetual homage, respectfully, with body, speech and mind. ^I-2
-... ^I-3
-
-### Pledge to Compose
-
-![[LSDC14_TMZP_bo.md#^I-3]]
-
-The perfect buddhas, who are the source of all benefit and joy,  
-Come into being through accomplishing the sacred Dharma.  
-And since this in turn depends on knowing how to practise,  
-I shall now describe the practices of all the buddhas’ heirs.  ^I-4
-
-
-## The Main Text ^1-0
-
-![[LSDC14_TMZP_bo.md#^1-1]]
-
-The practice of all the bodhisattvas is to study, reflect and meditate,  
-Tirelessly, both day and night, without ever straying into idleness,  
-In order to free oneself and others from this ocean of saṃsāra,  
-Having gained this supreme vessel—a free, well-favoured human life, so difficult to find. ^1-1
-... ^1-2
-
-## Concluding Matter ^2-0
-
-![[LSDC14_TMZP_bo.md#^2-1]]
-
-Here I have set down for those who wish to follow the bodhisattva path,  
-Thirty-seven practices to be adopted by all the buddhas’ heirs,  
-Based on what is taught in the sūtras, tantras and treatises,  
-And following the instructions of the great masters of the past. ^2-1
-... ^2-2
-
-## Colophon ^a-0
-
-This was composed in Jewel Cave (Rinchen Puk) in Ngulchu by the monk Tokme, a teacher of scripture and reasoning, for his own and others’ benefit. ^a-1
-...  ^a-2
-...
-
-```
-
-Note three things: the `##` headings (`^I-0`, `^1-0`) are exactly what the contributor wrote — untouched — and everything underneath is built from that label, not from a running section count; the title still gets an auto-generated `^0`; and the transclusion line is untouched and did not consume a body-counter value.
-
-A section nested four deep, off a heading manually labeled `^5-0`, follows the same pattern:
-
-```
-## ... ^5-0
-### ... ^5-1-0
-#### ... ^5-1-1-0
-
-body text segment ^5-1
-
-body text segment ^5-2
-
-body text segment ^5-3
-```
-
-A section whose contributor used a Roman-numeral label instead:
-
-```
-## ... ^II-0
-### ... ^II-1-0
-
-body text segment ^II-1
-
-body text segment ^II-2
-```
+The translation file must contain `##` section headings with their section block IDs already present.
 
 ---
 
 ## Rules
 
-1. **`##` heading ids are always manual — this skill never generates, edits, or guesses one.** Every `##` heading must already end in a block id of the form `^{label}-0`, written by hand by the human contributor. `{label}` can be anything the contributor is using to key that section (a plain running number, a Roman numeral, a letter, or any other short token) — this skill does not care what scheme it follows, only that it's already there. Before tagging anything, the skill scans every `##` heading in the file:
-   - If **any** `##` heading is missing a `^{label}-0` id, the skill stops immediately, writes nothing, and tells the human contributor exactly which heading(s) (by line number and text) need an id added by hand. It does not invent a fallback numeric id for the missing ones, even to keep going on the rest of the file.
-   - Only once **every** `##` heading in the file already carries a manual `^{label}-0` id does the skill proceed to tag the title, sub-headings, and body-text blocks.
-   - The `#` title (at most one per file) is the one exception: it is still auto-generated as `^0`, exactly as before.
-2. **`###`/`####` and body-text ids are all keyed off the enclosing `##` heading's manual label, never off a running section count:**
-   - `###` → `^{label}-{h3}-0`, where `h3` counts `###` headings within the current `##` section and resets to 1 at each new `##`.
-   - `####` → `^{label}-{h3}-{h4}-0`, where `h4` counts `####` headings within the current `###` sub-section and resets to 1 at each new `###` (and, in turn, at each new `##`). A `####` heading requires an enclosing `###` — one that appears directly under a `##` with no `###` above it is an error, not a guessed `^{label}-0-1-0`.
-   - Body-text blocks (a run of consecutive non-blank, non-heading, non-transclusion lines) get `^{label}-{n}`, where `n` is a counter starting at 1 that increments for every body block in that section — it does **not** reset at `###`/`####` sub-headings, only at the next `##`. A body block sitting under a `####` still gets the two-segment `^{label}-{n}` form, never `^{label}-{h3}-{n}` or deeper.
-   - Concretely: a `##` heading manually tagged `^I-0` produces body ids `^I-1`, `^I-2`, …; one tagged `^1-0` produces `^1-1`, `^1-2`, …; one tagged `^a-0` produces `^a-1`, `^a-2`, ….
-   - `#####` and deeper are **not supported** — abort and flag for human review rather than inventing a fifth tier.
-3. **Transclusion lines are never modified and never receive an id**, and they never consume a body-counter value — treat them as invisible to the numbering, not merely unlabeled.
-4. **A heading line always starts a new block**, even if it directly abuts the previous or next line with no blank line around it. Some raw text files are missing a blank line before a heading; the heading still gets its own id (or, for `##`, is still recognized and its label still extracted).
-5. **The id is appended to the end of the block's last line only** (` ^id`), never inserted as a separate line. A multi-line verse stanza gets exactly one id, on its final line. `##` heading lines are never appended to, since their id is already there.
-6. **No body content may appear between the `#` title and the first `##` heading.** This shape has no validated numbering — abort and ask the human contributor rather than guessing.
-7. **Idempotent:** a `#`/`###`/`####`/body line whose block already ends in a ` ^{label}-...` suffix is left untouched and does not consume a counter slot, so re-running on an already-tagged file is a no-op. `##` heading lines are always left untouched regardless (see Rule 1) — this includes both a first run and every re-run.
-8. **Original line endings (CRLF or LF), YAML frontmatter (if present), and total line count are preserved** — ids are appended to existing lines only, and never to `##` headings.
-9. **Do not hand-edit ids with the Edit tool for bulk tagging** — always use `apply.py` so the heading/body counters stay consistent across the whole file. Manual edits are only for two things: (a) adding the required `^{label}-0` id to a `##` heading before running the skill, and (b) fixing a specific flagged anomaly after review (for example, closing a numbering gap left by a previous partial or buggy run).
+### 1. Keep the existing `##` section block IDs
+
+Do not change, remove, or regenerate the block ID already attached to any `##` heading.
+
+These `##` block IDs are the base IDs for everything inside that section.
+
+For example:
+
+```markdown
+## Introduction ^I-0
+## Main Text ^1-0
+## Conclusion ^2-0
+## Colophon ^a-0
+```
+
+---
+### 2. Add block IDs to `###` and `####` headings
+
+Add block IDs to all `###` and `####` headings according to the block ID of their enclosing `##` section.
+
+Examples:
+
+```markdown
+## Main Text ^1-0
+### The First Practice ^1-1-0
+#### Explanation ^1-1-1-0
+```
+
+Use the existing numbering pattern of the file where applicable.
+
+Rules:
+- Every `###` heading must have a block ID.
+- Every `####` heading must have a block ID.
+- Do not create unnecessary deeper heading levels.
+- Do not change the heading text.
+- Do not change an existing correct heading ID.
+- Keep the hierarchy consistent with the enclosing `##` section.
+    
 
 ---
 
+### 3. Add block IDs to the end of every Shloka/Stanza
+
+Each English Shloka or stanza must have one block ID at the **end of its final line**.
+
+The ID must follow the block-ID sequence of its enclosing `##` section.
+
+For example:
+
+```markdown
+## Main Text ^1-0
+
+The practice of all the bodhisattvas is to study, reflect and meditate,
+Tirelessly, both day and night, without ever straying into idleness,
+In order to free oneself and others from this ocean of saṃsāra,
+Having gained this supreme vessel—a free, well-favoured human life, so difficult to find. ^1-1
+
+The next practice is...
+...
+^1-2
+```
+
+Important:
+
+- One complete Shloka/Stanza = one block ID.
+- Put the ID only at the end of the stanza's final line.
+- Do not put a separate ID on every line of a stanza.
+- Continue the numbering according to the enclosing `##` section.
+- Do not restart the stanza numbering at every `###` or `####`.
+- Do not modify the English translation itself.
+- Preserve punctuation and line breaks unless a change is absolutely necessary to correctly identify the stanza boundary.
+    
+
+---
+
+### 4. Add Tibetan root-text transclusions Shloka by Shloka
+
+Use:
+
+`1-SOURCES/Text/LSDC14_TMZP_bo.md`
+
+as the authoritative source for the original Tibetan root text.
+
+For **every English root-text Shloka/Stanza**, find the exact corresponding Tibetan root-text block and insert its transclusion **directly above the English Shloka/Stanza**.
+
+Example:
+
+```markdown
+![[LSDC14_TMZP_bo.md#^1-1]]
+
+The practice of all the bodhisattvas is to study, reflect and meditate,
+Tirelessly, both day and night, without ever straying into idleness,
+In order to free oneself and others from this ocean of saṃsāra,
+Having gained this supreme vessel—a free, well-favoured human life, so difficult to find. ^1-1
+```
+
+The transclusion must point to the **actual corresponding block ID in the Tibetan root-text file**.
+
+---
+
+### 5. Match the Tibetan and English versions accurately
+
+Do not match root-text blocks only by their sequence number or position.
+
+For each English Shloka/Stanza:
+
+1. Read the English text.
+2. Locate the corresponding Tibetan root text in `LSDC14_TMZP_bo.md`.
+3. Confirm that the Tibetan passage and English translation correspond in meaning and sequence.
+4. Use the exact Tibetan root-text block ID.
+5. Insert that transclusion immediately above the English Shloka/Stanza.
+
+The goal is an accurate **Tibetan root text ↔ English translation** correspondence.
+
+Do not assume that `^1-10` in the Tibetan file automatically corresponds to the tenth English stanza. Verify the actual text.
+
+---
+
+### 6. Do not skip or invent root-text blocks
+
+Every English root-text Shloka/Stanza that corresponds to the Tibetan source must have a transclusion.
+
+Do not:
+- skip a stanza,
+- reuse the wrong Tibetan block,
+- invent a Tibetan block ID,
+- guess a correspondence,
+- insert a transclusion merely because the numbering appears similar.
+
+If the corresponding Tibetan text cannot be confidently identified, search the root-text file again using the actual Tibetan/English passage and surrounding context before making a decision.
+
+If a genuine correspondence still cannot be established, flag it for review rather than inserting an incorrect transclusion.
+
+---
+### 7. Preserve existing correct transclusions
+
+If a correct Tibetan root-text transclusion already exists:
+- keep it,
+- do not duplicate it,
+- do not replace it unnecessarily.
+
+If an existing transclusion points to the wrong Tibetan block, correct it only after verifying the proper correspondence.
+
+---
+### 8. Do not modify the actual text
+
+This skill is for **structure, block IDs, and root-text transclusions**.
+
+Do not:
+- rewrite the English translation,
+- retranslate the text,
+- change Tibetan text,
+- correct the translator's wording,
+- change punctuation unnecessarily,
+- change the meaning,
+- rearrange Shlokas/Stanzas,
+- merge or split Shlokas unless the source structure clearly requires it.
+
+Preserve the existing content as much as possible.
+
+---
 ## Procedure
 
-The skill uses a helper script `apply.py` located in the same directory as this SKILL.md. Construct the path at runtime from the skill's own location.
+### Step 1 — Read the translation structure
 
-1. **Check `##` heading labels first.** Every `##` heading in the target file must already end in a `^{label}-0` id. `apply.py audit` performs this check automatically and aborts with a line-numbered list if any are missing — but glance at the file yourself too. If any are missing, stop here and tell the human contributor which heading(s) need one added by hand; do not proceed until they've done so.
+Identify:
+- the `##` sections and their existing block IDs,
+- all `###` and `####` headings,
+- all English Shlokas/Stanzas,
+- any existing block IDs,
+- any existing Tibetan transclusions.
 
-2. **Audit.** Run:
-   ```bash
-   python "<this-skill-dir>/apply.py" audit "<path-to-file.md>"
-   ```
-   This reports, per `##` section (identified by its manual label), the first id, last id, and body-block count that would be tagged, without writing anything. Confirm the labels and ranges look plausible (e.g. match the `##` headings you can see in the file) before applying.
+### Step 2 — Add subsection IDs
 
-3. **Dry-run to a scratch copy.** Copy the target file to a scratch/output location and run:
-   ```bash
-   python "<this-skill-dir>/apply.py" apply "<scratch-copy.md>"
-   ```
-   Do not write directly to the vault file on the first pass.
+For every `###` and `####` heading, add or correct its block ID according to the enclosing `##` section.
 
-4. **Spot-check the output.** Read the first ~30 lines, a `##` section boundary (confirming the `##` line itself is byte-identical to the input, and that the first body id under it starts with `^{that heading's own label}-1`), and at least one point where a transclusion sits between two body blocks — confirm the transclusion is untouched and the two neighboring body ids are back-to-back (no gap).
+Do not alter the existing `##` IDs.
 
-5. **Verify idempotency.** Run `apply.py apply` a second time on its own output and confirm the file is byte-identical (no diff).
+### Step 3 — Identify every English Shloka/Stanza
 
-6. **Verify line count and content are unchanged.** Compare `wc -l` on the original file and the tagged output — they must match exactly. Stripping every ` ^...` suffix the script added (the pre-existing `##` ids were already there, so leave those alone when checking) should reproduce the original file byte-for-byte.
+Read each section carefully and determine the exact beginning and end of every Shloka/Stanza.
 
-7. **Write the result to the real file.** Once verified, overwrite the actual `file` in the vault with the tagged content (or run `apply.py apply "<path-to-file.md>"` directly on it once confidence is established).
+Add one block ID to the final line of each Shloka/Stanza.
 
----
+### Step 4 — Match each stanza with the Tibetan root text
 
-## Completion check
+Search:
 
-- [ ] Every `##` heading in the file already had a manually-added `^{label}-0` id before any tagging ran; if any were missing, the human contributor added them first
-- [ ] `apply.py audit` was run first and its label/section report reviewed before any file was modified
-- [ ] Output was dry-run to a scratch copy before touching the vault file
-- [ ] First ~30 lines, a `##` boundary (heading line byte-identical to input, first body id under it matching that heading's own label), and a transclusion-adjacent pair of body blocks spot-checked in the output
-- [ ] Idempotency verified (second run on the tagged output produces no diff)
-- [ ] Total line count of the output matches the original file, and stripping all newly-added ids reproduces the original content exactly
-- [ ] No transclusion line, blank line, frontmatter line, or `##` heading line was modified or tagged
-- [ ] No numbering gaps remain where a transclusion sits between two body blocks
-- [ ] Every `###`/`####`/body-text id shares its enclosing `##` heading's own manual label
-- [ ] Final tagged file written to the correct vault path
+`1-SOURCES/Text/LSDC14_TMZP_bo.md`
+
+and identify the exact Tibetan root-text block corresponding to each English Shloka/Stanza.
+
+### Step 5 — Insert transclusions
+
+Insert the verified Tibetan transclusion immediately above its corresponding English Shloka/Stanza.
+
+Use this format:
+
+```markdown
+![[LSDC14_TMZP_bo.md#^BLOCK-ID]]
+```
+
+### Step 6 — Final verification
+
+Check the complete file for:
+- every `##` section retaining its original block ID,
+- every `###` heading having a correct block ID,
+- every `####` heading having a correct block ID,
+- every English Shloka/Stanza having one block ID at its end,
+- every root-text Shloka/Stanza having the correct Tibetan transclusion immediately above it,
+- no missing transclusions,
+- no incorrect or duplicated transclusions,
+- no duplicate block IDs,
+- no unnecessary changes to the English translation or structure.
+
+## Completion Checklist
+
+-  All existing `##` block IDs are preserved.
+-  All `###` headings have correct block IDs.
+-  All `####` headings have correct block IDs.
+-  Every English Shloka/Stanza has one block ID at its end.
+-  Block IDs follow the numbering of their enclosing `##` section.
+-  Every English root-text Shloka/Stanza has a Tibetan root-text transclusion directly above it.
+-  Every transclusion points to the exact corresponding block in `LSDC14_TMZP_bo.md`.
+-  Tibetan and English versions have been checked for actual correspondence, not merely matching numbers.
+-  No root-text stanza has been skipped.
+-  No incorrect or duplicate transclusions have been added.
+-  No unnecessary changes have been made to the original text.
+-  No duplicate block IDs remain.

@@ -106,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -243,7 +243,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-SOURCES/Translations/LSDC14_TMZP_en.md",
+                "file": "4-SYSTEM/Skills/Obsidian-Block-ID-to-Translation/SKILL.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -287,7 +287,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 365.2132568359375
+    "width": 247.38372802734375
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -302,8 +302,9 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "0237faf0eda7da5f",
+  "active": "a7f0716754395d29",
   "lastOpenFiles": [
+    "4-SYSTEM/Skills/Obsidian-Block-ID-to-Translation/SKILL.md",
     "4-SYSTEM/Skills/Obsidian-Block-ID-to-Translation/SKILL.md",
     "1-SOURCES/Translations/LSDC14_TMZP_en.md",
     "1-SOURCES/Text/LSDC14_TMZP_bo.md.md",
