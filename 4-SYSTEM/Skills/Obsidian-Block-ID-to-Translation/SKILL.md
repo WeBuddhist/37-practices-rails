@@ -1,9 +1,9 @@
 ---
-name: Obsidian-Block-ID-to-Translation
+name: Obsidian-Block-ID-to-Translation and add transclusion of the original Tibetan root text to Translations
 description: Stamp Obsidian block IDs onto Translations
 ---
 
-# Obsidian-Block-ID-to-Translations
+# Obsidian-Block-ID-to-Translation and add transclusion of the original Tibetan root text to Translations
 
 This skill stamps every `###`/`####` sub-heading and body-text block of a Translation root text file with a trailing Obsidian block-reference id, keyed off a label the human contributor has already written by hand on the enclosing `##` heading — so each becomes individually linkable and transcludable. The `##` heading's own id is never generated, edited, or guessed by this skill: it must already be there, written by hand, before the skill will touch anything else in that section. Sub-headings get their own hierarchical id built from that label; body-text blocks (a verse stanza, a prose paragraph — whatever a blank line sets off) are numbered sequentially off the same label within the section, restarting at each new `##`. The original Tibetan root text transclusion lines (`![[...]]`) are structural navigation, not the content, so they are always skipped: never tagged, and never counted against the body-block sequence.
 
@@ -11,7 +11,7 @@ This skill stamps every `###`/`####` sub-heading and body-text block of a Transl
 
 ## Inputs
 
-- `file` — path to a commentary markdown file, typically under `1-SOURCES/Translations`. It must contain at least one `##` heading, and **every `##` heading must already end in a manually-added `^{label}-0` id** (see Rule 1) before the skill will tag anything else. It may optionally contain `###` and `####` sub-headings and The original Tibetan root text transclusions (`![[...]]`); it does not need any of these to run.
+- `file` — path to a translation markdown file, typically under `1-SOURCES/Translations`. It must contain at least one `##` heading, and **every `##` heading must already end in a manually-added `^{label}-0` id** (see Rule 1) before the skill will tag anything else. It may optionally contain `###` and `####` sub-headings and The original Tibetan root text transclusions (`![[...]]`); it does not need any of these to run.
 
 ## Output
 
@@ -180,7 +180,7 @@ body text segment ^II-2
    - Concretely: a `##` heading manually tagged `^I-0` produces body ids `^I-1`, `^I-2`, …; one tagged `^1-0` produces `^1-1`, `^1-2`, …; one tagged `^a-0` produces `^a-1`, `^a-2`, ….
    - `#####` and deeper are **not supported** — abort and flag for human review rather than inventing a fifth tier.
 3. **Transclusion lines are never modified and never receive an id**, and they never consume a body-counter value — treat them as invisible to the numbering, not merely unlabeled.
-4. **A heading line always starts a new block**, even if it directly abuts the previous or next line with no blank line around it. Some raw commentary files are missing a blank line before a heading; the heading still gets its own id (or, for `##`, is still recognized and its label still extracted).
+4. **A heading line always starts a new block**, even if it directly abuts the previous or next line with no blank line around it. Some raw text files are missing a blank line before a heading; the heading still gets its own id (or, for `##`, is still recognized and its label still extracted).
 5. **The id is appended to the end of the block's last line only** (` ^id`), never inserted as a separate line. A multi-line verse stanza gets exactly one id, on its final line. `##` heading lines are never appended to, since their id is already there.
 6. **No body content may appear between the `#` title and the first `##` heading.** This shape has no validated numbering — abort and ask the human contributor rather than guessing.
 7. **Idempotent:** a `#`/`###`/`####`/body line whose block already ends in a ` ^{label}-...` suffix is left untouched and does not consume a counter slot, so re-running on an already-tagged file is a no-op. `##` heading lines are always left untouched regardless (see Rule 1) — this includes both a first run and every re-run.

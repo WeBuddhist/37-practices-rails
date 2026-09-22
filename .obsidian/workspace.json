@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4-SYSTEM/Skills/Obsidian-Block-ID-to-Translation/SKILL 1.md",
+                "file": "4-SYSTEM/Skills/Obsidian-Block-ID-to-Translation/SKILL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SKILL 1"
+              "title": "SKILL"
             }
           },
           {
@@ -243,7 +243,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4-SYSTEM/Skills/Obsidian-Block-ID-to-Translation/SKILL 1.md",
+                "file": "4-SYSTEM/Skills/Obsidian-Block-ID-to-Translation/SKILL.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -305,7 +305,7 @@
   "active": "a7f0716754395d29",
   "lastOpenFiles": [
     "1-SOURCES/Translations/LSDC14_TMZP_en.md",
-    "4-SYSTEM/Skills/Obsidian-Block-ID-to-Translation/SKILL 1.md",
+    "4-SYSTEM/Skills/Obsidian-Block-ID-to-Translation/SKILL.md",
     "1-SOURCES/Text/LSDC14_TMZP_bo.md.md",
     "4-SYSTEM/Skills/Obsidian-Block-ID-to-Commentary/SKILL.md",
     "4-SYSTEM/Skills/Obsidian-Block-ID-to-Translation",
