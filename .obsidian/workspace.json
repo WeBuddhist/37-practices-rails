@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4-SYSTEM/Skills/Obsidian-Block-ID-to-Commentary/SKILL.md",
+                "file": "4-SYSTEM/Skills/Obsidian-Block-ID-to-Translation/SKILL 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SKILL"
+              "title": "SKILL 1"
             }
           },
           {
@@ -106,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -243,7 +243,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4-SYSTEM/Skills/Obsidian-Block-ID-to-Commentary/SKILL.md",
+                "file": "1-SOURCES/Translations/LSDC14_TMZP-en.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -302,11 +302,12 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "eb2538ea3fa47051",
+  "active": "0237faf0eda7da5f",
   "lastOpenFiles": [
-    "Untitled",
-    "4-SYSTEM/Skills/Root-Text-Transclusion/SKILL.md",
+    "4-SYSTEM/Skills/Obsidian-Block-ID-to-Translation/SKILL 1.md",
     "4-SYSTEM/Skills/Obsidian-Block-ID-to-Commentary/SKILL.md",
+    "4-SYSTEM/Skills/Obsidian-Block-ID-to-Translation",
+    "4-SYSTEM/Skills/Root-Text-Transclusion/SKILL.md",
     "4-SYSTEM/Skills/translation-frontmatter/SKILL 1.md",
     "4-SYSTEM/Skills/format-root-text/SKILL.md",
     "3-TRANSFORMATIONS/Translations/About Translations.md",
@@ -339,7 +340,6 @@
     "1-SOURCES/Commentaries/_to_delete",
     "1-SOURCES/Commentaries/LSDC20_TG_bo.md.bak",
     "4-SYSTEM/Skills/Obsidian-Block-ID-to-Commentary/sedgsremf",
-    "4-SYSTEM/Skills/Obsidian-Block-ID-to-Commentary/_scratch/LSDC20_TCD_bo.scratch.md.run2",
     "Untitled.canvas"
   ]
 }

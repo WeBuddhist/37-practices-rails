@@ -46,7 +46,7 @@ Generates complete YAML frontmatter for a commentary file in `1-SOURCES/Commenta
 
 ### `translation-frontmatter` **[exists]**
 Generates complete YAML frontmatter for a translation file in `1-SOURCES/Translations/`, including translator, target language, and `translation_basis`.
-→ [`translation-frontmatter/SKILL.md`](SKILL%201.md)
+→ [`translation-frontmatter/SKILL.md`](4-SYSTEM/Skills/translation-frontmatter/SKILL%201.md)
 
 ### `reference-frontmatter` **[exists]**
 Generates complete YAML frontmatter for a secondary-literature or reference file in `1-SOURCES/References/`.
