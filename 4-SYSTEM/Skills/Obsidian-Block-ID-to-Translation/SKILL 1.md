@@ -24,96 +24,80 @@ This skill stamps every `###`/`####` sub-heading and body-text block of a Transl
 Given input where the `##` headings already carry hand-written labels:
 
 ```
-# རྒྱལ་སྲས་ལག་ལེན་གྱི་འགྲེལ་པ་གཞུང་དང་གདམས་ངག་ཟུང་འཇུག་བདུད་རྩིའི་བུམ་བཟང་ཞེས་བྱ་བ་བཞུགས་སོ། །
+# The Thirty-Seven Practices of All the Bodhisattvas^0
 
-## ཀླད་ཀྱི་དོན། ^I-0
+## Introduction ^I-0
 
-### འགྲེལ་བའི་མཆོད་བརྗོད།
-
-༄༅། །སྙིང་སྟོབས་ཆེན་པོས་མཁའ་ཁྱབ་འགྲོ་བ་ཀུན། །
-བྱང་ཆུབ་ཆེན་པོར་བཀྲི་བའི་ཁུར་ཁྱེར་ནས། །
-གོ་འཕང་ཆེན་པོར་བྱོན་དང་འབྱོན་འགྱུར་བའི། །
-དཔའ་བོ་ཆེན་པོ་སྲས་དང་བཅས་ལ་འདུད། །
-
-### མཆོད་པར་བརྗོད་པ།
-
-#### མདོར་བསྟན་པ།
+### Homage ^I-1-0
 
 ![[transclusion]]
 
-དེ་ལ་རྒྱལ་བའི་སྲས་པོ་ཐོགས་མེད་བཟང་པོ་དཔལ་གྱིས་མཛད་པའི་རྒྱལ་སྲས་ལག་ལེན་འདི་འཆད་པ་ལ་གསུམ། མཆོད་པར་བརྗོད་ཅིང་རྩོམ་པར་དམ་བཅའ་བ། བརྩམ་བྱ་བསྟན་བཅོས་ཀྱི་རང་བཞིན། མཇུག་གི་དོན་བསྡུ་བའོ། །དང་པོ་ལ་གཉིས། མཆོད་པར་བརྗོད་པ། རྩོམ་པར་དམ་བཅའ་བའོ། །དང་པོ་ལ་བསྟན་བཤད་གཉིས་ལས། དང་པོ་ནི། ན་མོ་ལོ་ཀེ་ཤྭ་ར་ཡ། ཞེས་གསུངས། དོན་ནི། འཇིག་རྟེན་དབང་ཕྱུག་ལ་ཕྱག་འཚལ་ལོ། །ཞེས་པའོ། ། 
+Namo Lokeśvarāya!
 
 ![[transclusion]]
 
-#### རྒྱས་པར་བཤད་པ། 
+You see that all things are beyond coming and going,  
+Yet still you strive solely for the sake of living beings—  
+To you, my precious guru inseparable from Lord Avalokita,  
+I offer perpetual homage, respectfully, with body, speech and mind.
 
-གཉིས་པ་ནི།
 
-གང་གིས་ཆོས་ཀུན་འགྲོ་འོང་མེད་གཟིགས་ཀྱང༌ །
-འགྲོ་བའི་དོན་ལ་གཅིག་ཏུ་བརྩོན་མཛད་པའི །
-བླ་མ་མཆོག་དང་སྤྱན་རས་གཟིགས་མགོན་ལ །
-རྟག་ཏུ་སྒོ་གསུམ་གུས་པས་ཕྱག་འཚལ་ལོ། །
-...
-
-གཉིས་པ་ནི།
-
-## གཞུང་དངོས། ^1-0
-
-### སྔོན་འགྲོའི་ཆོས་ལ་འཇུག་ཚུལ།
-
-#### དལ་འབྱོར་དོན་ཡོད།
+#### Pledge to Compose
 
 ![[transclusion]]
 
-དང་པོ་རྙེད་དཀའི་དལ་འབྱོར་དོན་ཡོད་པར་བྱ་བ་ནི། །
-དལ་འབྱོར་གྲུ་ཆེན་རྙེད་དཀའ་ཐོབ་དུས་འདིར། །
-བདག་གཞན་འཁོར་བའི་མཚོ་ལས་བསྒྲལ་བྱའི་ཕྱིར། །
-ཉིན་དང་མཚན་དུ་གཡེལ་བ་མེད་པར་ནི། །
-ཉན་སེམས་སྒོམ་པ་རྒྱལ་སྲས་ལག་ལེན་ཡིན། །
-ཞེས་གསུངས། 
+The perfect buddhas, who are the source of all benefit and joy,  
+Come into being through accomplishing the sacred Dharma.  
+And since this in turn depends on knowing how to practise,  
+I shall now describe the practices of all the buddhas’ heirs.
 ...
 
-##  མཇུག་གི་དོན་བསྡུ་བ། ^3-0
-
-### གང་གི་དོན་དུ་ཇི་ལྟར་བརྩམས་པ།
+## The Main Text ^1-0
 
 ![[transclusion]]
 
-དང་པོ་ནི། 
-མདོ་རྒྱུད་བསྟན་བཅོས་རྣམས་ལས་གསུངས་པའི་དོན། །
-དམ་པ་རྣམས་ཀྱི་གསུང་གི་རྗེས་འབྲངས་ནས། །
-རྒྱལ་སྲས་རྣམས་ཀྱི་ལག་ལེན་སུམ་ཅུ་བདུན། །
-རྒྱལ་སྲས་ལམ་ལ་སློབ་འདོད་དོན་དུ་བཀོད། ། 
-ཅེས་གསུངས། 
+The practice of all the bodhisattvas is to study, reflect and meditate,  
+Tirelessly, both day and night, without ever straying into idleness,  
+In order to free oneself and others from this ocean of saṃsāra,  
+Having gained this supreme vessel—a free, well-favoured human life, so difficult to find.
 ...
 
-## ཕུན་སུམ་ཚོགས་པ་བཞི་ལྡན་གྱི་སྦྱར་བྱང་། ^a-0
+## Concluding Matter ^2-0
 
-ལྔ་པ་ནི། ཅེས་པ་འདི་ནི་རང་གཞན་ལ་ཕན་པའི་དོན་དུ་ལུང་དང་རིགས་པ་སྨྲ་བའི་བཙུན་པ་ཐོགས་མེད་ཀྱིས་དངུལ་ཆུའི་རིན་ཆེན་ཕུག་ཏུ་སྦྱར་བའོ། །ཞེས་གསུངས་ཏེ། གང་བརྩམ་བྱ། གང་ཕྱིར་བརྩམ་པ། གང་གིས་རྩོམ་པ་པོ། གང་དུ་བརྩམས་ཏེ། ཕུན་སུམ་ཚོགས་པ་བཞི་དང་ལྡན་པའི་སྦྱར་བྱང་སྨོས་པའོ། ། 
+![[transclusion]]
+
+Here I have set down for those who wish to follow the bodhisattva path,  
+Thirty-seven practices to be adopted by all the buddhas’ heirs,  
+Based on what is taught in the sūtras, tantras and treatises,  
+And following the instructions of the great masters of the past.
 ...
 
-### སྨྲས་པ།
+## Colophon ^a-0
 
-གཞུང་བཤད་རིན་ཆེན་མཛེས་པའི་བུམ་པ་བཟང༌། །
-གདམས་ངག་བདུད་རྩིའི་བཅུད་ཀྱིས་གཏམས་པ་འདིས། །
-སྐལ་བཟང་ཐར་འདོད་སྐྱེ་བོའི་ཚོགས་རྣམས་ལ། །
-འཆི་མེད་ཞི་བ་མཆོག་གི་དཔལ་སྟེར་བྱེད། ། 
-
+This was composed in Jewel Cave (Rinchen Puk) in Ngulchu by the monk Tokme, a teacher of scripture and reasoning, for his own and others’ benefit.
 ...
+
+
 
 Output:
 
 ```
-# རྒྱལ་སྲས་ལག་ལེན་གྱི་འགྲེལ་པ་གཞུང་དང་གདམས་ངག་ཟུང་འཇུག་བདུད་རྩིའི་བུམ་བཟང་ཞེས་བྱ་བ་བཞུགས་སོ། ། ^0
+# The Thirty-Seven Practices of All the Bodhisattvas ^0
 
-## ཀླད་ཀྱི་དོན། ^I-0
+## Introduction ^I-0
 
-### འགྲེལ་བའི་མཆོད་བརྗོད། ^I-1-0
+### Homage ^I-1-0
 
-༄༅། །སྙིང་སྟོབས་ཆེན་པོས་མཁའ་ཁྱབ་འགྲོ་བ་ཀུན། །
-བྱང་ཆུབ་ཆེན་པོར་བཀྲི་བའི་ཁུར་ཁྱེར་ནས། །
-གོ་འཕང་ཆེན་པོར་བྱོན་དང་འབྱོན་འགྱུར་བའི། །
-དཔའ་བོ་ཆེན་པོ་སྲས་དང་བཅས་ལ་འདུད། ། ^I-1
+![[transclusion]]
+
+Namo Lokeśvarāya! ^I-1
+
+![[transclusion]]
+
+You see that all things are beyond coming and going,  
+Yet still you strive solely for the sake of living beings—  
+To you, my precious guru inseparable from Lord Avalokita,  
+I offer perpetual homage, respectfully, with body, speech and mind.
 ... ^I-2
 ... ^I-3
 ### མཆོད་པར་བརྗོད་པ། ^I-2-0

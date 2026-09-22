@@ -21,7 +21,7 @@ source_url: https://www.lotsawahouse.org/tibetan-masters/gyalse-thogme-zangpo/37
 
 ![[LSDC14_TMZP_bo.md#^I-1]]
 
-_Namo Lokeśvarāya!_
+Namo Lokeśvarāya!
 
 ![[LSDC14_TMZP_bo.md#^I-2]]
 
