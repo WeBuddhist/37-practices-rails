@@ -106,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -243,7 +243,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4-SYSTEM/Skills/commentary-frontmatter/SKILL.md",
+                "file": "3-TRANSFORMATIONS/Plans/37 Practice_bo/Day-6-MT-V-9-10.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -302,8 +302,15 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "a7f0716754395d29",
+  "active": "d2528b072a71996e",
   "lastOpenFiles": [
+    "4-SYSTEM/Skills/commentary-frontmatter/SKILL.md",
+    "4-SYSTEM/Skills/BCA-Daily-Practice-Plan-HHDl/references/tibetan-numerals-and-ordinals.md",
+    "4-SYSTEM/Skills/BCA-Daily-Practice-Plan-HHDl/scripts/count_syllables.py",
+    "4-SYSTEM/Skills/BCA-Daily-Practice-Plan-HHDl/references",
+    "4-SYSTEM/Skills/BCA-Daily-Practice-Plan-HHDl/SKILL.md",
+    "4-SYSTEM/Skills/BCA-Daily-Practice-Plan-HHDl/scripts",
+    "4-SYSTEM/Skills/BCA-Daily-Practice-Plan-HHDl",
     "4-SYSTEM/Skills/BCA-Term-Definition/SKILL.md",
     "4-SYSTEM/Skills/BCA-Term-Definition",
     "4-SYSTEM/Skills/BCA-Daily-Practice-Plan-HHDL/scripts/count_syllables.py",
@@ -315,7 +322,6 @@
     "4-SYSTEM/Skills/BAC-Term-Localization/SKILL.md",
     "4-SYSTEM/Skills/BAC-Term-Localization",
     "4-SYSTEM/Skills/BCA-Verse-Context-Summary/SKILL.md",
-    "4-SYSTEM/Skills/BCA-Verse-Context-Summary",
     "4-SYSTEM/Skills/Obsidian Block IDs and Tibetan Root-Text Transclusions for Translations/SKILL.md",
     "3-TRANSFORMATIONS/Plans/37 Practice_bo/Day-6-MT-V-9-10.md",
     "3-TRANSFORMATIONS/Plans/37 Practice_bo/Day-2-MT-V-1-2.md",
@@ -323,9 +329,7 @@
     "1-SOURCES/Commentaries/thrangu_TG_bo_0.md",
     "1-SOURCES/Translations/LSDC14_TMZP_en.md",
     "1-SOURCES/Text/LSDC14_TMZP_bo.md.md",
-    "4-SYSTEM/Skills/Obsidian Block IDs and Tibetan Root-Text Transclusions for Translations/apply.py",
     "4-SYSTEM/Skills/Obsidian-Block-ID-to-Commentary/SKILL.md",
-    "4-SYSTEM/Skills/Obsidian Block IDs and Tibetan Root-Text Transclusions for Translations",
     "4-SYSTEM/Skills/Root-Text-Transclusion/SKILL.md",
     "4-SYSTEM/Skills/translation-frontmatter/SKILL 1.md",
     "4-SYSTEM/Skills/format-root-text/SKILL.md",
@@ -336,10 +340,6 @@
     "3-TRANSFORMATIONS/Plans/37 Practice_bo/Day-4-MT-V-5-6.md",
     "3-TRANSFORMATIONS/Plans/37 Practice_bo/Day-5-MT-V-7-8.md",
     "3-TRANSFORMATIONS/Plans/37 Practice_bo/Day-1-INTRO-V-1-2.md",
-    "3-TRANSFORMATIONS/Plans/About Plans.md",
-    "3-TRANSFORMATIONS/Plans/37 Practice_zh",
-    "bo-root-text.md",
-    "4-SYSTEM/Guidelines/skills-system.md",
     "Untitled.canvas"
   ]
 }
