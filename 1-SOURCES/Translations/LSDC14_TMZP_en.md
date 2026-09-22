@@ -330,7 +330,9 @@ Generate sublime bodhicitta, both relative and absolute,
 And through this, come to equal Lord Avalokiteśvara,  
 Transcending the extremes of existence and quiescence. ^2-4
 
-## Colophon ^A-0
+## Colophon ^a-0
+
+![[LSDC14_TMZP_bo.md#^a-1]]
 
 This was composed in Jewel Cave (Rinchen Puk) in Ngulchu by the monk Tokme, a teacher of scripture and reasoning, for his own and others’ benefit. ^2-5
 
