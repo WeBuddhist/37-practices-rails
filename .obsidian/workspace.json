@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5965a414e86178c2",
+        "id": "881e6f93268283de",
         "type": "tabs",
         "children": [
           {
-            "id": "84a4a5dc2ff65594",
+            "id": "3b482e5c6e5ca9b3",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -72,12 +72,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 236.57748413085938
   },
   "right": {
     "id": "08fb4a0a47ab3b49",
@@ -213,7 +212,7 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "84a4a5dc2ff65594",
+  "active": "eb2538ea3fa47051",
   "lastOpenFiles": [
     "1-SOURCES/Commentaries/LSDC20_TG_bo_1.md",
     "3-TRANSFORMATIONS/Plans/37 Practice_en/Day-1-INTRO-V-1-2.md",
