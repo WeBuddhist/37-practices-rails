@@ -11,10 +11,14 @@
             "id": "3b482e5c6e5ca9b3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "README"
             }
           }
         ]
@@ -154,6 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -212,8 +217,9 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "eb2538ea3fa47051",
+  "active": "3b482e5c6e5ca9b3",
   "lastOpenFiles": [
+    "bo-root-text.md",
     "1-SOURCES/Commentaries/LSDC20_TG_bo_1.md",
     "3-TRANSFORMATIONS/Plans/37 Practice_en/Day-1-INTRO-V-1-2.md",
     "1-SOURCES/Commentaries/thrangu_TG_bo_0.md",
@@ -249,7 +255,6 @@
     "4-SYSTEM/Skills/Obsidian Block IDs and Tibetan Root-Text Transclusions for Translations/SKILL.md",
     "3-TRANSFORMATIONS/Plans/37 Practice_bo/Day-2-MT-V-1-2.md",
     "4-SYSTEM/Skills/Obsidian-Block-ID-to-Commentary/SKILL.md",
-    "4-SYSTEM/Skills/Root-Text-Transclusion/SKILL.md",
     "Untitled.canvas"
   ]
 }
